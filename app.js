@@ -111,7 +111,16 @@ const ALL_MOVES = POKEMON_DATA.moves;
 const ALL_MOVE_INDICES = Array.from({ length: ALL_MOVES.length }, (_, i) => i);
 const ALL_ITEMS = POKEMON_DATA.items;
 const ALL_ITEM_INDICES = Array.from({ length: ALL_ITEMS.length }, (_, i) => i);
-const ITEM_ICON_INDICES = ALL_ITEMS.map((it, i) => (it.spriteUrl ? i : -1)).filter(i => i >= 0);
+
+// TMs, HMs, and the Scarlet/Violet crafting materials Pokemon drop when defeated all reuse
+// a small handful of generic icons (e.g. 260 different materials share just 2 sprites
+// between them), so guessing the exact item from its icon alone isn't a fair question for
+// these — excluded from the Item Icon pool only; they're still fair game for Item Quiz,
+// which goes by description text instead.
+const ITEM_ICON_EXCLUDED_CATEGORIES = ["technical-machines", "hidden-machines", "tm-materials"];
+const ITEM_ICON_INDICES = ALL_ITEMS
+  .map((it, i) => (it.spriteUrl && !ITEM_ICON_EXCLUDED_CATEGORIES.includes(it.category) ? i : -1))
+  .filter(i => i >= 0);
 
 const GROWTH_RATE_ITEMS = ["Erratic", "Fast", "Medium Fast", "Medium Slow", "Slow", "Fluctuating"]
   .map(name => ({ key: name, label: name }));
