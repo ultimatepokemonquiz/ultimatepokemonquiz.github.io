@@ -140,6 +140,13 @@ h1 {
   gap: 14px;
 }
 
+.daily-yesterday-box {
+  font-size: 0.9rem;
+  font-style: normal;
+  color: var(--muted);
+  border-color: var(--accent-2);
+}
+
 .daily-share-textarea {
   width: min(480px, 90%);
   min-height: 70px;

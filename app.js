@@ -1374,6 +1374,10 @@ qEl.btnNext.addEventListener("click", () => {
 
 const DAILY_QUESTION_COUNT = 10;
 const DAILY_STORAGE_KEY = "doTheyBreed.dailyChallenge";
+const DAILY_SCORE_HISTORY_KEY = "doTheyBreed.dailyScoreHistory";
+
+const SUPABASE_URL = "https://akafgvitcspshlzrexqq.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFrYWZndml0Y3Nwc2hsenJleHFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODUwODU2MTcsImV4cCI6MjEwMDY2MTYxN30.rFoEiSxp_6MG3IkCVg_-qG7Ykaf4sRlBJKVzHvtSTzI";
 
 function getPSTDateString(date) {
   return new Intl.DateTimeFormat("en-CA", {
@@ -1382,6 +1386,62 @@ function getPSTDateString(date) {
     month: "2-digit",
     day: "2-digit",
   }).format(date || new Date());
+}
+
+function getYesterdayPSTDateString() {
+  return getPSTDateString(new Date(Date.now() - 24 * 60 * 60 * 1000));
+}
+
+// This player's own daily-challenge scores, kept locally so "your score yesterday"
+// works even though Supabase has no concept of "this specific player."
+function loadScoreHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(DAILY_SCORE_HISTORY_KEY)) || {};
+  } catch (e) {
+    return {};
+  }
+}
+
+function saveScoreForDate(dateStr, score) {
+  const history = loadScoreHistory();
+  history[dateStr] = score;
+  localStorage.setItem(DAILY_SCORE_HISTORY_KEY, JSON.stringify(history));
+}
+
+function getScoreForDate(dateStr) {
+  const history = loadScoreHistory();
+  return Object.prototype.hasOwnProperty.call(history, dateStr) ? history[dateStr] : null;
+}
+
+// Cross-player average, via Supabase. Both calls are best-effort: a network hiccup
+// should never block or break the results screen, so failures resolve to null/no-op
+// rather than throwing.
+function submitDailyScore(dateStr, score) {
+  fetch(`${SUPABASE_URL}/rest/v1/daily_scores`, {
+    method: "POST",
+    headers: {
+      apikey: SUPABASE_ANON_KEY,
+      Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ challenge_date: dateStr, score }),
+  }).catch(() => {});
+}
+
+async function fetchAverageScoreForDate(dateStr) {
+  try {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/daily_scores?challenge_date=eq.${dateStr}&select=score`,
+      { headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` } }
+    );
+    if (!res.ok) return null;
+    const rows = await res.json();
+    if (!Array.isArray(rows) || rows.length === 0) return null;
+    const average = rows.reduce((sum, r) => sum + r.score, 0) / rows.length;
+    return { average, count: rows.length };
+  } catch (e) {
+    return null;
+  }
 }
 
 function generateDailyQuestions(dateStr) {
@@ -1465,6 +1525,9 @@ function advanceDaily() {
   if (dailyState.results.length >= DAILY_QUESTION_COUNT) {
     dailyState.completed = true;
     saveDailyState();
+    const score = dailyState.results.filter(Boolean).length;
+    saveScoreForDate(dailyState.date, score);
+    submitDailyScore(dailyState.date, score);
     renderDailyResults();
   } else {
     renderDailyQuestion();
@@ -1492,6 +1555,23 @@ function renderDailyResults() {
   box.className = "prompt-box";
   box.textContent = `You scored ${score}/${DAILY_QUESTION_COUNT} today!\n\n${emojiRow}\n\nCome back after midnight PST for a new challenge.`;
   qEl.pairing.appendChild(box);
+
+  const yesterdayStr = getYesterdayPSTDateString();
+  const yourYesterdayScore = getScoreForDate(yesterdayStr);
+  const yesterdayBox = document.createElement("div");
+  yesterdayBox.className = "prompt-box daily-yesterday-box";
+  yesterdayBox.textContent =
+    `Your score yesterday: ${yourYesterdayScore === null ? "you didn't play" : `${yourYesterdayScore}/${DAILY_QUESTION_COUNT}`}\n` +
+    "Average score yesterday: loading…";
+  qEl.pairing.appendChild(yesterdayBox);
+  fetchAverageScoreForDate(yesterdayStr).then(result => {
+    const averageLine = result
+      ? `Average score yesterday: ${result.average.toFixed(1)}/${DAILY_QUESTION_COUNT} (${result.count} player${result.count === 1 ? "" : "s"})`
+      : "Average score yesterday: no data yet";
+    yesterdayBox.textContent =
+      `Your score yesterday: ${yourYesterdayScore === null ? "you didn't play" : `${yourYesterdayScore}/${DAILY_QUESTION_COUNT}`}\n` +
+      averageLine;
+  });
 
   qEl.choices.className = "choices daily-share-choices";
   const shareText = buildDailyShareText();
