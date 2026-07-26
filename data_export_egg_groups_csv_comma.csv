@@ -1,0 +1,16 @@
+id,name,identifier,description,nr_of_pokemon_in_this_grp
+1,Monster,monster,Pokémon in this group are saurian/kaiju-like in appearance and nature.,111
+2,Water 1,water-1,Pokémon in this group are amphibious in nature.,140
+3,Bug,bug,Pokémon in this group are insectoid (bug-like) in appearance.,126
+4,Flying,flying,Pokémon in this group are avian (birdlike) in appearance.,92
+5,Field,field,"The largest group, Pokémon here are terrestrial in nature. In Stadium 2, this Egg Group was known as ""Ground"".",380
+6,Fairy,fairy,Pokémon in this group are petite and considered very cute.,113
+7,Grass,grass,"Pokémon in this group are plantlike in appearance. In Stadium 2, this Egg Group was known as ""Plant"".",102
+8,Human-Like,human-like,"Pokémon in this group are fully bipedal. In Stadium 2, this Egg Group was known as ""Humanshape"".",85
+9,Water 3,water-3,Pokémon in this group resemble aquatic invertebrates.,44
+10,Mineral,mineral,Pokémon in this group are inorganic in nature.,121
+11,Amorphous,amorphous," Pokémon in this group are amorphous, having no definite form. In Stadium 2, this Egg Group was known as ""Indeterminate"".",101
+12,Water 2,water-2,Pokémon in this group are piscine (fishlike) in appearance.,48
+13,Ditto,ditto,Only Ditto is in this group,1
+14,Dragon,dragon,Pokémon in this group are draconic in appearance.,94
+15,Undiscovered,undiscovered,"Pokémon in this group are unable to breed. In Stadium 2, this Egg Group was known as ""No eggs"".",288

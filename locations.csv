@@ -1,0 +1,840 @@
+identifier,name,type,region_area_identifier
+abandoned-ship,Abandoned Ship,Landmarks,hoenn
+abundant-shrine,Abundant Shrine,Landmarks,unova
+accumula-town,Accumula Town,Settlements,unova
+acuity-lakefront,Acuity Lakefront,Landmarks,sinnoh
+aether-house,Aether House,Landmarks,alola
+aether-paradise,Aether Paradise,Islands,alola
+aipom-hill,Aipom Hill,Cobalt Coastlands,hisui
+akala-outskirts,Akala Outskirts,Landmarks,alola
+alabaster-icelands,Alabaster Icelands,Alabaster Icelands,hisui
+alfornada-cavern,Alfornada Cavern,South Province,paldea
+alola-route-01,Alola Route 1,Routes,alola
+alola-route-02,Alola Route 2,Routes,alola
+alola-route-03,Alola Route 3,Routes,alola
+alola-route-04,Alola Route 4,Routes,alola
+alola-route-05,Alola Route 5,Routes,alola
+alola-route-06,Alola Route 6,Routes,alola
+alola-route-07,Alola Route 7,Routes,alola
+alola-route-08,Alola Route 8,Routes,alola
+alola-route-09,Alola Route 9,Routes,alola
+alola-route-10,Alola Route 10,Routes,alola
+alola-route-11,Alola Route 11,Routes,alola
+alola-route-12,Alola Route 12,Routes,alola
+alola-route-13,Alola Route 13,Routes,alola
+alola-route-14,Alola Route 14,Routes,alola
+alola-route-15,Alola Route 15,Routes,alola
+alola-route-16,Alola Route 16,Routes,alola
+alola-route-17,Alola Route 17,Routes,alola
+altar-of-the-moone,Altar of the Moone,Landmarks,alola
+altar-of-the-sunne,Altar of the Sunne,Landmarks,alola
+altering-cave-sevii-islands,Altering Cave (Sevii Islands),Landmarks,sevii-islands
+ambrette-town,Ambrette Town,Settlements,kalos
+ancient-poni-path,Ancient Poni Path,Landmarks,alola
+ancient-quarry,Ancient Quarry,Coronet Highlands,hisui
+ancient-retreat,Ancient Retreat,Landmarks,hisui
+ancient-tomb,Ancient Tomb,Landmarks,hoenn
+apple-hills,Apple Hills,Areas,kitakami
+aquacorde-town,Aquacorde Town,Settlements,kalos
+area-zero,Area Zero,Area Zero,paldea
+area-zero-underdepths,Area Zero Underdepths,Area Zero,paldea
+arenas-approach,Arena's Approach,Alabaster Icelands,hisui
+artisan-cave,Artisan Cave,Landmarks,hoenn
+asado-desert,Asado Desert,West Province,paldea
+aspertia-city,Aspertia City,Settlements,unova
+aspiration-hill,Aspiration Hill,Obsidian Fieldlands,hisui
+avalanche-slopes,Avalanche Slopes,Alabaster Icelands,hisui
+avaluggs-lagacy,Avalugg's Legacy,Alabaster Icelands,hisui
+axews-eye,Axew's Eye,Wild Areas,galar
+azalea-town,Azalea Town,Settlements,johto
+azure-bay,Azure Bay,Landmarks,kalos
+ballimere-lake,Ballimere Lake,The Crown Tundra,galar
+ballonlea,Ballonlea,Settlements,galar
+bathers-lagoon,Bathers' Lagoon,Cobalt Coastlands,hisui
+battle-frontier-hoenn,Battle Frontier (Hoenn),Settlements,hoenn
+battle-frontier-johto,Battle Frontier (Johto),Settlements,johto
+battle-frontier-sinnoh,Battle Frontier (Sinnoh),Settlements,sinnoh
+battle-park-sinnoh,Battle Park (Sinnoh),Landmarks,sinnoh
+battle-resort,Battle Resort,Settlements,hoenn
+battle-tower-galar,Battle Tower (Galar),Landmarks,galar
+battle-tower-hoenn,Battle Tower (Hoenn),Landmarks,hoenn
+battle-tower-sinnoh,Battle Tower (Sinnoh),Landmarks,sinnoh
+battle-tree,Battle Tree,Landmarks,alola
+bell-tower,Bell Tower,Landmarks,johto
+berry-fields-kalos,Berry Fields (Kalos),Landmarks,kalos
+berry-forest,Berry Forest,Landmarks,sevii-islands
+big-bluff-cavern,Big Bluff Cavern,Grand Underground Hideaways,sinnoh
+birth-island,Birth Island,Landmarks,sevii-islands
+black-city,Black City,Settlements,unova
+blackthorn-city,Blackthorn City,Settlements,johto
+blueberry-academy,Blueberry Academy,Settlements,kitakami
+blush-mountain,Blush Mountain,Landmarks,alola
+bogsunk-cavern,Bogsunk Cavern,Grand Underground Hideaways,sinnoh
+bolderoll-ravine,Bolderoll Ravine,Coronet Highlands,hisui
+bolderoll-slope,Bolderoll Slope,Crimson Mirelands,hisui
+bond-bridge,Bond Bridge,Routes,sevii-islands
+bonechill-wastes,Bonechill Wastes,Alabaster Icelands,hisui
+brava-arena,Brava Arena,Crimson Mirelands,hisui
+brawlers-cave,Brawler's Cave,The Isle of Armor,galar
+bridge-field,Bridge Field,Wild Areas,galar
+brooklet-hill,Brooklet Hill,Trial Sites,alola
+burned-tower,Burned Tower,Landmarks,johto
+cabo-poco,Cabo Poco,South Province,paldea
+camphrier-town,Camphrier Town,Settlements,kalos
+canalave-city,Canalave City,Settlements,sinnoh
+canyon-biome,Canyon Biome,Biomes,blueberry-academy
+canyon-entrance,Canyon Entrance,Routes,sevii-islands
+cape-brink,Cape Brink,Routes,sevii-islands
+cascarrafa,Cascarrafa,West Province,paldea
+casseroya-lake,Casseroya Lake,North Province,paldea
+castaway-shore,Castaway Shore,Cobalt Coastlands,hisui
+castelia-city,Castelia City,Settlements,unova
+castelia-sewers,Castelia Sewers,Landmarks,unova
+cave-of-origin,Cave of Origin,Landmarks,hoenn
+celadon-city,Celadon City,Settlements,kanto
+celestial-tower,Celestial Tower,Landmarks,unova
+celestic-town,Celestic Town,Settlements,sinnoh
+celestica-ruins,Celestica Ruins,Coronet Highlands,hisui
+celestica-trail,Celestica Trail,Coronet Highlands,hisui
+central-plaza,Central Plaza,Landmarks,kitakami
+cerulean-cave,Cerulean Cave,Landmarks,kanto
+cerulean-city,Cerulean City,Settlements,kanto
+challenge-beach,Challenge Beach,The Isle of Armor,galar
+challenge-road,Challenge Road,The Isle of Armor,galar
+challengers-cave,Challenger's Cave,Landmarks,unova
+chargestone-cave,Chargestone Cave,Landmarks,unova
+chargestone-cavern,Chargestone Cavern,Caves,blueberry-academy
+cherrygrove-city,Cherrygrove City,Settlements,johto
+chilling-waterhead,Chilling Waterhead,Areas,kitakami
+cianwood-city,Cianwood City,Settlements,johto
+cinnabar-island,Cinnabar Island,Settlements,kanto
+cinnabar-lab,Cinnabar Lab,Landmarks,kanto
+circhester,Circhester,Settlements,galar
+clamberclaw-cliffs,Clamberclaw Cliffs,Coronet Highlands,hisui
+clay-tunnel,Clay Tunnel,Landmarks,unova
+cliff-cave,Cliff Cave,Landmarks,johto
+cliff-edge-gate,Cliff Edge Gate,Landmarks,johto
+cloudcap-pass,Cloudcap Pass,Coronet Highlands,hisui
+cloudpool-ridge,Cloudpool Ridge,Crimson Mirelands,hisui
+coastal-biome,Coastal Biome,Biomes,blueberry-academy
+cobalt-coastlands,Cobalt Coastlands,Cobalt Coastlands,hisui
+cold-storage,Cold Storage,Landmarks,unova
+colonnade-hollow,Colonnade Hollow,Landmarks,paldea
+connecting-cave,Connecting Cave,Landmarks,kalos
+contest-hall,Contest Hall,Landmarks,hoenn
+coronet-highlands,Coronet Highlands,Coronet Highlands,hisui
+cortondo,Cortondo,South Province,paldea
+cottonsedge-prairie,Cottonsedge Prairie,Crimson Mirelands,hisui
+coumarine-city,Coumarine City,Settlements,kalos
+courageous-cavern,Courageous Cavern,The Isle of Armor,galar
+couriway-town,Couriway Town,Settlements,kalos
+crescent-isle,Crescent Isle,Mirage Spots,hoenn
+crevasse-passage,Crevasse Passage,Alabaster Icelands,hisui
+crimson-mirelands,Crimson Mirelands,Crimson Mirelands,hisui
+crossing-slope,Crossing Slope,Cobalt Coastlands,hisui
+crown-shrine,Crown Shrine,The Crown Tundra,galar
+crystal-pool,Crystal Pool,Areas,kitakami
+cyllage-city,Cyllage City,Settlements,kalos
+dalizapa-passage,Dalizapa Passage,North Province,paldea
+dappled-grove,Dappled Grove,Wild Areas,galar
+dark-cave,Dark Cave,Landmarks,johto
+dazzling-cave,Dazzling Cave,Grand Underground Hideaways,sinnoh
+deadwood-haunt,Deadwood Haunt,Cobalt Coastlands,hisui
+deertrack-heights,Deertrack Heights,Obsidian Fieldlands,hisui
+deertrack-path,Deertrack Path,Obsidian Fieldlands,hisui
+desert-resort,Desert Resort,Landmarks,unova
+desert-ruins,Desert Ruins,Landmarks,hoenn
+desert-underpass,Desert Underpass,Landmarks,hoenn
+devon-corporation,Devon Corporation,Landmarks,hoenn
+dewford-town,Dewford Town,Settlements,hoenn
+diamond-heath,Diamond Heath,Crimson Mirelands,hisui
+diamond-settlement,Diamond Settlement,Settlements,hisui
+digletts-cave,Diglett's Cave,Landmarks,kanto
+digletts-tunnel,Diglett's Tunnel,Landmarks,alola
+distortion-world,Distortion World,Landmarks,sinnoh
+dividing-peak-tunnel,Dividing Peak Tunnel,Landmarks,alola
+dragons-den,Dragon's Den,Landmarks,johto
+dragonspiral-tower,Dragonspiral Tower,Landmarks,unova
+dreamyard,Dreamyard,Landmarks,unova
+driftveil-city,Driftveil City,Settlements,unova
+driftveil-drawbridge,Driftveil Drawbridge,Bridges or Tunnels,unova
+droning-meadow,Droning Meadow,Crimson Mirelands,hisui
+dusty-bowl,Dusty Bowl,Wild Areas,galar
+dyna-tree-hill,Dyna Tree Hill,The Crown Tundra,galar
+east-lake-axewell,East Lake Axewell,Wild Areas,galar
+east-paldean-sea,East Paldean Sea,East Province,paldea
+east-province-area-one,Area One (East Province),East Province,paldea
+east-province-area-three,Area Three (East Province),East Province,paldea
+east-province-area-two,Area Two (East Province),East Province,paldea
+ecruteak-city,Ecruteak City,Settlements,johto
+embedded-tower,Embedded Tower,Landmarks,johto
+entralink,Entralink,Landmarks,unova
+eterna-city,Eterna City,Settlements,sinnoh
+eterna-condominiums,Eterna Condominiums,Landmarks,sinnoh
+eterna-forest,Eterna Forest,Landmarks,sinnoh
+ever-grande-city,Ever Grande City,Settlements,hoenn
+exeggutor-island,Exeggutor Island,Trial Sites,alola
+fabled-cave,Fabled Cave,Mirage Spots,hoenn
+fabled-spring,Fabled Spring,Coronet Highlands,hisui
+fallarbor-town,Fallarbor Town,Settlements,hoenn
+faraway-island,Faraway Island,Areas,hoenn
+fellhorn-gorge,Fellhorn Gorge,Areas,kitakami
+festival-plaza,Festival Plaza,Cyberspace,alola
+fields-of-honor,Fields of Honor,The Isle of Armor,galar
+fiery-path,Fiery Path,Landmarks,hoenn
+fight-area,Fight Area,Battle Zone,sinnoh
+fighting-dojo,Fighting Dojo,Landmarks,kanto
+firescourge-shrine,Firescourge Shrine,Landmarks,paldea
+firespit-island,Firespit Island,Cobalt Coastlands,hisui
+five-island,Five Island,Settlements,sevii-islands
+five-isle-meadow,Five Isle Meadow,Routes,sevii-islands
+floaro-gardens,Floaro Gardens,Obsidian Fieldlands,hisui
+floaroma-town,Floaroma Town,Settlements,sinnoh
+floccesy-ranch,Floccesy Ranch,Landmarks,unova
+floccesy-town,Floccesy Town,Settlements,unova
+flower-paradise,Flower Paradise,Landmarks,sinnoh
+forest-of-focus,Forest of Focus,The Isle of Armor,galar
+fortree-city,Fortree City,Settlements,hoenn
+fountainspring-cave,Fountainspring Cave,Grand Underground Hideaways,sinnoh
+four-island,Four Island,Settlements,sevii-islands
+freezington,Freezington,The Crown Tundra,galar
+friend-safari,Friend Safari,Landmarks,kalos
+frigid-sea,Frigid Sea,The Crown Tundra,galar
+frost-cavern,Frost Cavern,Landmarks,kalos
+frostpoint-field,Frostpoint Field,The Crown Tundra,galar
+fuchsia-city,Fuchsia City,Settlements,kanto
+fuego-ironworks,Fuego Ironworks,Landmarks,sinnoh
+fullmoon-island,Fullmoon Island,Landmarks,sinnoh
+galar-mine,Galar Mine,Landmarks,galar
+galar-mine-no-2,Galar Mine No 2,Landmarks,galar
+galar-route-01,Galar Route 1,Routes,galar
+galar-route-02,Galar Route 2,Routes,galar
+galar-route-03,Galar Route 3,Routes,galar
+galar-route-04,Galar Route 4,Routes,galar
+galar-route-05,Galar Route 5,Routes,galar
+galar-route-06,Galar Route 6,Routes,galar
+galar-route-07,Galar Route 7,Routes,galar
+galar-route-08,Galar Route 8,Routes,galar
+galar-route-09,Galar Route 9,Routes,galar
+galar-route-10,Galar Route 10,Routes,galar
+gapejaw-bog,Gapejaw Bog,Crimson Mirelands,hisui
+geosenge-town,Geosenge Town,Settlements,kalos
+giant-chasm,Giant Chasm,Landmarks,unova
+giants-bed,Giant's Bed,The Crown Tundra,galar
+giants-cap,Giant's Cap,Wild Areas,galar
+giants-foot,Giant's Foot,The Crown Tundra,galar
+giants-mirror,Giant's Mirror,Wild Areas,galar
+giants-seat,Giant's Seat,Wild Areas,galar
+gingko-landing,Gingko Landing,Landmarks,hisui
+ginkgo-landing,Ginkgo Landing,Cobalt Coastlands,hisui
+glacial-cavern,Glacial Cavern,Grand Underground Hideaways,sinnoh
+glacier-terrace,Glacier Terrace,Alabaster Icelands,hisui
+glaseado-mountain,Glaseado Mountain,North Province,paldea
+glimwood-tangle,Glimwood Tangle,Landmarks,galar
+glittering-cave,Glittering Cave,Landmarks,kalos
+gnarled-den,Gnarled Den,Mirage Spots,hoenn
+golden-lowlands,Golden Lowlands,Crimson Mirelands,hisui
+goldenrod-city,Goldenrod City,Settlements,johto
+grand-meteor-delta,Grand Meteor Delta,Landmarks,hoenn
+grandtree-arena,Grandtree Arena,Obsidian Fieldlands,hisui
+granite-cave,Granite Cave,Landmarks,hoenn
+grassland-cave,Grassland Cave,Grand Underground Hideaways,sinnoh
+grasswither-shrine,Grasswither Shrine,Landmarks,paldea
+great-crater-of-paldea,Great Crater of Paldea,Central Area,paldea
+great-marsh,Great Marsh,Landmarks,sinnoh
+green-path,Green Path,Routes,sevii-islands
+groundblight-shrine,Groundblight Shrine,Landmarks,paldea
+grueling-grove,Grueling Grove,Obsidian Fieldlands,hisui
+haina-desert,Haina Desert,Landmarks,alola
+hall-of-origin,Hall of Origin,Landmarks,sinnoh
+hammerlocke,Hammerlocke,Settlements,galar
+hammerlocke-hills,Hammerlocke Hills,Wild Areas,galar
+hano-beach,Hano Beach,Landmarks,alola
+hano-grand-resort,Hano Grand Resort,Settlements,alola
+hauoli-cemetery,Hau'oli Cemetery,Landmarks,alola
+hauoli-city,Hau'oli City,Settlements,alola
+heahea-beach,Heahea Beach,Landmarks,alola
+heahea-city,Heahea City,Settlements,alola
+hearthome-city,Hearthome City,Settlements,sinnoh
+hearts-crag,Heart's Crag,Alabaster Icelands,hisui
+heavenward-lookout,Heavenward Lookout,Coronet Highlands,hisui
+hideaway-bay,Hideaway Bay,Cobalt Coastlands,hisui
+hoenn-route-101,Hoenn Route 101,Routes,hoenn
+hoenn-route-102,Hoenn Route 102,Routes,hoenn
+hoenn-route-103,Hoenn Route 103,Routes,hoenn
+hoenn-route-104,Hoenn Route 104,Routes,hoenn
+hoenn-route-105,Hoenn Route 105,Routes,hoenn
+hoenn-route-106,Hoenn Route 106,Routes,hoenn
+hoenn-route-107,Hoenn Route 107,Routes,hoenn
+hoenn-route-108,Hoenn Route 108,Routes,hoenn
+hoenn-route-109,Hoenn Route 109,Routes,hoenn
+hoenn-route-110,Hoenn Route 110,Routes,hoenn
+hoenn-route-111,Hoenn Route 111,Routes,hoenn
+hoenn-route-112,Hoenn Route 112,Routes,hoenn
+hoenn-route-113,Hoenn Route 113,Routes,hoenn
+hoenn-route-114,Hoenn Route 114,Routes,hoenn
+hoenn-route-115,Hoenn Route 115,Routes,hoenn
+hoenn-route-116,Hoenn Route 116,Routes,hoenn
+hoenn-route-117,Hoenn Route 117,Routes,hoenn
+hoenn-route-118,Hoenn Route 118,Routes,hoenn
+hoenn-route-119,Hoenn Route 119,Routes,hoenn
+hoenn-route-120,Hoenn Route 120,Routes,hoenn
+hoenn-route-121,Hoenn Route 121,Routes,hoenn
+hoenn-route-122,Hoenn Route 122,Routes,hoenn
+hoenn-route-123,Hoenn Route 123,Routes,hoenn
+hoenn-route-124,Hoenn Route 124,Routes,hoenn
+hoenn-route-125,Hoenn Route 125,Routes,hoenn
+hoenn-route-126,Hoenn Route 126,Routes,hoenn
+hoenn-route-127,Hoenn Route 127,Routes,hoenn
+hoenn-route-128,Hoenn Route 128,Routes,hoenn
+hoenn-route-129,Hoenn Route 129,Routes,hoenn
+hoenn-route-130,Hoenn Route 130,Routes,hoenn
+hoenn-route-131,Hoenn Route 131,Routes,hoenn
+hoenn-route-132,Hoenn Route 132,Routes,hoenn
+hoenn-route-133,Hoenn Route 133,Routes,hoenn
+hoenn-route-134,Hoenn Route 134,Routes,hoenn
+holm-of-trials,Holm of Trials,Crimson Mirelands,hisui
+honeycalm-island,Honeycalm Island,The Isle of Armor,galar
+honeycalm-sea,Honeycalm Sea,The Isle of Armor,galar
+horseshoe-plains,Horseshoe Plains,Obsidian Fieldlands,hisui
+hulbury,Hulbury,Settlements,galar
+humilau-city,Humilau City,Settlements,unova
+hyperspace-lumiose,Hyperspace Lumiose,Landmarks,kalos
+ice-column-chamber,Ice Column Chamber,Alabaster Icelands,hisui
+ice-path,Ice Path,Landmarks,johto
+iceberg-ruins-galar,Iceberg Ruins (Galar),The Crown Tundra,galar
+iceberg-ruins-sinnoh,Iceberg Ruins (Sinnoh),Landmarks,sinnoh
+icebound-falls,Icebound Falls,Alabaster Icelands,hisui
+icefall-cave,Icefall Cave,Landmarks,sevii-islands
+icepeak-arena,Icepeak Arena,Alabaster Icelands,hisui
+icepeak-cavern,Icepeak Cavern,Alabaster Icelands,hisui
+icerend-shrine,Icerend Shrine,Landmarks,paldea
+icirrus-city,Icirrus City,Settlements,unova
+icy-cave,Icy Cave,Grand Underground Hideaways,sinnoh
+iki-town,Iki Town,Settlements,alola
+ilex-forest,Ilex Forest,Landmarks,johto
+indigo-plateau,Indigo Plateau,Settlements,kanto
+infernal-pass,Infernal Pass,Areas,kitakami
+inlet-grotto,Inlet Grotto,South Province,paldea
+insular-sea,Insular Sea,The Isle of Armor,galar
+iron-island,Iron Island,Landmarks,sinnoh
+iron-ruins-galar,Iron Ruins (Galar),The Crown Tundra,galar
+iron-ruins-sinnoh,Iron Ruins (Sinnoh),Landmarks,sinnoh
+island-cave,Island Cave,Landmarks,hoenn
+islespy-shore,Islespy Shore,Cobalt Coastlands,hisui
+jagged-pass,Jagged Pass,Landmarks,hoenn
+join-avenue,Join Avenue,Landmarks,unova
+jubilife-city,Jubilife City,Settlements,sinnoh
+jubilife-village,Jubilife Village,Settlements,hisui
+kalae-bay,Kala'e Bay,Landmarks,alola
+kalos-route-02,Kalos Route 2,Routes,kalos
+kalos-route-03,Kalos Route 3,Routes,kalos
+kalos-route-04,Kalos Route 4,Routes,kalos
+kalos-route-05,Kalos Route 5,Routes,kalos
+kalos-route-06,Kalos Route 6,Routes,kalos
+kalos-route-07,Kalos Route 7,Routes,kalos
+kalos-route-08,Kalos Route 8,Routes,kalos
+kalos-route-09,Kalos Route 9,Routes,kalos
+kalos-route-10,Kalos Route 10,Routes,kalos
+kalos-route-11,Kalos Route 11,Routes,kalos
+kalos-route-12,Kalos Route 12,Routes,kalos
+kalos-route-13,Kalos Route 13,Routes,kalos
+kalos-route-14,Kalos Route 14,Routes,kalos
+kalos-route-15,Kalos Route 15,Routes,kalos
+kalos-route-16,Kalos Route 16,Routes,kalos
+kalos-route-17,Kalos Route 17,Routes,kalos
+kalos-route-18,Kalos Route 18,Routes,kalos
+kalos-route-19,Kalos Route 19,Routes,kalos
+kalos-route-20,Kalos Route 20,Routes,kalos
+kalos-route-21,Kalos Route 21,Routes,kalos
+kalos-route-22,Kalos Route 22,Routes,kalos
+kiloude-city,Kiloude City,Settlements,kalos
+kindle-road,Kindle Road,Routes,sevii-islands
+kitakami-hall,Kitakami Hall,Settlements,kitakami
+kitakami-road,Kitakami Road,Areas,kitakami
+kitakami-wilds,Kitakami Wilds,Areas,kitakami
+konikoni-city,Konikoni City,Settlements,alola
+lacunosa-town,Lacunosa Town,Settlements,unova
+lake-acuity-hisui,Lake Acuity,Alabaster Icelands,hisui
+lake-acuity-sinnoh,Lake Acuity,Landmarks,sinnoh
+lake-of-outrage,Lake of Outrage,Wild Areas,galar
+lake-of-rage,Lake of Rage,Landmarks,johto
+lake-of-the-moone,Lake of the Moone,Landmarks,alola
+lake-of-the-sunne,Lake of the Sunne,Landmarks,alola
+lake-valor-hisui,Lake Valor,Crimson Mirelands,hisui
+lake-valor-sinnoh,Lake Valor,Landmarks,sinnoh
+lake-verity-hisui,Lake Verity,Obsidian Fieldlands,hisui
+lake-verity-sinnoh,Lake Verity,Landmarks,sinnoh
+lakeside-cave,Lakeside Cave,The Crown Tundra,galar
+lava-dome-sanctum,Lava Dome Sanctum,Cobalt Coastlands,hisui
+lavaridge-town,Lavaridge Town,Settlements,hoenn
+lavender-town,Lavender Town,Settlements,kanto
+laverre-city,Laverre City,Settlements,kalos
+levincia,Levincia,East Province,paldea
+liberty-garden,Liberty Garden,Landmarks,unova
+lilycove-city,Lilycove City,Settlements,hoenn
+littleroot-town,Littleroot Town,Settlements,hoenn
+lonely-spring,Lonely Spring,Coronet Highlands,hisui
+loop-lagoon,Loop Lagoon,The Isle of Armor,galar
+lost-cave,Lost Cave,Landmarks,sevii-islands
+lost-hotel,Lost Hotel,Landmarks,kalos
+lost-tower,Lost Tower,Landmarks,sinnoh
+lostlorn-forest,Lostlorn Forest,Landmarks,unova
+loyalty-plaza,Loyalty Plaza,Areas,kitakami
+lumiose-city,Lumiose City,Settlements,kalos
+lunkers-lair,Lunkers Lair,Cobalt Coastlands,hisui
+lush-jungle,Lush Jungle,Trial Sites,alola
+magma-hideout-jagged-pass,Magma Hideout (Jagged Pass),Landmarks,hoenn
+mahalo-trail,Mahalo Trail,Landmarks,alola
+mahogany-town,Mahogany Town,Settlements,johto
+malie-city,Malie City,Settlements,alola
+malie-garden,Malie Garden,Landmarks,alola
+maniac-tunnel,Maniac Tunnel,Landmarks,sinnoh
+marine-cave,Marine Cave,Landmarks,hoenn
+marvelous-bridge,Marvelous Bridge,Bridges or Tunnels,unova
+master-dojo,Master Dojo,The Isle of Armor,galar
+mauville-city,Mauville City,Settlements,hoenn
+max-lair,Max Lair,The Crown Tundra,galar
+medali,Medali,Settlements,paldea
+meetup-spot,Meetup Spot,Wild Areas,galar
+megalo-tower,Megalo Tower,Ultra Space,alola
+melemele-meadow,Melemele Meadow,Landmarks,alola
+melemele-sea,Melemele Sea,Landmarks,alola
+memorial-hill,Memorial Hill,Landmarks,alola
+memorial-pillar,Memorial Pillar,Routes,sevii-islands
+mesagoza,Mesagoza,South Province,paldea
+meteor-falls,Meteor Falls,Landmarks,hoenn
+mirage-cave,Mirage Cave,Mirage Spots,hoenn
+mirage-forest,Mirage Forest,Mirage Spots,hoenn
+mirage-island,Mirage Island,Landmarks,hoenn
+mirage-mountain,Mirage Mountain,Mirage Spots,hoenn
+mirage-tower,Mirage Tower,Landmarks,hoenn
+mistralton-cave,Mistralton Cave,Landmarks,unova
+mistralton-city,Mistralton City,Settlements,unova
+molten-arena,Molten Arena,Landmarks,hisui
+montenevera,Montenevera,Settlements,paldea
+moomoo-farm,Moomoo Farm,Landmarks,johto
+moonview-arena,Moonview Arena,Coronet Highlands,hisui
+moor-of-icirrus,Moor of Icirrus,Landmarks,unova
+mossdeep-city,Mossdeep City,Settlements,hoenn
+mossdeep-space-center,Mossdeep Space Center,Landmarks,hoenn
+mossfell-confluence,Mossfell Confluence,Areas,kitakami
+mossui-town,Mossui Town,Settlements,kitakami
+motostoke,Motostoke,Settlements,galar
+motostoke-outskirts,Motostoke Outskirts,Landmarks,galar
+motostoke-riverbank,Motostoke Riverbank,Wild Areas,galar
+mount-coronet,Mount Coronet,Landmarks,sinnoh
+mount-hokulani,Mount Hokulani,Landmarks,alola
+mount-lanakila,Mount Lanakila,Landmarks,alola
+mt-chimney,Mt. Chimney,Landmarks,hoenn
+mt-ember,Mt. Ember,Landmarks,sevii-islands
+mt-moon,Mt. Moon,Landmarks,kanto
+mt-moon-square,Mt. Moon (Square),Landmarks,kanto
+mt-mortar,Mt. Mortar,Landmarks,johto
+mt-pyre,Mt. Pyre,Landmarks,hoenn
+mt-silver,Mt. Silver,Landmarks,johto
+mt-silver-cave,Mt. Silver (Cave),Landmarks,johto
+nacrene-city,Nacrene City,Settlements,unova
+nameless-cavern,Nameless Cavern,Mirage Spots,hoenn
+naranja-academy,Naranja Academy,South Province,paldea
+national-park,National Park,Landmarks,johto
+nature-preserve,Nature Preserve,Wild Areas,unova
+natures-pantry,Nature's Pantry,Obsidian Fieldlands,hisui
+navel-rock,Navel Rock,Landmarks,sevii-islands
+new-bark-town,New Bark Town,Settlements,johto
+new-mauville,New Mauville,Landmarks,hoenn
+newmoon-island,Newmoon Island,Landmarks,sinnoh
+nimbasa-city,Nimbasa City,Settlements,unova
+north-lake-miloch,North Lake Miloch,Wild Areas,galar
+north-paldean-sea,North Paldean Sea,North Province,paldea
+north-province-area-one,Area One (North Province),North Province,paldea
+north-province-area-three,Area Three (North Province),North Province,paldea
+north-province-area-two,Area Two (North Province),North Province,paldea
+ns-castle,N's Castle,Landmarks,unova
+nuvema-town,Nuvema Town,Settlements,unova
+obsidian-falls,Obsidian Falls,Obsidian Fieldlands,hisui
+obsidian-fieldlands,Obsidian Fieldlands,Obsidian Fieldlands,hisui
+old-cemetery,Old Cemetery,The Crown Tundra,galar
+old-chateau,Old Chateau,Landmarks,sinnoh
+olivine-city,Olivine City,Settlements,johto
+olivine-city-port,Olivine City Port,Landmarks,johto
+one-island,One Island,Settlements,sevii-islands
+oni-mountain,Oni Mountain,Areas,kitakami
+onis-maw,Oni's Maw,Areas,kitakami
+opelucid-city,Opelucid City,Settlements,unova
+oreburgh-city,Oreburgh City,Settlements,sinnoh
+oreburgh-gate,Oreburgh Gate,Landmarks,sinnoh
+oreburgh-mine,Oreburgh Mine,Landmarks,sinnoh
+oreburgh-mining-museum,Oreburgh Mining Museum,Landmarks,sinnoh
+oreburrow-tunnel,Oreburrow Tunnel,Obsidian Fieldlands,hisui
+outcast-island,Outcast Island,Routes,sevii-islands
+p2-laboratory,P2 Laboratory,Landmarks,unova
+pacifidlog-town,Pacifidlog Town,Settlements,hoenn
+pallet-town,Pallet Town,Settlements,kanto
+paniola-ranch,Paniola Ranch,Landmarks,alola
+paniola-town,Paniola Town,Settlements,alola
+paradise-barrens,Paradise Barrens,Areas,kitakami
+parfum-palace,Parfum Palace,Landmarks,kalos
+parfume-palace,Parfume Palace,Landmarks,kalos
+pastoria-city,Pastoria City,Settlements,sinnoh
+path-to-the-peak,Path to the Peak,The Crown Tundra,galar
+pathless-plain,Pathless Plain,Mirage Spots,hoenn
+pattern-bush,Pattern Bush,Landmarks,sevii-islands
+pearl-settlement,Pearl Settlement,Settlements,hisui
+petalburg-city,Petalburg City,Settlements,hoenn
+petalburg-woods,Petalburg Woods,Landmarks,hoenn
+pewter-city,Pewter City,Settlements,kanto
+pewter-museum-of-science,Pewter Museum of Science,Landmarks,kanto
+pikachu-valley,Pikachu Valley,Landmarks,alola
+pinwheel-forest,Pinwheel Forest,Landmarks,unova
+po-town,Po Town,Settlements,alola
+poco-path,Poco Path,South Province,paldea
+pokeathlon-dome,Pokéathlon Dome,Landmarks,johto
+pokemon-league-kalos,Pokémon League (Kalos),Landmarks,kalos
+pokemon-league-paldea,Pokémon League (Paldea),South Province,paldea
+pokemon-league-sinnoh,Pokémon League (Sinnoh),Settlements,sinnoh
+pokemon-mansion-kanto,Pokémon Mansion (Kanto),Landmarks,kanto
+pokemon-mansion-sinnoh,Pokémon Mansion (Sinnoh),Landmarks,sinnoh
+pokemon-network-center,Pokémon Network Center,Landmarks,sevii-islands
+pokemon-tower,Pokémon Tower,Landmarks,kanto
+pokemon-village,Pokémon Village,Landmarks,kalos
+pokemon-world-tournament,Pokémon World Tournament,Landmarks,unova
+pokestar-studios,Pokéstar Studios,Landmarks,unova
+polar-biome,Polar Biome,Biomes,blueberry-academy
+poni-breaker-coast,Poni Breaker Coast,Landmarks,alola
+poni-coast,Poni Coast,Landmarks,alola
+poni-gauntlet,Poni Gauntlet,Landmarks,alola
+poni-grove,Poni Grove,Landmarks,alola
+poni-meadow,Poni Meadow,Landmarks,alola
+poni-plains,Poni Plains,Landmarks,alola
+poni-wilds,Poni Wilds,Landmarks,alola
+porto-marinada,Porto Marinada,West Province,paldea
+postwick,Postwick,Settlements,galar
+potbottom-desert,Potbottom Desert,The Isle of Armor,galar
+power-plant,Power Plant,Landmarks,kanto
+primeval-grotto,Primeval Grotto,Coronet Highlands,hisui
+professor-oaks-laboratory,Professor Oak's Laboratory,Landmarks,kanto
+ramanas-island,Ramanas Island,Obsidian Fieldlands,hisui
+ramanas-park,Ramanas Park,Landmarks,sinnoh
+random-around-kitakami,Random (Around Kitakami),Areas,kitakami
+random-around-paldea,Random (Around Paldea),Areas,paldea
+random-around-terrarium,Random (Around the Terrarium),Areas,blueberry-academy
+ravaged-path,Ravaged Path,Landmarks,sinnoh
+reflection-cave,Reflection Cave,Landmarks,kalos
+relic-castle,Relic Castle,Landmarks,unova
+relic-passage,Relic Passage,Landmarks,unova
+resolution-cave,Resolution Cave,Landmarks,alola
+resort-area,Resort Area,Settlements,sinnoh
+resort-gorgeous,Resort Gorgeous,Routes,sevii-islands
+revelers-road,Reveler's Road,Areas,kitakami
+reversal-mountain,Reversal Mountain,Landmarks,unova
+riverbank-cave,Riverbank Cave,Grand Underground Hideaways,sinnoh
+roaring-sea-caves,Roaring Sea Caves,The Crown Tundra,galar
+rock-peak-ruins-galar,Rock Peak Ruins (Galar),The Crown Tundra,galar
+rock-peak-ruins-sinnoh,Rock Peak Ruins (Sinnoh),Landmarks,sinnoh
+rock-tunnel,Rock Tunnel,Landmarks,kanto
+rocky-cave,Rocky Cave,Grand Underground Hideaways,sinnoh
+rolling-fields,Rolling Fields,Wild Areas,galar
+route-01-kanto,Kanto Route 1,Routes,kanto
+route-02-kanto,Kanto Route 2,Routes,kanto
+route-03-kanto,Kanto Route 3,Routes,kanto
+route-04-kanto,Kanto Route 4,Routes,kanto
+route-05-kanto,Kanto Route 5,Routes,kanto
+route-06-kanto,Kanto Route 6,Routes,kanto
+route-07-kanto,Kanto Route 7,Routes,kanto
+route-08-kanto,Kanto Route 8,Routes,kanto
+route-09-kanto,Kanto Route 9,Routes,kanto
+route-10-kanto,Kanto Route 10,Routes,kanto
+route-11-kanto,Kanto Route 11,Routes,kanto
+route-12-kanto,Kanto Route 12,Routes,kanto
+route-13-kanto,Kanto Route 13,Routes,kanto
+route-14-kanto,Kanto Route 14,Routes,kanto
+route-15-kanto,Kanto Route 15,Routes,kanto
+route-16-kanto,Kanto Route 16,Routes,kanto
+route-17-kanto,Kanto Route 17,Routes,kanto
+route-18-kanto,Kanto Route 18,Routes,kanto
+route-19-kanto,Kanto Route 19,Routes,kanto
+route-20-kanto,Kanto Route 20,Routes,kanto
+route-201-sinnoh,Sinnoh Route 201,Routes,sinnoh
+route-202-sinnoh,Sinnoh Route 202,Routes,sinnoh
+route-203-sinnoh,Sinnoh Route 203,Routes,sinnoh
+route-204-sinnoh,Sinnoh Route 204,Routes,sinnoh
+route-205-sinnoh,Sinnoh Route 205,Routes,sinnoh
+route-206-sinnoh,Sinnoh Route 206,Routes,sinnoh
+route-207-sinnoh,Sinnoh Route 207,Routes,sinnoh
+route-208-sinnoh,Sinnoh Route 208,Routes,sinnoh
+route-209-sinnoh,Sinnoh Route 209,Routes,sinnoh
+route-21-kanto,Kanto Route 21,Routes,kanto
+route-210-sinnoh,Sinnoh Route 210,Routes,sinnoh
+route-211-sinnoh,Sinnoh Route 211,Routes,sinnoh
+route-212-sinnoh,Sinnoh Route 212,Routes,sinnoh
+route-213-sinnoh,Sinnoh Route 213,Routes,sinnoh
+route-214-sinnoh,Sinnoh Route 214,Routes,sinnoh
+route-215-sinnoh,Sinnoh Route 215,Routes,sinnoh
+route-216-sinnoh,Sinnoh Route 216,Routes,sinnoh
+route-217-sinnoh,Sinnoh Route 217,Routes,sinnoh
+route-218-sinnoh,Sinnoh Route 218,Routes,sinnoh
+route-219-sinnoh,Sinnoh Route 219,Routes,sinnoh
+route-22-kanto,Kanto Route 22,Routes,kanto
+route-220-sinnoh,Sinnoh Route 220,Routes,sinnoh
+route-221-sinnoh,Sinnoh Route 221,Routes,sinnoh
+route-222-sinnoh,Sinnoh Route 222,Routes,sinnoh
+route-223-sinnoh,Sinnoh Route 223,Routes,sinnoh
+route-224-sinnoh,Sinnoh Route 224,Routes,sinnoh
+route-225-sinnoh,Sinnoh Route 225,Routes,sinnoh
+route-226-sinnoh,Sinnoh Route 226,Routes,sinnoh
+route-227-sinnoh,Sinnoh Route 227,Routes,sinnoh
+route-228-sinnoh,Sinnoh Route 228,Routes,sinnoh
+route-229-sinnoh,Sinnoh Route 229,Routes,sinnoh
+route-23-kanto,Kanto Route 23,Routes,kanto
+route-230-sinnoh,Sinnoh Route 230,Routes,sinnoh
+route-24-kanto,Kanto Route 24,Routes,kanto
+route-25-kanto,Kanto Route 25,Routes,kanto
+route-26-kanto,Kanto Route 26,Routes,kanto
+route-27-kanto,Kanto Route 27,Routes,kanto
+route-28-kanto,Kanto Route 28,Routes,kanto
+route-29-johto,Johto Route 29,Routes,johto
+route-30-johto,Johto Route 30,Routes,johto
+route-31-johto,Johto Route 31,Routes,johto
+route-32-johto,Johto Route 32,Routes,johto
+route-33-johto,Johto Route 33,Routes,johto
+route-34-johto,Johto Route 34,Routes,johto
+route-35-johto,Johto Route 35,Routes,johto
+route-36-johto,Johto Route 36,Routes,johto
+route-37-johto,Johto Route 37,Routes,johto
+route-38-johto,Johto Route 38,Routes,johto
+route-39-johto,Johto Route 39,Routes,johto
+route-40-johto,Johto Route 40,Routes,johto
+route-41-johto,Johto Route 41,Routes,johto
+route-42-johto,Johto Route 42,Routes,johto
+route-43-johto,Johto Route 43,Routes,johto
+route-44-johto,Johto Route 44,Routes,johto
+route-45-johto,Johto Route 45,Routes,johto
+route-46-johto,Johto Route 46,Routes,johto
+route-47-johto,Johto Route 47,Routes,johto
+route-48-johto,Johto Route 48,Routes,johto
+royal-avenue,Royal Avenue,Settlements,alola
+ruin-valley,Ruin Valley,Routes,sevii-islands
+ruins-of-abundance,Ruins of Abundance,Landmarks,alola
+ruins-of-alph,Ruins of Alph,Landmarks,johto
+ruins-of-conflict,Ruins of Conflict,Landmarks,alola
+ruins-of-hope,Ruins of Hope,Landmarks,alola
+ruins-of-life,Ruins of Life,Landmarks,alola
+rustboro-city,Rustboro City,Settlements,hoenn
+rusturf-tunnel,Rusturf Tunnel,Landmarks,hoenn
+sacred-plaza,Sacred Plaza,Coronet Highlands,hisui
+safari-zone-gate,Safari Zone Gate,Settlements,johto
+safari-zone-hoenn,Safari Zone (Hoenn),Landmarks,hoenn
+safari-zone-johto,Safari Zone (Johto),Landmarks,johto
+safari-zone-kanto,Safari Zone (Kanto),Landmarks,kanto
+saffron-city,Saffron City,Settlements,kanto
+sandgem-flats,Sandgem Flats,Obsidian Fieldlands,hisui
+sandgem-town,Sandgem Town,Settlements,sinnoh
+sands-reach,Sands Reach,Cobalt Coastlands,hisui
+sandsear-cave,Sandsear Cave,Grand Underground Hideaways,sinnoh
+sandy-cave,Sandy Cave,Landmarks,alola
+santalune-city,Santalune City,Settlements,kalos
+santalune-forest,Santalune Forest,Landmarks,kalos
+savanna-biome,Savanna Biome,Biomes,blueberry-academy
+scarlet-bog,Scarlet Bog,Crimson Mirelands,hisui
+scorched-slab,Scorched Slab,Landmarks,hoenn
+sea-cottage,Sea Cottage,Landmarks,kanto
+sea-mauville,Sea Mauville,Landmarks,hoenn
+sea-spirits-den,Sea Spirit's Den,Landmarks,kalos
+seafloor-cavern,Seafloor Cavern,Landmarks,hoenn
+seafoam-islands,Seafoam Islands,Landmarks,kanto
+seafolk-village,Seafolk Village,Settlements,alola
+seagrass-haven,Seagrass Haven,Cobalt Coastlands,hisui
+sealed-chamber,Sealed Chamber,Landmarks,hoenn
+seaside-cave,Seaside Cave,Landmarks,unova
+seaside-hollow,Seaside Hollow,Cobalt Coastlands,hisui
+seaward-cave,Seaward Cave,Landmarks,alola
+secret-hollow,Secret Hollow,Alabaster Icelands,hisui
+sendoff-spring,Sendoff Spring,Landmarks,sinnoh
+sevault-canyon,Sevault Canyon,Routes,sevii-islands
+shalour-city,Shalour City,Settlements,kalos
+shoal-cave,Shoal Cave,Landmarks,hoenn
+shrouded-ruins,Shrouded Ruins,Crimson Mirelands,hisui
+silph-co,Silph Co.,Landmarks,kanto
+sinjoh-ruins,Sinjoh Ruins,Areas,johto
+six-island,Six Island,Routes,sevii-islands
+six-island-town,Six Island (Town),Settlements,sevii-islands
+sky-pillar,Sky Pillar,Landmarks,hoenn
+slateport-city,Slateport City,Settlements,hoenn
+slippery-slope,Slippery Slope,The Crown Tundra,galar
+slowpoke-well,Slowpoke Well,Landmarks,johto
+sludge-mound,Sludge Mound,Crimson Mirelands,hisui
+slumbering-weald,Slumbering Weald,Landmarks,galar
+snowbelle-city,Snowbelle City,Settlements,kalos
+snowfall-hot-spring,Snowfall Hot Spring,Alabaster Icelands,hisui
+snowpoint-city,Snowpoint City,Settlements,sinnoh
+snowpoint-temple,Snowpoint Temple,Landmarks,sinnoh
+snowslide-slope,Snowslide Slope,The Crown Tundra,galar
+soaring-in-the-sky,Soaring in the Sky,Areas,hoenn
+socarrat-trail,Socarrat Trail,North Province,paldea
+solaceon-ruins-hisui,Solaceon Ruins,Crimson Mirelands,hisui
+solaceon-ruins-sinnoh,Solaceon Ruins,Landmarks,sinnoh
+solaceon-town,Solaceon Town,Settlements,sinnoh
+sonorous-path,Sonorous Path,Coronet Highlands,hisui
+soothing-wetlands,Soothing Wetlands,The Isle of Armor,galar
+sootopolis-city,Sootopolis City,Settlements,hoenn
+south-boulevard,South Boulevard,Landmarks,kalos
+south-lake-miloch,South Lake Miloch,Wild Areas,galar
+south-paldean-sea,South Paldean Sea,South Province,paldea
+south-province-area-five,Area Five (South Province),South Province,paldea
+south-province-area-four,Area Four (South Province),South Province,paldea
+south-province-area-one,Area One (South Province),South Province,paldea
+south-province-area-six,Area Six (South Province),South Province,paldea
+south-province-area-three,Area Three (South Province),South Province,paldea
+south-province-area-two,Area Two (South Province),South Province,paldea
+southern-island,Southern Island,Landmarks,hoenn
+spacious-cave,Spacious Cave,Grand Underground Hideaways,sinnoh
+spear-pillar,Spear Pillar,Landmarks,sinnoh
+spikemuth,Spikemuth,Settlements,galar
+split-decision-ruins,Split Decision Ruins,The Crown Tundra,galar
+spring-path-hisui,Spring Path,Cobalt Coastlands,hisui
+sprout-tower,Sprout Tower,Landmarks,johto
+stargleam-cavern,Stargleam Cavern,Grand Underground Hideaways,sinnoh
+stark-mountain,Stark Mountain,Landmarks,sinnoh
+stepping-stone-sea,Stepping Stone Sea,The Isle of Armor,galar
+still-water-cavern,Still-Water Cavern,Grand Underground Hideaways,sinnoh
+stonetooth-rows,Stonetooth Rows,Coronet Highlands,hisui
+stony-wilderness,Stony Wilderness,Wild Areas,galar
+stow-on-side,Stow-on-Side,Settlements,galar
+strange-house,Strange House,Landmarks,unova
+striaton-city,Striaton City,Settlements,unova
+sunlit-cavern,Sunlit Cavern,Grand Underground Hideaways,sinnoh
+sunyshore-city,Sunyshore City,Settlements,sinnoh
+swampy-cave,Swampy Cave,Grand Underground Hideaways,sinnoh
+tagtree-thicket,Tagtree Thicket,East Province,paldea
+tanoby-chambers,Tanoby Chambers,Landmarks,sevii-islands
+tanoby-ruins,Tanoby Ruins,Routes,sevii-islands
+tapu-village,Tapu Village,Settlements,alola
+team-aqua-hideout,Team Aqua Hideout,Landmarks,hoenn
+team-flare-secret-hq,Team Flare Secret HQ,Landmarks,kalos
+team-magma-hideout,Team Magma Hideout,Landmarks,hoenn
+team-rocket-hq,Team Rocket HQ,Landmarks,johto
+team-rockets-castle,Team Rocket's Castle,Landmarks,alola
+temple-of-sinnoh,Temple of Sinnoh,Coronet Highlands,hisui
+ten-carat-hill,Ten Carat Hill,Landmarks,alola
+terarium,Terarium,Area,kitakami
+terminus-cave,Terminus Cave,Landmarks,kalos
+terra-cave,Terra Cave,Landmarks,hoenn
+the-heartwood,The Heartwood,Obsidian Fieldlands,hisui
+three-isle-port,Three Isle Port,Routes,sevii-islands
+three-point-pass,Three-Point Pass,The Crown Tundra,galar
+thrifty-megamart-abandoned-site,Thrifty Megamart (Abandoned Site),Trial Sites,alola
+tidewater-dam,Tidewater Dam,Obsidian Fieldlands,hisui
+timeless-woods,Timeless Woods,Areas,kitakami
+tohjo-falls,Tohjo Falls,Landmarks,kanto
+tombolo-walk,Tombolo Walk,Cobalt Coastlands,hisui
+torchlit-labyrinth,Torchlit Labyrinth,Landmarks,blueberry-academy
+tower-of-mastery,Tower of Mastery,Landmarks,kalos
+tower-summit,Tower Summit,Landmarks,galar
+trackless-forest,Trackless Forest,Mirage Spots,hoenn
+trainer-tower,Trainer Tower,Routes,sevii-islands
+trainers-school-alola,Trainer's School (Alola),Landmarks,alola
+training-lowlands,Training Lowlands,The Isle of Armor,galar
+tranquility-cove,Tranquility Cove,Cobalt Coastlands,hisui
+treasure-beach,Treasure Beach,Routes,sevii-islands
+trick-house,Trick House,Landmarks,hoenn
+trophy-garden,Trophy Garden,Landmarks,sinnoh
+tunnel-to-the-top,Tunnel to the Top,The Crown Tundra,galar
+turffield,Turffield,Settlements,galar
+turnback-cave,Turnback Cave,Landmarks,sinnoh
+twinleaf-town,Twinleaf Town,Settlements,sinnoh
+twist-mountain,Twist Mountain,Landmarks,unova
+two-island,Two Island,Settlements,sevii-islands
+typhlo-cavern,Typhlo Cavern,Grand Underground Hideaways,sinnoh
+ulaula-beach,Ula'ula Beach,Landmarks,alola
+ulaula-meadow,Ula'ula Meadow,Landmarks,alola
+ultra-crater,Ultra Crater,Ultra Space,alola
+ultra-deep-sea,Ultra Deep Sea,Ultra Space,alola
+ultra-forest,Ultra Forest,Ultra Space,alola
+ultra-megalopolis,Ultra Megalopolis,Ultra Space,alola
+ultra-plant,Ultra Plant,Ultra Space,alola
+ultra-ruin,Ultra Ruin,Ultra Space,alola
+ultra-space-wilds,Ultra Space Wilds,Ultra Space,alola
+undella-bay,Undella Bay,Landmarks,unova
+undella-town,Undella Town,Settlements,unova
+underground,Underground,Underground,sinnoh
+underground-path-kanto-routes-5-6,Underground Path (Kanto - Routes 5-6),Landmarks,kanto
+underground-path-kanto-routes-7-8,Underground Path (Kanto - Routes 7-8),Landmarks,kanto
+underground-ruins,Underground Ruins,Landmarks,unova
+union-cave,Union Cave,Landmarks,johto
+unknown-dungeon-kalos,Unknown Dungeon (Kalos),Landmarks,kalos
+unova-route-01,Unova Route 1,Routes,unova
+unova-route-02,Unova Route 2,Routes,unova
+unova-route-03,Unova Route 3,Routes,unova
+unova-route-04,Unova Route 4,Routes,unova
+unova-route-05,Unova Route 5,Routes,unova
+unova-route-06,Unova Route 6,Routes,unova
+unova-route-07,Unova Route 7,Routes,unova
+unova-route-08,Unova Route 8,Routes,unova
+unova-route-09,Unova Route 9,Routes,unova
+unova-route-10,Unova Route 10,Routes,unova
+unova-route-11,Unova Route 11,Routes,unova
+unova-route-12,Unova Route 12,Routes,unova
+unova-route-13,Unova Route 13,Routes,unova
+unova-route-14,Unova Route 14,Routes,unova
+unova-route-15,Unova Route 15,Routes,unova
+unova-route-16,Unova Route 16,Routes,unova
+unova-route-17,Unova Route 17,Routes,unova
+unova-route-18,Unova Route 18,Routes,unova
+unova-route-19,Unova Route 19,Routes,unova
+unova-route-20,Unova Route 20,Routes,unova
+unova-route-21,Unova Route 21,Routes,unova
+unova-route-22,Unova Route 22,Routes,unova
+unova-route-23,Unova Route 23,Routes,unova
+ursas-ring,Ursa's Ring,Crimson Mirelands,hisui
+uva-academy,Uva Academy,South Province,paldea
+valley-windworks,Valley Windworks,Landmarks,sinnoh
+valor-lakefront,Valor Lakefront,Landmarks,sinnoh
+vaniville-town,Vaniville Town,Settlements,kalos
+vast-poni-canyon,Vast Poni Canyon,Trial Sites,alola
+veilstone-cape,Veilstone Cape,Cobalt Coastlands,hisui
+veilstone-city,Veilstone City,Settlements,sinnoh
+verdant-cavern,Verdant Cavern,Trial Sites,alola
+verdanturf-town,Verdanturf Town,Settlements,hoenn
+vermilion-city,Vermilion City,Settlements,kanto
+vermilion-city-port,Vermilion City Port,Landmarks,kanto
+victory-road-hoenn,Victory Road (Hoenn),Landmarks,hoenn
+victory-road-kalos,Victory Road (Kalos),Landmarks,kalos
+victory-road-kanto,Victory Road (Kanto),Landmarks,kanto
+victory-road-sinnoh,Victory Road (Sinnoh),Landmarks,sinnoh
+victory-road-unova-b2w2,Victory Road (Unova Black 2 & White 2),Landmarks,unova
+victory-road-unova-bw,Victory Road (Unova Black & White),Landmarks,unova
+village-bridge,Village Bridge,Bridges or Tunnels,unova
+violet-city,Violet City,Settlements,johto
+virbank-city,Virbank City,Settlements,unova
+virbank-complex,Virbank Complex,Landmarks,unova
+viridian-city,Viridian City,Settlements,kanto
+viridian-forest,Viridian Forest,Landmarks,kanto
+volcanic-cave,Volcanic Cave,Grand Underground Hideaways,sinnoh
+warm-up-tunnel,Warm Up Tunnel,The Isle of Armor,galar
+watchtower-ruins,Watchtower Ruins,Wild Areas,galar
+water-labyrinth,Water Labyrinth,Routes,sevii-islands
+water-path,Water Path,Routes,sevii-islands
+wayward-cave,Wayward Cave,Landmarks,sinnoh
+wayward-wood,Wayward Wood,Coronet Highlands,hisui
+weather-institute,Weather Institute,Landmarks,hoenn
+wedgehurst,Wedgehurst,Settlements,galar
+wela-volcano-park,Wela Volcano Park,Trial Sites,alola
+wellspring-cave,Wellspring Cave,Landmarks,unova
+west-lake-axewell,West Lake Axewell,Wild Areas,galar
+west-paldean-sea,West Paldean Sea,West Province,paldea
+west-province-area-one,Area One (West Province),West Province,paldea
+west-province-area-three,Area Three (West Province),West Province,paldea
+west-province-area-two,Area Two (West Province),West Province,paldea
+whirl-islands,Whirl Islands,Landmarks,johto
+white-forest,White Forest,Settlements,unova
+whiteout-cave,Whiteout Cave,Grand Underground Hideaways,sinnoh
+whiteout-valley,Whiteout Valley,Alabaster Icelands,hisui
+windbreak-stand,Windbreak Stand,Cobalt Coastlands,hisui
+windswept-run,Windswept Run,Obsidian Fieldlands,hisui
+wistful-fields,Wistful Fields,Areas,kitakami
+workout-sea,Workout Sea,The Isle of Armor,galar
+worn-bridge,Worn Bridge,Obsidian Fieldlands,hisui
+wyndon,Wyndon,Settlements,galar
+zapapico,Zapapico,Settlements,paldea
+zero-lab,Zero Lab,Area Zero,paldea

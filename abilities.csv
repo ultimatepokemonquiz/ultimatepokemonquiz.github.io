@@ -1,0 +1,368 @@
+id,name,identifier,generation_id,is_main_series
+1,Stench,stench,3,true
+2,Drizzle,drizzle,3,true
+3,Speed Boost,speed-boost,3,true
+4,Battle Armor,battle-armor,3,true
+5,Sturdy,sturdy,3,true
+6,Damp,damp,3,true
+7,Limber,limber,3,true
+8,Sand Veil,sand-veil,3,true
+9,Static,static,3,true
+10,Volt Absorb,volt-absorb,3,true
+11,Water Absorb,water-absorb,3,true
+12,Oblivious,oblivious,3,true
+13,Cloud Nine,cloud-nine,3,true
+14,Compound Eyes,compound-eyes,3,true
+15,Insomnia,insomnia,3,true
+16,Color Change,color-change,3,true
+17,Immunity,immunity,3,true
+18,Flash Fire,flash-fire,3,true
+19,Shield Dust,shield-dust,3,true
+20,Own Tempo,own-tempo,3,true
+21,Suction Cups,suction-cups,3,true
+22,Intimidate,intimidate,3,true
+23,Shadow Tag,shadow-tag,3,true
+24,Rough Skin,rough-skin,3,true
+25,Wonder Guard,wonder-guard,3,true
+26,Levitate,levitate,3,true
+27,Effect Spore,effect-spore,3,true
+28,Synchronize,synchronize,3,true
+29,Clear Body,clear-body,3,true
+30,Natural Cure,natural-cure,3,true
+31,Lightning Rod,lightning-rod,3,true
+32,Serene Grace,serene-grace,3,true
+33,Swift Swim,swift-swim,3,true
+34,Chlorophyll,chlorophyll,3,true
+35,Illuminate,illuminate,3,true
+36,Trace,trace,3,true
+37,Huge Power,huge-power,3,true
+38,Poison Point,poison-point,3,true
+39,Inner Focus,inner-focus,3,true
+40,Magma Armor,magma-armor,3,true
+41,Water Veil,water-veil,3,true
+42,Magnet Pull,magnet-pull,3,true
+43,Soundproof,soundproof,3,true
+44,Rain Dish,rain-dish,3,true
+45,Sand Stream,sand-stream,3,true
+46,Pressure,pressure,3,true
+47,Thick Fat,thick-fat,3,true
+48,Early Bird,early-bird,3,true
+49,Flame Body,flame-body,3,true
+50,Run Away,run-away,3,true
+51,Keen Eye,keen-eye,3,true
+52,Hyper Cutter,hyper-cutter,3,true
+53,Pickup,pickup,3,true
+54,Truant,truant,3,true
+55,Hustle,hustle,3,true
+56,Cute Charm,cute-charm,3,true
+57,Plus,plus,3,true
+58,Minus,minus,3,true
+59,Forecast,forecast,3,true
+60,Sticky Hold,sticky-hold,3,true
+61,Shed Skin,shed-skin,3,true
+62,Guts,guts,3,true
+63,Marvel Scale,marvel-scale,3,true
+64,Liquid Ooze,liquid-ooze,3,true
+65,Overgrow,overgrow,3,true
+66,Blaze,blaze,3,true
+67,Torrent,torrent,3,true
+68,Swarm,swarm,3,true
+69,Rock Head,rock-head,3,true
+70,Drought,drought,3,true
+71,Arena Trap,arena-trap,3,true
+72,Vital Spirit,vital-spirit,3,true
+73,White Smoke,white-smoke,3,true
+74,Pure Power,pure-power,3,true
+75,Shell Armor,shell-armor,3,true
+76,Air Lock,air-lock,3,true
+77,Tangled Feet,tangled-feet,4,true
+78,Motor Drive,motor-drive,4,true
+79,Rivalry,rivalry,4,true
+80,Steadfast,steadfast,4,true
+81,Snow Cloak,snow-cloak,4,true
+82,Gluttony,gluttony,4,true
+83,Anger Point,anger-point,4,true
+84,Unburden,unburden,4,true
+85,Heatproof,heatproof,4,true
+86,Simple,simple,4,true
+87,Dry Skin,dry-skin,4,true
+88,Download,download,4,true
+89,Iron Fist,iron-fist,4,true
+90,Poison Heal,poison-heal,4,true
+91,Adaptability,adaptability,4,true
+92,Skill Link,skill-link,4,true
+93,Hydration,hydration,4,true
+94,Solar Power,solar-power,4,true
+95,Quick Feet,quick-feet,4,true
+96,Normalize,normalize,4,true
+97,Sniper,sniper,4,true
+98,Magic Guard,magic-guard,4,true
+99,No Guard,no-guard,4,true
+100,Stall,stall,4,true
+101,Technician,technician,4,true
+102,Leaf Guard,leaf-guard,4,true
+103,Klutz,klutz,4,true
+104,Mold Breaker,mold-breaker,4,true
+105,Super Luck,super-luck,4,true
+106,Aftermath,aftermath,4,true
+107,Anticipation,anticipation,4,true
+108,Forewarn,forewarn,4,true
+109,Unaware,unaware,4,true
+110,Tinted Lens,tinted-lens,4,true
+111,Filter,filter,4,true
+112,Slow Start,slow-start,4,true
+113,Scrappy,scrappy,4,true
+114,Storm Drain,storm-drain,4,true
+115,Ice Body,ice-body,4,true
+116,Solid Rock,solid-rock,4,true
+117,Snow Warning,snow-warning,4,true
+118,Honey Gather,honey-gather,4,true
+119,Frisk,frisk,4,true
+120,Reckless,reckless,4,true
+121,Multitype,multitype,4,true
+122,Flower Gift,flower-gift,4,true
+123,Bad Dreams,bad-dreams,4,true
+124,Pickpocket,pickpocket,5,true
+125,Sheer Force,sheer-force,5,true
+126,Contrary,contrary,5,true
+127,Unnerve,unnerve,5,true
+128,Defiant,defiant,5,true
+129,Defeatist,defeatist,5,true
+130,Cursed Body,cursed-body,5,true
+131,Healer,healer,5,true
+132,Friend Guard,friend-guard,5,true
+133,Weak Armor,weak-armor,5,true
+134,Heavy Metal,heavy-metal,5,true
+135,Light Metal,light-metal,5,true
+136,Multiscale,multiscale,5,true
+137,Toxic Boost,toxic-boost,5,true
+138,Flare Boost,flare-boost,5,true
+139,Harvest,harvest,5,true
+140,Telepathy,telepathy,5,true
+141,Moody,moody,5,true
+142,Overcoat,overcoat,5,true
+143,Poison Touch,poison-touch,5,true
+144,Regenerator,regenerator,5,true
+145,Big Pecks,big-pecks,5,true
+146,Sand Rush,sand-rush,5,true
+147,Wonder Skin,wonder-skin,5,true
+148,Analytic,analytic,5,true
+149,Illusion,illusion,5,true
+150,Imposter,imposter,5,true
+151,Infiltrator,infiltrator,5,true
+152,Mummy,mummy,5,true
+153,Moxie,moxie,5,true
+154,Justified,justified,5,true
+155,Rattled,rattled,5,true
+156,Magic Bounce,magic-bounce,5,true
+157,Sap Sipper,sap-sipper,5,true
+158,Prankster,prankster,5,true
+159,Sand Force,sand-force,5,true
+160,Iron Barbs,iron-barbs,5,true
+161,Zen Mode,zen-mode,5,true
+162,Victory Star,victory-star,5,true
+163,Turboblaze,turboblaze,5,true
+164,Teravolt,teravolt,5,true
+165,Aroma Veil,aroma-veil,6,true
+166,Flower Veil,flower-veil,6,true
+167,Cheek Pouch,cheek-pouch,6,true
+168,Protean,protean,6,true
+169,Fur Coat,fur-coat,6,true
+170,Magician,magician,6,true
+171,Bulletproof,bulletproof,6,true
+172,Competitive,competitive,6,true
+173,Strong Jaw,strong-jaw,6,true
+174,Refrigerate,refrigerate,6,true
+175,Sweet Veil,sweet-veil,6,true
+176,Stance Change,stance-change,6,true
+177,Gale Wings,gale-wings,6,true
+178,Mega Launcher,mega-launcher,6,true
+179,Grass Pelt,grass-pelt,6,true
+180,Symbiosis,symbiosis,6,true
+181,Tough Claws,tough-claws,6,true
+182,Pixilate,pixilate,6,true
+183,Gooey,gooey,6,true
+184,Aerilate,aerilate,6,true
+185,Parental Bond,parental-bond,6,true
+186,Dark Aura,dark-aura,6,true
+187,Fairy Aura,fairy-aura,6,true
+188,Aura Break,aura-break,6,true
+189,Primordial Sea,primordial-sea,6,true
+190,Desolate Land,desolate-land,6,true
+191,Delta Stream,delta-stream,6,true
+192,Stamina,stamina,7,true
+193,Wimp Out,wimp-out,7,true
+194,Emergency Exit,emergency-exit,7,true
+195,Water Compaction,water-compaction,7,true
+196,Merciless,merciless,7,true
+197,Shields Down,shields-down,7,true
+198,Stakeout,stakeout,7,true
+199,Water Bubble,water-bubble,7,true
+200,Steelworker,steelworker,7,true
+201,Berserk,berserk,7,true
+202,Slush Rush,slush-rush,7,true
+203,Long Reach,long-reach,7,true
+204,Liquid Voice,liquid-voice,7,true
+205,Triage,triage,7,true
+206,Galvanize,galvanize,7,true
+207,Surge Surfer,surge-surfer,7,true
+208,Schooling,schooling,7,true
+209,Disguise,disguise,7,true
+210,Battle Bond,battle-bond,7,true
+211,Power Construct,power-construct,7,true
+212,Corrosion,corrosion,7,true
+213,Comatose,comatose,7,true
+214,Queenly Majesty,queenly-majesty,7,true
+215,Innards Out,innards-out,7,true
+216,Dancer,dancer,7,true
+217,Battery,battery,7,true
+218,Fluffy,fluffy,7,true
+219,Dazzling,dazzling,7,true
+220,Soul-Heart,soul-heart,7,true
+221,Tangling Hair,tangling-hair,7,true
+222,Receiver,receiver,7,true
+223,Power of Alchemy,power-of-alchemy,7,true
+224,Beast Boost,beast-boost,7,true
+225,RKS System,rks-system,7,true
+226,Electric Surge,electric-surge,7,true
+227,Psychic Surge,psychic-surge,7,true
+228,Misty Surge,misty-surge,7,true
+229,Grassy Surge,grassy-surge,7,true
+230,Full Metal Body,full-metal-body,7,true
+231,Shadow Shield,shadow-shield,7,true
+232,Prism Armor,prism-armor,7,true
+233,Neuroforce,neuroforce,7,true
+234,Intrepid Sword,intrepid-sword,8,true
+235,Dauntless Shield,dauntless-shield,8,true
+236,Libero,libero,8,true
+237,Ball Fetch,ball-fetch,8,true
+238,Cotton Down,cotton-down,8,true
+239,Propeller Tail,propeller-tail,8,true
+240,Mirror Armor,mirror-armor,8,true
+241,Gulp Missile,gulp-missile,8,true
+242,Stalwart,stalwart,8,true
+243,Steam Engine,steam-engine,8,true
+244,Punk Rock,punk-rock,8,true
+245,Sand Spit,sand-spit,8,true
+246,Ice Scales,ice-scales,8,true
+247,Ripen,ripen,8,true
+248,Ice Face,ice-face,8,true
+249,Power Spot,power-spot,8,true
+250,Mimicry,mimicry,8,true
+251,Screen Cleaner,screen-cleaner,8,true
+252,Steely Spirit,steely-spirit,8,true
+253,Perish Body,perish-body,8,true
+254,Wandering Spirit,wandering-spirit,8,true
+255,Gorilla Tactics,gorilla-tactics,8,true
+256,Neutralizing Gas,neutralizing-gas,8,true
+257,Pastel Veil,pastel-veil,8,true
+258,Hunger Switch,hunger-switch,8,true
+259,Quick Draw,quick-draw,8,true
+260,Unseen Fist,unseen-fist,8,true
+261,Curious Medicine,curious-medicine,8,true
+262,Transistor,transistor,8,true
+263,Dragon’s Maw,dragons-maw,8,true
+264,Chilling Neigh,chilling-neigh,8,true
+265,Grim Neigh,grim-neigh,8,true
+266,As One (Glastrier),as-one-glastrier,8,true
+267,As One (Spectrier),as-one-spectrier,8,true
+268,Lingering Aroma,lingering-aroma,9,true
+269,Seed Sower,seed-sower,9,true
+270,Thermal Exchange,thermal-exchange,9,true
+271,Anger Shell,anger-shell,9,true
+272,Purifying Salt,purifying-salt,9,true
+273,Well-Baked Body,well-baked-body,9,true
+274,Wind Rider,wind-rider,9,true
+275,Guard Dog,guard-dog,9,true
+276,Rocky Payload,rocky-payload,9,true
+277,Wind Power,wind-power,9,true
+278,Zero to Hero,zero-to-hero,9,true
+279,Commander,commander,9,true
+280,Electromorphosis,electromorphosis,9,true
+281,Protosynthesis,protosynthesis,9,true
+282,Quark Drive,quark-drive,9,true
+283,Good as Gold,good-as-gold,9,true
+284,Vessel of Ruin,vessel-of-ruin,9,true
+285,Sword of Ruin,sword-of-ruin,9,true
+286,Tablets of Ruin,tablets-of-ruin,9,true
+287,Beads of Ruin,beads-of-ruin,9,true
+288,Orichalcum Pulse,orichalcum-pulse,9,true
+289,Hadron Engine,hadron-engine,9,true
+290,Opportunist,opportunist,9,true
+291,Cud Chew,cud-chew,9,true
+292,Sharpness,sharpness,9,true
+293,Supreme Overlord,supreme-overlord,9,true
+294,Costar,costar,9,true
+295,Toxic Debris,toxic-debris,9,true
+296,Armor Tail,armor-tail,9,true
+297,Earth Eater,earth-eater,9,true
+298,Mycelium Might,mycelium-might,9,true
+299,Mind’s Eye,minds-eye,9,true
+300,Supersweet Syrup,supersweet-syrup,9,true
+301,Hospitality,hospitality,9,true
+302,Toxic Chain,toxic-chain,9,true
+303,Embody Aspect,embody-aspect,9,true
+304,Tera Shift,tera-shift,9,true
+305,Tera Shell,tera-shell,9,true
+306,Teraform Zero,teraform-zero,9,true
+307,Poison Puppeteer,poison-puppeteer,9,true
+10001,Mountaineer,mountaineer,5,false
+10002,Wave Rider,wave-rider,5,false
+10003,Skater,skater,5,false
+10004,Thrust,thrust,5,false
+10005,Perception,perception,5,false
+10006,Parry,parry,5,false
+10007,Instinct,instinct,5,false
+10008,Dodge,dodge,5,false
+10009,Jagged Edge,jagged-edge,5,false
+10010,Frostbite,frostbite,5,false
+10011,Tenacity,tenacity,5,false
+10012,Pride,pride,5,false
+10013,Deep Sleep,deep-sleep,5,false
+10014,Power Nap,power-nap,5,false
+10015,Spirit,spirit,5,false
+10016,Warm Blanket,warm-blanket,5,false
+10017,Gulp,gulp,5,false
+10018,Herbivore,herbivore,5,false
+10019,Sandpit,sandpit,5,false
+10020,Hot Blooded,hot-blooded,5,false
+10021,Medic,medic,5,false
+10022,Life Force,life-force,5,false
+10023,Lunchbox,lunchbox,5,false
+10024,Nurse,nurse,5,false
+10025,Melee,melee,5,false
+10026,Sponge,sponge,5,false
+10027,Bodyguard,bodyguard,5,false
+10028,Hero,hero,5,false
+10029,Last Bastion,last-bastion,5,false
+10030,Stealth,stealth,5,false
+10031,Vanguard,vanguard,5,false
+10032,Nomad,nomad,5,false
+10033,Sequence,sequence,5,false
+10034,Grass Cloak,grass-cloak,5,false
+10035,Celebrate,celebrate,5,false
+10036,Lullaby,lullaby,5,false
+10037,Calming,calming,5,false
+10038,Daze,daze,5,false
+10039,Frighten,frighten,5,false
+10040,Interference,interference,5,false
+10041,Mood Maker,mood-maker,5,false
+10042,Confidence,confidence,5,false
+10043,Fortune,fortune,5,false
+10044,Bonanza,bonanza,5,false
+10045,Explode,explode,5,false
+10046,Omnipotent,omnipotent,5,false
+10047,Share,share,5,false
+10048,Black Hole,black-hole,5,false
+10049,Shadow Dash,shadow-dash,5,false
+10050,Sprint,sprint,5,false
+10051,Disgust,disgust,5,false
+10052,High-rise,high-rise,5,false
+10053,Climber,climber,5,false
+10054,Flame Boost,flame-boost,5,false
+10055,Aqua Boost,aqua-boost,5,false
+10056,Run Up,run-up,5,false
+10057,Conqueror,conqueror,5,false
+10058,Shackle,shackle,5,false
+10059,Decoy,decoy,5,false
+10060,Shield,shield,5,false

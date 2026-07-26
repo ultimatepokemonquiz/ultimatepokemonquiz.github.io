@@ -1,0 +1,1823 @@
+item_identifier,item_effect_context_identifier,item_effect_type_identifier,effect_description,generation_id_start,generation_id_end,notes
+ability-capsule,field,ability-change,Switches between a Pokémon's two standard Abilities,6,,Cannot affect Hidden Abilities or certain special forms.
+ability-patch,field,ability-change,Can remove a Hidden Ability and set the first Ability slot.,9,,
+ability-patch,field,ability-change,Changes a Pokémon’s regular Ability to its Hidden Ability.,8,,
+ability-patch,held,fling-block,Fling fails.,8,,
+ability-shield,held,passive,"Prevents the holder's Ability from being changed, suppressed, or ignored by effects.",9,,
+ability-urge,battle,special,Activates entry Ability,5,,"Works with: Anticipation, Download, Drizzle, Drought, Forecast, Forewarn, Frisk, Intimidate, Sand Stream, Slow Start, Snow Warning, Trace"
+abomasite,held,evolution-trigger,Enables Mega Evolution of Abomasnow,6,,
+absolite,held,evolution-trigger,Allows Absol to Mega Evolve into Mega Absol,6,,Unaffected by item-negating effects
+absolite-z,battle,evolution-trigger,Allows Absol to Mega Evolve into Mega Absol Z if the Trainer has a Key Stone,9,,
+absorb-bulb,held,stat-boost,+1 Special Attack stage when hit by a damaging Water-type move,5,,
+academy-ball,field,passive,Can be used during picnics to play by kicking it around.,9,,
+academy-bottle,passive,decorative,Decorates the player's picnic with no gameplay effect.,9,,
+academy-chairs,passive,cosmetic,Decorates the player's picnic with academy-themed chairs.,9,,
+academy-cup,field,passive,Decorates the player's picnic with a standard academy cup.,9,,
+academy-tablecloth,passive,cosmetic,Decorates the player's picnic with an academy-themed tablecloth.,9,,
+acro-bike,field,movement,Allows tricks such as wheelies and bunny hops to access special terrain.,3,,
+adamant-crystal,field,form-change,Switches Dialga between its normal form and Origin Forme when used,8,8,Used directly from the satchel in Pokémon Legends: Arceus
+adamant-crystal,held,type-boost,Boosts Dragon- and Steel-type moves by 20%,9,,
+adamant-crystal,held,form-change,Changes Dialga to its Origin Forme,9,,Applies when held in Pokémon Scarlet and Violet
+adamant-mint,field,stat-modifier,"Changes Nature effect to Adamant (Attack up, Special Attack down)",8,,
+adamant-orb,held,type-boost,Boosts Dialga's Dragon- and Steel-type moves by 20%,4,,
+adrenaline-orb,battle,passive,Increases likelihood of wild Pokémon calling allies in SOS Battles when used,7,7,Bag use only
+adrenaline-orb,battle,stat-boost,+1 Speed stage when affected by Intimidate,7,,Consumed on activation
+adventure-guide,field,information,Allows the player to read or review tutorial information and gameplay tips.,6,,
+aerodactylite,battle,evolution-trigger,Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.,6,,Requires a Key Stone.
+aggronite,held,evolution-trigger,Allows Aggron to Mega Evolve into Mega Aggron,6,,Requires Key Stone
+aguav-berry,field,healing,Restores HP when used from the Bag.,3,,
+aguav-berry,held,healing,Restores HP when the holder's HP is low; may cause confusion if the Pokémon dislikes bitter flavor.,3,,
+air-balloon,held,immunity,Grants immunity to Ground-type moves until the holder is hit,5,,
+air-mail,held,passive,Allows a Pokémon to hold a written message that can be read when traded to another Generation IV game.,4,4,"Cannot be stolen by Thief or Covet; causes Fling, Trick, and Switcheroo to fail."
+alakazite,held,evolution-trigger,Allows Alakazam to Mega Evolve,6,,Requires a Key Stone
+aloraichium-z,held,z-move,Upgrades Alolan Raichu's Thunderbolt into the Z-Move Stoked Sparksurfer.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+altarianite,battle,evolution-trigger,Allows Altaria to Mega Evolve into Mega Altaria,6,,Requires a Key Stone
+altarianite,held,immunity,Unaffected by item-negating or item-manipulating effects,6,,
+amaze-mulch,field,berry-growth,"Soil dries faster, final harvest increases by 2 Berries, and Berry mutations are more likely.",6,6,Only effective in Pokémon X and Y.
+amaze-mulch,field,none,No practical effect other than being sold.,6,,From Omega Ruby and Alpha Sapphire onward.
+amazing-butter,field,passive,Allows up to six berries to be used when making donuts.,9,,Used by Ansha
+ampharosite,held,evolution-trigger,Allows Ampharos to Mega Evolve into Mega Ampharos,6,,Requires a Key Stone
+amulet-coin,held,money-boost,Doubles prize money earned after battle,2,,Stacks with Happy Hour and similar effects
+antidote,field,status-healing,Cures poison,1,,
+apicot-berry,battle,stat-boost,Raises Special Defense by 1 stage when consumed via Fling or similar effects,4,,
+apicot-berry,held,stat-boost,Raises Special Defense by 1 stage when HP is 1/4 or less (2 stages with Ripen),3,,Activates at 1/2 HP with Gluttony
+apple,field,crafting,Used as an ingredient when making sandwiches.,9,,
+apricorn,passive,crafting-material,Used to craft various Poké Balls,8,,
+apricorn-box,field,storage,Allows storage of up to 99 of each type of Apricorn and access to the Apriblender once obtained.,4,,
+aqua-suit,field,story,Allows access to Kyogre's chamber and is used to ride Mega Rayquaza into space during the Delta Episode.,6,,Only usable in Pokémon Alpha Sapphire story events.
+arboliva-oil,field,crafting,Used to make the Delta Old-Fashioned Donut.,9,,
+armor-fossil,passive,evolution-trigger,Can be regenerated into Shieldon,4,,
+armor-pass,field,access-unlock,Allows access to the Isle of Armor via Wedgehurst Station.,8,,
+armorite-ore,field,exchange,"Trade 5 pieces to learn new moves, 7 pieces for Watts digging, or 10 pieces to reset a Pokémon's EVs.",8,,
+articuno-treat,field,encounter-trigger,Allows the player to encounter and battle Articuno at Glaseado Mountain.,9,,Showing it to Snacksworth provides a hint to Articuno's location.
+aspear-berry,field,status-cure,Cures freeze when used from the Bag,3,,
+aspear-berry,held,status-cure,Cures freeze,3,,
+assault-vest,held,stat-boost,Special Defense ×1.5; prevents use of status moves,6,,
+audinite,held,evolution-trigger,Allows Audino to Mega Evolve into Mega Audino.,6,,Requires a Key Stone; unaffected by item-negating effects.
+aurora-ticket,field,story,Allows travel to Birth Island to encounter Deoxys.,3,3,
+auspicious-armor,field,evolution-trigger,Evolves Charcadet into Armarouge,9,,Item is consumed on use
+autograph,passive,none,Serves no practical purpose.,7,,
+aux-evasion,battle,evasion-boost,Moves are less likely to strike the Pokémon until it leaves battle,8,,
+aux-guard,battle,stat-boost,Sharply raises the target Pokémon’s defensive stats until it leaves battle.,8,,
+aux-power,battle,stat-boost,Sharply raises the user's offensive stats until it leaves battle,8,,
+aux-powerguard,battle,stat-boost,Sharply raises the Pokémon’s offensive and defensive stats until it leaves battle,8,,
+avocado,passive,ingredient,Used as an ingredient when making sandwiches.,9,,
+awakening,field,status-cure,Cures sleep or drowsy status.,1,,
+azelfs-fang,passive,crafting-material,Required to forge the Red Chain,8,,
+azure-flute,field,story-access,Allows access to the Hall of Origin to encounter Arceus when used under specific story conditions.,4,,
+babiri-berry,held,type-resist,Halves damage from a super effective Steel-type attack (quartered if the holder has Ripen).,4,,
+bachs-food-tin,field,crafting,Used as an ingredient when cooking curry,8,,
+bacon,passive,crafting,Used as an ingredient when making sandwiches.,9,,
+ball-of-mud,field,status,Temporarily stuns a Pokémon when thrown,8,,
+ball-of-mud,passive,crafting-material,Required to craft a Sticky Glob,8,,
+balm-mushroom,passive,sell-only,No effect other than being sold,5,,
+banana,field,crafting,Used as an ingredient when making sandwiches.,9,,
+band-autograph,passive,none,Serves no practical purpose.,8,,
+banettite,held,evolution-trigger,Allows Mega Evolution into Mega Banette,6,,Unaffected by item-negating effects
+barbaracite,battle,evolution-trigger,Allows Barbaracle to Mega Evolve into Mega Barbaracle while held,9,,
+barred-cup,field,decorative,No functional effect; used only to decorate picnics.,9,,
+basculegion-food,field,unlock,Allows the player to befriend Basculegion and unlock it as a Ride Pokémon.,8,,
+basement-key-hoenn,field,unlock,Opens the door to New Mauville.,3,,
+basement-key-johto,field,unlock,Permanently unlocks the basement door in the Goldenrod Tunnel.,2,,Automatically activates when interacting with the locked door.
+basil,field,crafting,Used as an ingredient when making sandwiches.,9,,
+battle-chairs,passive,decorative,Decorates the player's picnic with battle-themed chairs.,9,,
+battle-tablecloth,field,cosmetic,Decorates the player's picnic table with no gameplay effect.,9,,
+baxcalibrite,battle,evolution-trigger,Allows Baxcalibur to Mega Evolve into Mega Baxcalibur.,9,,Requires the Trainer to have a Key Stone. Only one Mega Evolution per battle.
+beach-glass,passive,sell-only,No effect other than being sold,7,,
+bead-mail,held,passive,Stores a written message using Easy Chat phrases and displays it while held by a Pokémon.,3,3,"Cannot be stolen by Covet or Thief, but can be removed by Knock Off."
+bean-cake,field,lure,"Attracts nearby Pokémon, especially fish and bird Pokémon",8,,
+beast-ball,battle,catch-rate-modifier,"5× against Ultra Beasts, ~0.1× against other Pokémon",7,,
+beast-ball,held,fling,Fails when used with Fling,7,,
+beedrillite,held,evolution-trigger,Allows Beedrill to Mega Evolve,6,,
+belue-berry,held,move-modifier,Changes Natural Gift to Electric type with variable power,4,,
+berry-gen2,field,healing,Restores 10 HP when used from the Bag,2,2,
+berry-gen2,held,healing,Restores 10 HP when HP falls below 50%,2,2,
+berry-juice,field,healing,Restores 20 HP,2,,
+berry-juice,held,healing,Restores 20 HP when holder's HP falls below 50%,2,,
+berry-pots,field,passive,"Allows planting, watering, and growing up to four Berry plants while traveling.",4,,
+berry-pouch,passive,storage,Allows the player to store collected Berries in a dedicated pouch.,3,,
+berry-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Item is consumed upon evolution.
+berserk-gene,held,stat-boost,Raises Attack by two stages when entering battle,2,2,
+berserk-gene,held,status-infliction,Inflicts confusion on the holder,2,2,
+bicycle,field,movement,Increases player movement speed and allows access to Cycling Roads.,1,,
+big-bamboo-shoot,passive,sell-only,No practical use other than being sold.,9,,
+big-malasada,field,healing,Cures all non-volatile status conditions and confusion,7,,
+big-mushroom,field,exchange,Can be given to the Move Reminder to relearn a move (FireRed and LeafGreen).,3,3,
+big-nugget,passive,sell-only,No effect other than being sold for money,5,,
+big-pearl,passive,sell-only,No effect other than being sold for money,2,,
+big-root,held,healing,Restores 30% more HP from draining moves and effects,4,,Also increases damage taken from Liquid Ooze
+bike-voucher,field,exchange,Can be exchanged for a free Bicycle at the Bike Shop in Cerulean City.,1,,
+binding-band,held,move-modifier,Binding damage becomes 1/6 of target's max HP,6,,
+binding-band,held,move-modifier,Binding damage becomes 1/8 of target's max HP,5,5,
+bitter-berry,field,status-healing,Cures confusion when used from the Bag.,2,2,
+bitter-berry,held,status-healing,Cures confusion when the holder becomes confused.,2,2,
+bitter-herba-mystica,field,crafting,Used as an ingredient when making sandwiches.,9,,
+black-apricorn,field,crafting,Can be turned into a Heavy Ball by Kurt or blended into Aprijuice.,2,,
+black-augurite,field,evolution-trigger,Evolves Scyther into Kleavor,8,,Item is consumed on use
+black-belt,held,type-boost,+10% Fighting-type move power,2,3,
+black-belt,held,type-boost,+20% Fighting-type move power,4,,
+black-flute,field,level-modifier,Increases wild Pokémon levels by 1 to 4,6,6,Omega Ruby and Alpha Sapphire only
+black-flute,field,encounter-rate,Reduces wild Pokémon encounter rate by 50%,3,4,Effect ends on map transition
+black-glasses,held,type-boost,Boosts Dark-type move power by 20%,4,,
+black-glasses,held,type-boost,Boosts Dark-type move power by 10%,2,3,
+black-mane-hair,field,crafting,Used together with a Radiant Petal to create the Reins of Unity.,8,,
+black-sludge,held,damage,Damages holder by 1/8 max HP each turn if not Poison-type,4,,Magic Guard prevents damage
+black-sludge,held,healing,Restores 1/16 max HP each turn if holder is Poison-type,4,,
+black-tumblestone,passive,crafting-material,"Used to craft Heavy Ball, Leaden Ball (1), and Gigaton Ball (2).",8,,
+blank-plate,field,type-change,Changes Arceus to the Normal type when used from the satchel.,8,,
+blastoisinite,held,evolution-trigger,Allows Blastoise to Mega Evolve into Mega Blastoise,6,,
+blazikenite,held,evolution-trigger,Allows Blaziken to Mega Evolve into Mega Blaziken,6,,
+bloom-mail,held,passive,Allows the holder to carry a written message that can be read when the Pokémon is traded.,4,4,Cannot be transferred to Generation V; prevents PC storage while held.
+blue-apricorn,field,crafting,Used by Kurt to make a Lure Ball.,2,,
+blue-apricorn,field,stat-boost,Produces Aprijuice that boosts the Skill Performance stat when used in the Apriblender.,7,7,
+blue-bottle,passive,cosmetic,Decorates the player's picnic with no gameplay effect.,9,,
+blue-canari-plush-lv-1,passive,capture-rate-boost,x1.1 catch rate,9,,
+blue-canari-plush-lv-2,passive,capture-rate-boost,x1.2 catch rate,9,,
+blue-canari-plush-lv-3,passive,capture-rate-boost,x1.35 catch rate,9,,
+blue-card,passive,currency,Allows earning and storing Blue Points by answering Buena's Password questions correctly.,2,,Maximum of 30 points can be stored.
+blue-chairs,passive,cosmetic,Decorates the player's picnic without providing gameplay effects.,9,,
+blue-cup,passive,cosmetic,Decorates the player's picnic with a blue cup.,9,,
+blue-dish,passive,decorative,No effect other than decorating the player's picnic.,9,,
+blue-flag-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+blue-flute,battle,status-healing,Wakes a sleeping Pokémon,3,4,
+blue-flute,battle,status-healing,Wakes a sleeping Pokémon,6,7,"Omega Ruby, Alpha Sapphire and later"
+blue-flute,battle,none,No effect,5,6,No practical purpose in Generation V and Pokémon X and Y
+blue-flute,field,status-healing,Wakes a sleeping Pokémon,3,3,
+blue-orb,held,evolution-trigger,Allows Kyogre to undergo Primal Reversion upon entering battle.,6,,Only functions when held by Kyogre.
+blue-petal,passive,story-progress,One of seven petals required for Mina to create the Rainbow Flower.,7,,
+blue-poke-ball-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+blue-scarf,held,contest-condition-boost,Raises Beauty,3,,"In Generation III, raises Beauty by 20 points up to 255."
+blue-shard,passive,exchange,Used as currency for move tutors and item exchanges.,3,,
+blue-sky-flower-pick,field,passive,Used to complete a sandwich made during a picnic.,9,,
+blue-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+blueberry-chairs,passive,cosmetic,Decorates the player's picnic with themed chairs.,9,,
+blueberry-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+bluesky-mail,held,passive,Allows the holder to carry a written message that can be traded to other games of the same generation.,2,2,Cannot be stolen by Thief; Pokémon holding Mail cannot be deposited in the PC or Day Care.
+bluk-berry,battle,natural-gift,"Fire-type; power 70 (Gen IV–V), 90 (Gen VI+)",4,,
+bluk-berry,held,fling,Power 10; no additional effect,4,,
+blunder-policy,held,stat-boost,Raises Speed by two stages when a move misses due to accuracy or evasion; item is consumed.,8,,
+bobs-food-tin,field,crafting,Used as an ingredient when making curry,8,,
+boiled-egg,field,crafting,Used as an ingredient when making curry,8,,
+bold-mint,field,nature-change,"Changes the Pokémon’s Nature effect to Bold: Defense increases, Attack decreases.",8,,
+boost-mulch,field,berry-growth,Soil dries out in 4 hours instead of 24 hours,6,6,Only effective in Pokémon X and Y
+boost-mulch,passive,none,No practical effect,6,,From Omega Ruby and Alpha Sapphire onward
+booster-energy,held,ability-activation,Activates Protosynthesis or Quark Drive when their usual field conditions are not active.,9,,Item is consumed on activation.
+bottle-cap,passive,iv-maximization,Maximizes one IV via Hyper Training,7,,
+brave-mint,field,stat-modifier,"Changes Nature effect to Brave: Attack up, Speed down",8,,
+bread,field,crafting,Used as an ingredient when cooking curry,8,,
+briars-book,field,story,"Triggers an encounter at the Crystal Pool if the player has Terapagos, leading to an exchange for the Scarlet Book or Violet Book.",9,,
+brick-mail,held,passive,Allows a Pokémon to carry a written message that can be traded to other Generation IV games.,4,4,"Prevents PC storage and causes Fling, Trick, and Switcheroo to fail."
+brick-piece,passive,sell-only,Can only be sold for money.,2,2,
+bridgemail-d,held,passive,Allows the holder to carry a written message that can be read when traded.,5,,Prevents PC storage and causes certain item-moving moves to fail.
+bridgemail-m,held,passive,Allows a Pokémon to carry a customizable written message that can be traded to other games of the same generation.,5,,Prevents PC storage and Day Care placement while held.
+bridgemail-s,held,passive,Allows a Pokémon to hold and transmit a written message via trading; blocks certain moves like Trick and Fling.,5,,
+bridgemail-t,held,message-storage,Allows a Pokémon to hold a written Easy Chat message that can be traded to other Generation V games.,5,,"Prevents certain moves such as Trick, Switcheroo, Bestow, and Fling from working."
+bridgemail-v,held,passive,Allows a Pokémon to carry a written message using preset phrases; restricts trading and item interactions while held.,5,,
+bright-powder,held,accuracy-modifier,Reduces accuracy of moves targeting the holder by ~8%,2,2,Also affected OHKO moves
+bright-powder,held,accuracy-modifier,Reduces accuracy of moves targeting the holder by 10%,3,,Does not affect OHKO moves
+brittle-bones,field,crafting,Used as an ingredient when cooking curry.,8,,
+bronze-bottle,field,cosmetic,Decorates the player's picnic with no gameplay effect.,9,,
+bronze-cup,passive,decoration,Decorates the player's picnic with no additional effects.,9,,
+bubble-mail,held,passive,Allows the holder to carry a written message that can be traded to other Generation IV games.,4,4,"Cannot be stolen by Covet or Thief; Fling, Trick, and Switcheroo fail."
+bug-gem,held,type-boost,+30% Bug-type move power (first use),6,,Consumed after use
+bug-gem,held,type-boost,+50% Bug-type move power (first use),5,5,Consumed after use
+bug-memory,battle,type-change,Changes Multi-Attack to Bug type and Silvally to Bug type,7,,
+bug-memory,field,type-change,Changes Silvally to Bug type,7,,
+bug-tera-shard,field,type-change,Use 50 shards to change a Pokémon’s Tera Type to Bug at the Treasure Eatery in Medali (except Ogerpon and Terapagos).,9,,
+buginium-z,battle,type-boost,Upgrades Bug-type moves into Z-Moves; damaging moves become Savage Spin-Out.,7,,
+buginium-z,held,form-change,Changes Arceus to Bug-type when held due to Multitype.,7,,Rayquaza cannot Mega Evolve while holding a Z-Crystal.
+bugwort,passive,crafting,Used to craft Remedy and Stealth Spray.,8,,
+burn-drive,battle,type-change,Techno Blast becomes Fire type when used by Genesect,5,,
+burn-drive,field,form-change,Changes Genesect to its Burn Drive form,5,,
+burn-drive,held,form-change,Changes Genesect to its Burn Drive form,5,,Cannot be removed or transferred by item-manipulating moves.
+burn-heal,field,status-healing,Cures burn,1,,
+burnt-berry,field,status-cure,Cures a Pokémon of freeze when used from the Bag.,2,2,
+burnt-berry,held,status-cure,"Cures freeze when the holder becomes frozen, consuming the item.",2,2,
+butter,field,crafting,Used as an ingredient when making sandwiches.,9,,
+bw-grass-chairs,field,passive,Decorative item with no practical gameplay effect.,9,,
+bw-grass-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+cake-lure-base,passive,crafting-material,Required to craft various cakes and muffins; one is consumed per crafted item.,8,,
+calcium,field,stat-boost,+10 Special Attack EVs (Gen III–VII); raises EVs up to caps from Gen VIII onward,3,,
+calm-mint,field,nature-change,"Changes the Pokémon’s Nature effect to Calm, boosting Special Defense and lowering Attack.",8,,
+cameruptite,battle,evolution-trigger,Allows Camerupt to Mega Evolve into Mega Camerupt,6,,Requires a Key Stone
+camping-gear,field,utility,Allows the player to set up a Pokémon Camp in suitable locations.,8,,"Cannot be used on water, indoors, or during certain battles."
+canari-bread,field,healing,Restores 100 HP,9,,
+candy-truffle,passive,crafting-material,"Used to craft Dire Hit, Aux Evasion, and Swap Snack.",8,,
+carbos,field,stat-boost,Increases Speed EVs,1,,
+card-key-johto,field,unlock,Permanently unlocks the shutter on the third floor of the Goldenrod Radio Tower.,2,,Usable only once but not consumed.
+card-key-kanto,field,unlock,Permanently opens locked doors in the Silph Co. building,1,,
+careful-mint,field,stat-modifier,"Changes Nature effects to Careful: +Special Defense, −Special Attack",8,,
+carrot-seeds,field,story,Allows the player to grow an Iceroot Carrot or Shaderoot Carrot to summon Glastrier or Spectrier depending on planting location.,8,,
+casteliacone,field,healing,Cures all non-volatile status conditions and confusion.,5,,
+casteliacone,held,story,Allows Regigigas to spawn if held by a nicknamed Regice alongside Regirock and Registeel.,6,6,Omega Ruby and Alpha Sapphire only
+caster-fern,field,crafting,"Used to craft Smoke Bomb, Scatter Bang, Sticky Glob, and Choice Dumpling",8,,
+catching-charm,passive,catch-rate-boost,Increases the chance of a critical catch when throwing a Poké Ball.,8,,
+celestica-flute,field,summon,"Summons ridable Pokémon including Wyrdeer, Ursaluna, Basculegion, Sneasler, and Hisuian Braviary.",8,,
+cell-battery,held,stat-boost,+1 Attack stage when hit by a damaging Electric-type move,5,,
+chandelurite,battle,evolution-trigger,Allows Chandelure to Mega Evolve into Mega Chandelure,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+charcoal,held,type-boost,+10% Fire-type move power,2,3,
+charcoal,held,type-boost,+20% Fire-type move power,4,,
+charizardite-x,held,evolution-trigger,Enables Mega Evolution into Mega Charizard X,6,,
+charizardite-y,battle,evolution-trigger,Enables Mega Evolution into Mega Charizard Y,6,,Requires Key Stone
+charti-berry,held,type-reduction,Halves damage from a super effective Rock-type attack; quarter damage if the holder has Ripen.,4,,
+cheese,field,crafting,Used as an ingredient when making sandwiches.,9,,
+cheri-berry,field,status-healing,Cures paralysis when used from the Bag,3,,
+cheri-berry,held,status-healing,Cures paralysis when the holder becomes paralyzed,3,,
+cherish-ball,battle,catch-rate,1× catch rate modifier if used,4,,Item cannot normally be used as it is unobtainable.
+cherish-ball,passive,breeding,Cannot be inherited by bred Pokémon; offspring instead use a standard Poké Ball,6,,
+cherished-ring-first,field,story,Returned to Moire to complete Side Mission 003: Sableye in the Cemetery,9,,
+cherished-ring-second,field,story,Returned to Moire to complete Side Mission 140: A Message from Across Dimensions,9,,
+cherry-tomatoes,field,crafting,Used as an ingredient when making sandwiches.,9,,
+chesnaughtite,battle,evolution-trigger,Allows Chesnaught to Mega Evolve into Mega Chesnaught if the Trainer has a Key Stone.,9,,
+chesto-berry,field,status-healing,Cures sleep or drowsiness when used from the Bag,3,,
+chesto-berry,held,status-healing,Cures sleep or drowsiness,3,,
+chilan-berry,held,type-reduction,Halves damage from one Normal-type attack; quarter damage with Ripen,4,,Does not activate for Struggle from Generation V onward.
+chili-sauce,field,crafting,Used as an ingredient in making sandwiches.,9,,
+chill-drive,battle,type-boost,Changes Techno Blast to Ice type when used by Genesect,5,,
+chill-drive,held,form-change,Changes Genesect to its Chill Drive form,5,,Cannot be removed or transferred by item-manipulating moves
+chimechite,held,evolution-trigger,Allows Chimecho to Mega Evolve into Mega Chimecho during battle,9,,
+chipped-pot,field,evolution-trigger,Evolves Antique Form Sinistea into Antique Form Polteageist,8,,Item is consumed upon use
+choice-band,held,stat-boost,Boosts Attack by 50% but locks the user into one move,3,,
+choice-dumpling,battle,stat-boost,"Fixates the target Pokémon on its last used move, increasing damage dealt and damage taken.",8,,
+choice-scarf,held,stat-boost,Speed x1.5; locks user into first selected move,4,,Move lock resets when the Pokémon is switched out
+choice-specs,held,stat-boost,"+50% Special Attack, move lock",4,,
+chople-berry,held,type-resist,Halves damage from a supereffective Fighting-type attack; quarter damage with Ripen,4,,
+chorizo,field,ingredient,Used as an ingredient when making sandwiches.,9,,
+claw-fossil,field,evolution-trigger,Can be regenerated into Anorith,3,,
+cleanse-tag,held,encounter-rate,Halves wild encounter rate,2,2,
+cleanse-tag,held,encounter-rate,Reduces wild encounter rate by one third when first in party,3,4,
+cleanse-tag,held,encounter-rate,Reduces encounter rate with ability/weather exceptions,5,,
+clear-amulet,held,stat-protection,Prevents the holder's stats from being lowered by opponents' moves or Abilities.,9,,Does not prevent Haze or Clear Smog; Parting Shot still forces a switch with Magic Bounce.
+clear-bell,field,story,Allows the player to encounter Suicune at the Tin Tower without it fleeing.,2,2,Pokémon Crystal only
+clear-bell,field,story,Combines with the Rainbow Wing and the Kimono Girls' dance to summon Ho-Oh.,4,4,HeartGold only
+clear-bell,field,story,Required to encounter Ho-Oh at Sea Mauville.,6,6,Omega Ruby only
+clefablite,battle,evolution-trigger,Allows Clefable to Mega Evolve into Mega Clefable,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+clever-feather,field,stat-boost,+1 Special Defense EV and slight friendship increase,5,,
+clever-mochi,field,stat-boost,Increases Special Defense EVs by 10.,9,,
+clover-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Item is consumed upon evolution
+coba-berry,held,type-boost,Halves damage from one supereffective Flying-type attack; quarter damage if the holder has Ripen,4,,
+cobalion-treat,field,encounter-trigger,Allows the player to encounter and battle Cobalion at North Province (Area Two) and receive a location hint from Snacksworth.,9,,
+coconut-milk,passive,crafting,Used as an ingredient when cooking curry.,8,,
+coin-case,field,information,Displays the current number of coins when used from the Bag,1,,
+coin-case,passive,utility,Allows the player to store and use Game Corner coins,1,,
+colbur-berry,held,type-resist,Halves damage from one supereffective Dark-type attack; quarter damage if the holder has Ripen.,4,,
+colorful-screw,passive,exchange,Can be traded for Canari plush items at Racine Construction; collecting all unlocks a giant Canari plush decor.,9,,
+colress-machine,field,story,"Forcibly awakens sleeping Pokémon, triggering a battle.",5,,
+comet-shard,passive,sell-only,Can only be sold for money,5,,
+contest-costume,passive,cosmetic,Automatically changes the player's outfit when participating in a Pokémon Contest Spectacular.,6,,
+contest-pass,passive,access,Allows entry into Pokémon Contests in certain games,3,,"Not required in Pokémon Emerald, Diamond, Pearl, Platinum, or Brilliant Diamond and Shining Pearl"
+cornerstone-mask,held,form-change,Changes Ogerpon to its Cornerstone Mask form.,9,,
+cornerstone-mask,held,type-boost,Increases the power of the holder's moves by 20%.,9,,
+cornn-berry,held,move-modifier,Natural Gift becomes Bug-type with power depending on generation,4,,
+coupon-1,field,story,Exchanged for the Pokétch when all three coupons are obtained.,4,,
+coupon-2,field,story,Exchanged for the Pokétch when all three coupons are obtained.,4,,
+coupon-3,field,story,Exchanged for the Pokétch when all three coupons are obtained.,4,,
+courage-candy,field,stat-boost,Raises Special Defense by 1 AV (up to 50 AVs),7,,
+courage-candy-l,field,stat-boost,+1 AV Special Defense (up to 100 AV),7,,Only usable on Pokémon Lv. 30 or higher
+courage-candy-xl,field,stat-boost,"Increases Special Defense by 1 AV when used on a Pokémon of level 60 or higher, up to 200 AVs.",7,,
+cover-fossil,passive,evolution-trigger,Can be restored into Tirtouga at specific locations,5,,
+covert-cloak,held,passive,Prevents the additional effects of damaging moves from affecting the holder.,9,,Does not affect status moves or self-applied effects.
+crabominite,held,evolution-trigger,Allows Crabominable to Mega Evolve into Mega Crabominable during battle if the Trainer has a Key Stone.,9,,
+cracked-pot,field,evolution-trigger,Evolves Phony Form Sinistea into Phony Form Polteageist,8,,Item is consumed on use
+crafting-kit,field,crafting,Allows crafting of items in the field using materials in the satchel,8,,
+cream-cheese,field,crafting,Used as an ingredient when making sandwiches.,9,,
+crown-pass,field,access,Allows travel to the Crown Tundra via Wedgehurst Station.,8,,
+crunchy-salt,field,bait,Attracts certain Pokémon when thrown,8,,
+crunchy-salt,passive,crafting-ingredient,Used to craft Salt Cake and Twice-Spiced Radish,8,,
+crystal-cluster,field,story,Used by Kieran and Carmine's grandpa to repair Ogerpon's Teal Mask.,9,,
+cucumber,field,crafting,Used as an ingredient when making sandwiches.,9,,
+curry-powder,field,crafting,Used as an ingredient when making a sandwich,9,,
+custap-berry,held,priority-boost,Moves first in its priority bracket when HP is below 1/4 (or 1/2 with Gluttony),4,,
+cyber-ball,field,passive,Can be brought out during a picnic to be kicked around by the player and their party Pokémon.,9,,
+damp-mulch,field,berry-growth,Soil dries 50% slower; Berry growth time is 150% of usual.,4,4,
+damp-mulch,passive,none,No practical effect other than being sold.,5,,
+damp-rock,held,weather-duration,Extends rain to 8 turns,4,,Does not affect Drizzle prior to Generation VI
+dark-gem,held,type-boost,Boosts first Dark-type move by 30% and is consumed,6,,
+dark-gem,held,type-boost,Boosts first Dark-type move by 50% and is consumed,5,5,
+dark-memory,battle,type-change,Multi-Attack becomes Dark type,7,,
+dark-memory,field,form-change,Changes Silvally to Dark-type form,7,,
+dark-memory,held,form-change,Changes Silvally to Dark-type form via RKS System,7,,Cannot be removed or swapped by item-manipulating moves
+dark-stone,field,story,Summons Zekrom to assist the player at N's Castle.,5,5,Pokémon White only.
+dark-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Dark at the Treasure Eatery in Medali (except Ogerpon and Terapagos).,9,,
+darkinium-z,held,type-boost,Upgrades Dark-type moves into the Z-Move Black Hole Eclipse or corresponding Z-Moves.,7,,Unaffected by item-negating or item-manipulating effects.
+darkranite,held,evolution-trigger,Allows Darkrai to Mega Evolve into Mega Darkrai in battle,9,,Requires the Trainer to have a Key Stone
+data-card-01,passive,record,Stores specific Pokéathlon records for viewing at the Pokéathlon Dome.,4,,
+dawn-stone,field,evolution-trigger,Evolves specific Pokémon when used,4,,
+dazzling-honey,field,lure,Attracts certain Pokémon when thrown as bait.,8,,
+dazzling-honey,field,crafting,Used to craft Honey Cake and Old Gateau.,8,,
+decidium-z,held,z-move,Upgrades Spirit Shackle into the Z-Move Sinister Arrow Raid when held by Decidueye.,7,,
+deep-sea-scale,field,evolution-trigger,Evolves Clamperl into Gorebyss when traded,3,,Item is consumed on evolution
+deep-sea-scale,held,stat-boost,Doubles Special Defense when held by Clamperl,3,,
+deep-sea-tooth,field,evolution-trigger,Evolves Clamperl into Huntail when traded,3,,Item is consumed on evolution
+deep-sea-tooth,held,stat-boost,Doubles Special Attack when held by Clamperl,3,,
+delphoxite,battle,evolution-trigger,"Allows Delphox to Mega Evolve into Mega Delphox when held, if the Trainer has a Key Stone",9,,
+destiny-knot,battle,status-effect,"If the holder becomes infatuated, the opposing Pokémon also becomes infatuated.",4,,
+destiny-knot,field,breeding,Eggs inherit 5 random IVs from either parent instead of 3.,6,,
+devon-scope,field,detection,Reveals invisible Pokémon such as Kecleon and allows access to blocked areas.,3,,
+devon-scuba-gear,field,passive,Provides oxygen while underwater during the use of Dive.,6,,
+diamond-bottle,field,decorative,Decorates the player's picnic with no gameplay effect.,9,,
+diamond-chairs,passive,cosmetic,Decorates the player's picnic with themed chairs.,9,,
+diamond-pattern-cup,passive,cosmetic,Decorates the player's picnic.,9,,
+diamond-tablecloth,field,cosmetic,Decorates the player's picnic with a diamond-patterned tablecloth.,9,,
+diancite,held,evolution-trigger,Allows Diancie to Mega Evolve into Mega Diancie,6,,
+digger-drill,field,utility,Creates a Secret Base; removes the previous one if it exists. Consumed on use.,4,,
+dire-hit,battle,stat-boost,Raises critical-hit ratio by 2 stages,3,,Does not stack with Focus Energy or other Dire Hits.
+dire-hit-2,battle,stat-boost,+2 critical-hit ratio stages,5,,
+dire-hit-3,battle,stat-boost,+3 critical-hit ratio stages,5,,
+direshroom,passive,crafting-material,Used to craft Dire Hit (2) and Choice Dumpling (1).,8,,
+discount-coupon,field,price-modifier,One-time 50% discount at boutiques,6,,
+discovery-slate,field,story,"Allows the player to battle Regirock, Regice, and Registeel in the Discovery Room at Ramanas Park.",8,,
+distortion-slate,field,story,"Allows entry into the Distortion Room at Ramanas Park to battle Origin Forme Giratina, which cannot be caught and must be defeated.",8,,
+dive-ball,battle,catch-rate-modifier,3.5× when used on Pokémon in or on water; otherwise 1×,3,,Ultra Beasts have reduced modifier in Generations VII–VIII.
+dna-splicers,field,evolution-trigger,Fuses or separates Kyurem with Reshiram or Zekrom,5,,
+dome-fossil,field,evolution-trigger,Can be restored into Kabuto at specific locations,1,,
+doppel-bonnets,passive,crafting-material,Required to craft an Aux Evasion,8,,
+douse-drive,battle,type-change,Changes Techno Blast to Water type when used by Genesect.,5,,
+douse-drive,held,form-change,Changes Genesect to its Douse Drive form.,5,,Cannot be removed or transferred by item-manipulating moves.
+dowsing-machine,field,utility,Detects hidden items in the overworld.,1,,
+draco-plate,held,type-boost,Boosts Dragon-type moves by 20%,4,,
+draco-plate,held,form-change,Changes Arceus to Dragon type,4,,Via Multitype ability
+dragalgite,held,evolution-trigger,Allows Dragalge to Mega Evolve into Mega Dragalge during battle,9,,
+dragon-fang,held,type-boost,Boosts Dragon-type move power by 20%,4,,
+dragon-fang,held,type-boost,Boosts Dragon-type move power by 10%,3,3,
+dragon-gem,held,type-boost,Boosts first Dragon-type move by 30%,6,,Consumed after use
+dragon-gem,held,type-boost,Boosts first Dragon-type move by 50%,5,5,Consumed after use
+dragon-memory,battle,type-change,Changes Multi-Attack to Dragon type and Silvally to Dragon type,7,,
+dragon-memory,field,form-change,Changes Silvally to its Dragon-type form; allows Draco Meteor tutoring in Generation VII,7,7,
+dragon-scale,battle,type-boost,Boosts Dragon-type moves by 10%,2,2,Unintended effect
+dragon-scale,held,evolution-trigger,Evolves Seadra into Kingdra when traded,2,,
+dragon-skull,story,story-item,Triggers a story event involving Team Plasma and the Nacrene Museum.,5,,
+dragon-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Dragon at the Treasure Eatery in Medali (except Ogerpon and Terapagos).,9,,
+dragoninite,battle,evolution-trigger,Allows Dragonite to Mega Evolve into Mega Dragonite,9,,Requires the Trainer to have a Key Stone
+dragonium-z,held,form-change,Changes Arceus to its Dragon-type form when held.,7,,
+dragonium-z,held,type-boost,Upgrades Dragon-type moves into the Z-Move Devastating Drake or Z-powered status moves.,7,,Cannot be removed by item-manipulating effects; unaffected by Embargo or Klutz.
+drampanite,battle,evolution-trigger,Allows Drampa to Mega Evolve into Mega Drampa if the Trainer has a Key Stone,9,,Only one Pokémon may Mega Evolve per battle
+dread-plate,battle,move-type-change,Judgment becomes Dark-type,4,,Only when held by Arceus
+dread-plate,held,type-boost,Boosts Dark-type moves by 20%,4,,
+dream-ball,battle,catch-rate-modifier,4× catch rate on sleeping or drowsy Pokémon; otherwise 1×,8,,
+dream-mail,held,message-storage,Stores a custom message written by the player and allows it to be traded with the holding Pokémon.,3,3,Cannot be stolen by Covet or Thief; can be removed by Knock Off.
+dropped-item,field,story,Triggers Xtransceiver calls from Curtis or Yancy and allows returning the Xtransceiver after enough calls.,5,,
+ds-sounds,field,toggle,Switches the in-game music to Nintendo DS-era Pokémon soundtracks and alters Pikachu and Eevee cries.,8,,
+dubious-disc,held,evolution-trigger,Evolves Porygon2 into Porygon-Z,4,,Consumed on use
+durin-berry,held,natural-gift,Turns Natural Gift into a Water-type move with 80 power in Gen IV–V and 100 power in Gen VI+.,4,,
+dusk-ball,battle,catch-rate-modifier,Increases catch rate at night or in caves,4,,Modifier varies by generation
+dusk-ball,held,fling,Fling fails,4,,
+dusk-stone,field,evolution-trigger,Evolves certain Pokémon when used,4,,
+dynamax-band,battle,form-change,"Allows a Pokémon to Dynamax or Gigantamax once per battle at Power Spots, enabling Max and G-Max Moves.",8,,
+dynamax-candy,field,stat-boost,"Increases Dynamax Level by 1, increasing Dynamax HP by 5% of base HP per level, up to level 10.",8,,
+dynamax-crystal,field,event-trigger,Activates the Watchtower Lair to spawn a Dynamax Pokémon until midnight or until caught.,8,8,
+dynite-ore,passive,exchange,"Used as currency to exchange for items, unlock Dynamax Adventures, and pay penalties in the Max Lair.",8,,
+earth-plate,held,type-boost,Boosts Ground-type move power by 20%,4,,
+earth-plate,held,type-change,Changes Arceus to Ground type,4,,Requires Multitype
+eelektrossite,battle,evolution-trigger,Allows Eelektross to Mega Evolve into Mega Eelektross when held,9,,Requires the Trainer to have a Key Stone
+eevee-cup,passive,decorative,Decorates the player's picnic without providing gameplay effects.,9,,
+eevium-z,held,z-move,Upgrades Eevee's Last Resort into Extreme Evoboost.,7,,
+egg,passive,ingredient,Used as an ingredient in making a sandwich.,9,,
+egg-ticket,field,exchange,Exchange for an Odd Egg at the Pokémon Communication Center in Goldenrod City.,2,2,Original Japanese version Odd Egg had a 50% chance to be Shiny.
+eggant-berry,held,status-healing,Cures infatuation,3,3,
+eject-button,held,switch,Forces the holder to switch out when hit by a damaging move if it does not faint.,5,,
+eject-pack,battle,switch-out,Automatically switches the holder out when any of its stats are lowered.,8,,
+electirizer,held,evolution-trigger,Evolves Electabuzz into Electivire on trade or use,4,,
+electric-gem,battle,restriction,Fling fails if the user is holding this item,5,,
+electric-gem,held,type-boost,Boosts first Electric-type move by 50% and is consumed,5,5,
+electric-gem,held,type-boost,Boosts first Electric-type move by 30% and is consumed,6,,
+electric-memory,battle,type-change,Multi-Attack becomes Electric-type; Silvally becomes Electric-type,7,,
+electric-memory,field,type-change,Changes Silvally to its Electric-type form,7,,
+electric-seed,battle,stat-boost,+1 Defense stage when Electric Terrain is active,7,,Consumed on activation; in Generation IX it returns after battle
+electric-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Electric,9,,
+electrium-z,held,form-change,Changes Arceus to its Electric-type form.,7,,
+electrium-z,held,type-boost,Upgrades Electric-type moves into the Z-Move Gigavolt Havoc or Electric-type Z-Moves.,7,,Unaffected by Embargo and Klutz; cannot be removed by Trick or Fling.
+elevator-key,field,unlock,"Unlocks the elevator in Lysandre Labs, allowing access to lower floors.",6,,
+elixir,field,pp-restore,Restores 10 PP to all moves,1,,
+emboarite,battle,evolution-trigger,Allows Emboar to Mega Evolve into Mega Emboar,9,,
+endorsement,field,story,Allows the player to participate in the Gym Challenge.,8,,
+energy-powder,field,healing,Restores 50 HP and lowers friendship,2,6,
+energy-powder,field,healing,Restores 60 HP and lowers friendship,7,,
+energy-root,field,healing,Restores 200 HP and lowers friendship,2,6,
+energy-root,field,healing,Restores 120 HP and lowers friendship,7,,
+enigma-berry,held,healing,Restores 1/4 of max HP when hit by a super-effective move,4,,
+enigma-stone,field,event-trigger,Triggers an encounter with Latios or Latias at Pewter Museum after Hall of Fame and National Pokédex.,4,,
+enigmatic-card,field,access,Allows entry to Looker and Anabel's motel room on Route 8.,7,,
+entei-treat,field,encounter-trigger,Allows the player to encounter and battle Entei at East Province (Area Three) and receive hints from Snacksworth.,9,,
+eon-flute,field,field-move,Summons Latios or Latias to allow soaring in the sky and fast travel.,6,,
+eon-mail,held,passive,Allows a Pokémon to hold a written message that can be traded to other games.,2,2,Cannot be stolen by Thief.
+eon-ticket,field,story,Allows travel to Southern Island to encounter Latias or Latios.,3,,
+epice-noire,passive,crafting,Used to make the Bad Dreams Cruller.,9,,
+escape-rope,field,teleport,Returns the player to the cave entrance or last Pokémon Center depending on generation.,1,,
+eternal-ice,passive,crafting-ingredient,Required ingredient to create Snow Balms used to quell or rematch Hisuian Avalugg.,8,,
+ether,field,pp-restoration,Restores 10 PP to one selected move,1,,
+everstone,held,evolution-prevention,Prevents evolution under most conditions while held.,2,,
+everstone,held,breeding-nature,Passes down Nature during breeding.,3,,
+eviolite,held,stat-boost,Raises Defense and Special Defense by 50% if the holder is not fully evolved,5,,
+excadrite,battle,evolution-trigger,Allows Excadrill to Mega Evolve into Mega Excadrill,9,,Requires the Trainer to have a Key Stone
+exercise-ball,field,passive,Can be brought out during a picnic to be kicked around by the player and their party Pokémon.,9,,
+exp-candy-l,field,experience-gain,Increases a Pokémon's experience by 10000 Exp. Points,8,,
+exp-candy-m,field,experience-gain,+3000 Exp. Points,8,,
+exp-candy-s,field,experience-gain,Grants 800 Exp. Points to a Pokémon,8,,
+exp-candy-xl,field,experience-gain,+30000 Exp. Points,8,,
+exp-candy-xs,field,experience-gain,Grants 100 Exp. Points to a Pokémon.,8,,
+exp-charm,passive,experience-boost,Increases party experience gained by 50% while in the Bag; does not apply to Poké Jobs or Exp. Candies.,8,,
+exp-share,field,experience-share,All party Pokémon gain experience from battles,6,9,Toggleable Key Item
+exp-share,held,experience-share,Shares experience points with party Pokémon,1,5,
+expert-belt,held,type-boost,Boosts supereffective move damage by 20%,4,,
+explorer-kit,field,access,Allows the player to access the Underground or Grand Underground from most locations in Sinnoh.,4,,
+fab-mail,held,passive,Allows the holder to carry a customizable Easy Chat message that can be traded to other Generation III games.,3,3,Cannot be stolen by Thief or Covet; can be removed by Knock Off.
+fairium-z,held,form-change,Changes Arceus to its Fairy-type form.,7,,Due to Multitype.
+fairium-z,held,type-boost,Upgrades Fairy-type moves into Z-Moves such as Twinkle Tackle.,7,,Cannot be removed by Trick or Fling; unaffected by Embargo or Klutz.
+fairy-feather,held,type-boost,Boosts Fairy-type move power by 20%,9,,
+fairy-gem,battle,restriction,Fling fails if the user is holding this item.,6,,
+fairy-gem,held,type-boost,Boosts the first Fairy-type move used by 30% and is consumed.,6,,
+fairy-memory,battle,type-change,Changes Multi-Attack to Fairy type and Silvally to Fairy type.,7,,
+fairy-memory,field,type-change,Changes Silvally to its Fairy-type form.,7,,
+fairy-tera-shard,field,tera-type-change,Use 50 shards to change a Pokémon’s Tera Type to Fairy at the Treasure Eatery in Medali.,9,,Cannot be used on Ogerpon or Terapagos.
+falinksite,battle,evolution-trigger,Allows Falinks to Mega Evolve into Mega Falinks while held.,9,,Requires a Key Stone; only one Mega Evolution can occur per battle.
+fame-checker,field,information,Records and displays quotes and information about notable characters encountered.,3,3,
+fancy-apple,field,crafting,Used as an ingredient when cooking curry,8,,
+fast-ball,battle,catch-rate,4× catch rate if target has base Speed ≥ 100; otherwise 1×,4,,Ultra Beasts instead use a reduced catch modifier.
+favored-mail,held,passive,Allows the holder to carry a customizable Easy Chat message that can be traded to other games of the same generation.,5,,"Prevents certain moves and abilities such as Trick, Switcheroo, Bestow, and Fling."
+feather-ball,battle,catch-rate-modifier,1.25× on specific flying encounters; otherwise 1×,8,,
+feraligite,battle,evolution-trigger,Allows Feraligatr to Mega Evolve into Mega Feraligatr,9,,Requires a Key Stone; only one Mega Evolution per battle
+festival-ticket,held,fling-interaction,Fling fails if the user is holding this item.,7,,
+festival-ticket,passive,field,Allows the player to host a mission in Festival Plaza.,7,,
+fiery-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+fighting-gem,held,type-boost,Boosts first Fighting-type move by 50%,5,5,Consumed after use
+fighting-gem,held,type-boost,Boosts first Fighting-type move by 30%,6,,Consumed after use
+fighting-memory,held,type-change,Changes Silvally to Fighting type and makes Multi-Attack Fighting type.,7,,Cannot be removed or swapped by item-manipulating moves.
+fighting-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Fighting at the Treasure Eatery in Medali.,9,,
+fightinium-z,held,type-boost,Upgrades Fighting-type moves into the Z-Move All-Out Pummeling or Z-status moves.,7,,Multitype changes Arceus to Fighting type while held.
+figy-berry,field,healing,Restores HP when used from the Bag.,3,9,
+figy-berry,held,healing,Restores HP when in a pinch; may cause confusion if Pokémon dislikes spicy flavor.,3,9,
+fine-remedy,field,friendship-decrease,Lowers friendship,8,,
+fine-remedy,field,healing,Restores 100 HP,8,,
+fire-gem,held,type-boost,+50% power to first Fire-type move,5,5,Consumed after use; Fire Pledge does not consume the gem.
+fire-gem,held,type-boost,+30% power to first Fire-type move,6,,Consumed after use.
+fire-memory,battle,type-change,Multi-Attack becomes Fire type when used by the holder.,7,,
+fire-memory,held,form-change,Changes Silvally to its Fire-type form via the RKS System.,7,,Cannot be removed or swapped by item-manipulating moves.
+fire-pattern-cup,passive,cosmetic,Decorates the player's picnic with a fire-themed cup.,9,,
+fire-stone,field,evolution-trigger,Evolves certain Pokémon when used,1,,Consumed upon use
+fire-tera-shard,field,tera-type-change,Consumes 50 Fire Tera Shards to change a Pokémon’s Tera Type to Fire.,9,,
+firium-z,held,type-boost,Upgrades Fire-type moves into the Z-Move Inferno Overdrive or corresponding Z-Moves.,7,,
+firium-z,held,form-change,Changes Arceus to its Fire-type form via Multitype.,7,,
+fishing-rod,field,utility,Allows the player to fish for Pokémon and items at fishing spots.,7,,
+fist-plate,held,type-change,Changes Arceus to Fighting type,4,,Requires Multitype ability
+fist-plate,held,type-boost,Boosts Fighting-type moves by 20%,4,,
+flame-mail,held,passive,Allows a Pokémon to carry a written message using the easy chat system that can be traded to other Generation IV games.,4,4,Prevents PC storage and Day Care placement while held.
+flame-orb,held,status-infliction,Burns the holder at the end of the turn,4,,Does not deal burn damage on the turn it activates
+flame-plate,held,form-change,Changes Arceus to Fire type,4,,Multitype ability
+flame-plate,held,type-boost,Boosts Fire-type move power by 20%,4,,
+float-stone,held,weight-modifier,Halves the holder's weight,5,,Weight cannot be reduced below 0.1 kg
+floettite,battle,evolution-trigger,Allows Eternal Flower Floette to Mega Evolve into Mega Floette,9,,Requires the Trainer to have a Key Stone
+flower-mail,held,message-storage,Stores a freely written message up to 32 characters that can be traded with the Pokémon holding it.,2,2,Cannot be stolen by Thief.
+flower-pattern-cup,passive,decorative,Decorates the player's picnic with no functional effect.,9,,
+flower-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Item is consumed upon evolution
+fluffy-tail,battle,escape,Guarantees escape from wild Pokémon battles,3,,
+flying-gem,held,type-boost,Boosts the first Flying-type move by 50%,5,5,Consumed after use; enables Acrobatics double power if consumed beforehand.
+flying-gem,held,type-boost,Boosts the first Flying-type move by 30%,6,,Consumed after use.
+flying-memory,battle,type-change,Changes Multi-Attack to Flying type and Silvally to Flying form,7,,
+flying-memory,field,type-change,Changes Silvally to Flying form while held,7,,
+flying-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Flying at the Treasure Eatery in Medali.,9,,Does not apply to Ogerpon or Terapagos.
+flyinium-z,held,type-boost,Upgrades Flying-type moves into the Z-Move Supersonic Skystrike or corresponding Z-Moves.,7,,
+flyinium-z,passive,form-change,Changes Arceus to its Flying-type form when held.,7,,Multitype ability interaction
+focus-band,held,survival,Chance to survive a KO hit with 1 HP,2,,Activation chance varies by generation
+focus-sash,battle,survival,Survives a fatal hit with 1 HP when at full HP,4,,"From Generation V onward, only protects from the first hit of multi-strike moves"
+forage-bag,passive,storage,Stores ingredients collected during Mallow's trial in Lush Jungle.,7,,
+forest-balm,battle,status,Calms the frenzied Kleavor during its boss battle.,8,,
+fossilized-bird,passive,evolution-trigger,Allows restoration into Dracozolt or Arctozolt when combined with the appropriate fossil,8,,Requires the Revival Machine on Route 6
+fossilized-dino,passive,evolution-trigger,Allows regeneration into Arctozolt with Fossilized Bird or Arctovish with Fossilized Fish at a Revival Machine.,8,,
+fossilized-drake,passive,evolution-trigger,Allows revival into Dracozolt or Dracovish when combined with the appropriate fossil,8,,Requires the Revival Machine on Route 6
+fossilized-fish,passive,evolution-trigger,Allows restoration of Dracovish or Arctovish when combined with the appropriate fossil,8,,Requires the Revival Machine on Route 6
+fresh-cream,field,crafting,Used as an ingredient when cooking curry,8,,
+fresh-start-mochi,field,stat-reset,Resets all base points (EVs) to zero,9,,
+fresh-water,field,healing,Restores 50 HP,1,6,
+fresh-water,field,healing,Restores 30 HP,7,,
+fried-fillet,field,crafting,Used as an ingredient when making sandwiches.,9,,
+fried-food,field,crafting,Used as an ingredient when cooking curry,8,,
+friend-ball,battle,capture,Catch rate modifier 1×; sets friendship to 200 (Gen II–VII) or 150 (Gen VIII+).,2,,Ultra Beasts have reduced modifier.
+friend-ball,held,fling,Fling fails if the user is holding this item.,4,,
+froslassite,battle,evolution-trigger,Allows Froslass to Mega Evolve into Mega Froslass,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution can occur per battle
+fruit-bunch,field,crafting,Used as an ingredient when cooking curry.,8,,
+full-heal,field,status-healing,Cures all non-volatile status conditions and confusion.,1,,
+full-incense,battle,priority-modifier,Holder moves last in its priority bracket,4,,Unaffected by Trick Room timing changes depending on generation
+full-incense,field,breeding,Produces a Munchlax Egg instead of Snorlax,4,,
+full-restore,battle,healing,Fully restores HP and cures all non-volatile status conditions and confusion,1,,
+galactic-key,field,story,Disengages a mirror door or activates a warp panel during Episode RR; item is consumed.,7,7,Ultra Sun and Ultra Moon only
+galactic-key,field,story,Opens locked doors in Galactic Warehouse Underpass and Team Galactic HQ.,4,8,
+galarica-cuff,field,evolution-trigger,Evolves Galarian Slowpoke into Galarian Slowbro,8,,Item is consumed upon use
+galarica-twig,field,exchange,Used to exchange for Galarica Cuff or Galarica Wreath in specific locations.,8,,
+galarica-wreath,field,evolution-trigger,Evolves Galarian Slowpoke into Galarian Slowking,8,,Item is consumed on use
+galladite,battle,evolution-trigger,Allows Gallade to Mega Evolve into Mega Gallade,6,,Requires a Key Stone
+ganlon-berry,held,stat-boost,Raises Defense by one stage when HP is low,3,,Gluttony triggers at 50% HP; Ripen doubles the boost.
+garchompite,held,evolution-trigger,Allows Mega Evolution into Mega Garchomp,6,,
+garchompite-z,battle,evolution-trigger,Allows Garchomp to Mega Evolve into Mega Garchomp Z if the Trainer has a Key Stone.,9,,Only one Mega Evolution can occur at a time.
+gardevoirite,held,evolution-trigger,Allows Mega Evolution into Mega Gardevoir,6,,Requires a Key Stone
+gb-sounds,field,audio-change,"Changes background music to chiptune-style arrangements inspired by Pokémon Gold, Silver, and Crystal.",4,,Does not affect sound effects or radio music.
+gengarite,held,evolution-trigger,Allows Gengar to Mega Evolve into Mega Gengar,6,,Requires Key Stone
+genius-feather,field,stat-boost,+1 Special Attack EV and slight friendship increase,5,,
+genius-mochi,field,stat-boost,Increases Special Attack EVs by 10,9,,
+genome-slate,field,story,Allows the player to battle Mewtwo in the Genome Room at Ramanas Park.,8,,
+gentle-mint,field,nature-change,Changes the effect of a Pokémon's Nature to Gentle.,8,,
+ghost-gem,held,type-boost,Boosts first Ghost-type move by 50% and is consumed.,5,5,
+ghost-gem,held,type-boost,Boosts first Ghost-type move by 30% and is consumed.,6,,
+ghost-memory,battle,type-change,Multi-Attack becomes Ghost-type; Silvally becomes Ghost-type,7,,
+ghost-memory,field,type-change,Silvally becomes Ghost-type,7,,
+ghost-tera-shard,field,evolution-trigger,Use 50 shards to change a Pokémon’s Tera Type to Ghost at the Treasure Eatery in Medali.,9,,Cannot be used on Ogerpon or Terapagos.
+ghostium-z,held,type-boost,Upgrades Ghost-type moves into the Z-Move Never-Ending Nightmare or Z-Powered status moves,7,,
+ghostium-z,held,form-change,Changes Arceus to its Ghost-type form via Multitype,7,,
+gigantamix,field,crafting,Used as an ingredient when cooking curry.,8,,
+gigaton-ball,battle,capture-rate,2.75× catch rate modifier,8,,Always applies during battle regardless of prior detection.
+gigaton-ball,field,capture-rate,2.75× if unnoticed; 2.5× otherwise,8,,
+glalitite,held,evolution-trigger,Allows Glalie to Mega Evolve into Mega Glalie,6,,Requires the Trainer to have a Key Stone.
+glastrier-treat,field,encounter-trigger,Allows the player to encounter and battle Glastrier at Glaseado Mountain and receive a location hint from Snacksworth.,9,,
+glimmering-charm,passive,reward-boost,Adds an extra reward slot containing Tera Shards after completing eligible Tera Raid Battles; shard quantity depends on raid difficulty.,9,,3★: 2 shards; 4★: 5 shards; 5★: 10 shards; 6★: 12 shards.
+glimmoranite,battle,evolution-trigger,Allows Glimmora to Mega Evolve into Mega Glimmora,9,,Requires the Trainer to have a Key Stone
+glitter-mail,held,passive,Allows the player to write and store a message using Easy Chat phrases while held by a Pokémon.,3,3,Message cannot be retained when stored in the Bag or Item Storage System.
+go-goggles,passive,field-access,Allows travel through desert sandstorms such as on Route 111 and Mirage Tower.,3,,
+gold-berry,field,healing,Restores 30 HP when used from the Bag,2,2,
+gold-berry,held,healing,Restores 30 HP when HP falls below 50%,2,2,
+gold-bottle,passive,decorative,Decorates the player's picnic with no functional effect.,9,,
+gold-bottle-cap,field,stat-boost,Maximizes all IVs of a Pokémon via Hyper Training,7,,
+gold-canari-plush-lv-1,passive,money-boost,+15% prize money,9,,Also applies to prize medals
+gold-canari-plush-lv-2,passive,money-boost,+30% prize money,9,,Also applies to prize medals
+gold-canari-plush-lv-3,passive,money-boost,+50% prize money,9,,Also applies to prize medals
+gold-cup,passive,decorative,Decorates the player's picnic with no practical gameplay effect.,9,,
+gold-leaf,passive,sell-only,Can only be sold for money.,2,,
+gold-pick,field,passive,Used to complete a sandwich during a picnic,9,,
+gold-teeth,field,field-move,Allows the Safari Zone Warden to teach the Secret Technique Strong Push,7,7,
+gold-teeth,field,hm-tm-reward,Exchanged with the Safari Zone Warden for HM04 Strength,1,3,
+golden-nanab-berry,field,catching-aid,Greatly reduces wild Pokémon movement and slows target ring shrink speed until a Poké Ball is thrown.,7,,
+golden-pinap-berry,field,capture-boost,Greatly increases the chance of receiving items after catching a wild Pokémon; effect ends if the Pokémon breaks free.,7,,
+golden-razz-berry,battle,catch-rate-boost,Drastically increases the catch rate until the Pokémon breaks out of a Poké Ball.,7,,
+golisopite,battle,evolution-trigger,Allows Golisopod to Mega Evolve into Mega Golisopod while held.,9,,Trainer must possess a Key Stone; only one Mega Evolution can occur per battle.
+golurkite,held,evolution-trigger,Allows Golurk to Mega Evolve into Mega Golurk during battle if the Trainer has a Key Stone,9,,
+good-rod,field,encounter,Allows fishing for mid-level wild Pokémon.,1,,
+gooey-mulch,field,berry-growth,Increases regrowth count to 150% of normal,4,4,
+gooey-mulch,field,none,No practical effect,5,,
+gorgeous-box,field,decoration-unlock,Obtains the Gold Trophy decoration when opened; consumed on use.,2,2,"If the Gold Trophy is already owned, the item is still consumed with no effect."
+gracidea,field,form-change,Changes Shaymin from Land Forme to Sky Forme,4,,Cannot be used at night or when Shaymin is frozen
+grain-cake,field,lure,Attracts many common overworld Pokémon when thrown.,8,,
+gram-1,field,story,Returning all three Grams to Wingull results in receiving TM89 (U-turn).,5,,
+gram-2,field,story,Returning all three Grams to Wingull results in receiving TM89 (U-turn).,5,,
+gram-3,field,story,Returning all three Grams to Wingull results in receiving TM89 (U-turn).,5,,
+grass-gem,held,type-boost,Boosts the first Grass-type move by 50% and is consumed,5,5,Grass Pledge will not consume the item.
+grass-gem,held,type-boost,Boosts the first Grass-type move by 30% and is consumed,6,,
+grass-mail,battle,move-interaction,Fling fails; cannot be stolen by Thief or Covet; Trick and Switcheroo fail.,4,4,
+grass-mail,held,message-storage,Allows the holder to carry a customizable message that can be traded to other Generation IV games.,4,4,Prevents PC storage and Day Care use while held.
+grass-memory,held,type-change,Changes Silvally to Grass type and makes Multi-Attack Grass type.,7,,
+grass-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Grass at the Treasure Eatery in Medali,9,,Cannot be used on Ogerpon or Terapagos
+grassium-z,held,type-boost,Upgrades Grass-type moves into Z-Moves such as Bloom Doom,7,,
+grassium-z,held,form-change,Changes Arceus to its Grass-type form via Multitype,7,,
+grassy-seed,held,stat-boost,Raises Defense by 1 stage when Grassy Terrain becomes active,7,,
+great-ball,battle,catch-rate-modifier,x1.5 catch rate on wild Pokémon,1,,Ultra Beasts use a reduced modifier.
+great-ball-hisuian,battle,catch-rate-modifier,x1.5,8,,
+great-butter,field,passive,Allows up to five berries to be used when making donuts.,9,,Used by Ansha to make Donuts.
+green-apricorn,field,crafting,Can be turned into a Friend Ball by Kurt.,2,,
+green-apricorn,passive,stat-boost,Produces Aprijuice that boosts Jump Performance.,4,,Via Apriblender
+green-bell-pepper,field,crafting,Used as an ingredient in making a sandwich,9,,
+green-canari-plush-lv-1,passive,stat-boost,Max health increased to 150,9,,
+green-canari-plush-lv-2,passive,stat-boost,Max health increased to 200,9,,
+green-canari-plush-lv-3,passive,stat-boost,Max health increased to 250,9,,
+green-dish,field,passive,Used by default during sandwich making to place the sandwich.,9,,
+green-petal,passive,story,One of seven petals required for Mina to create the Rainbow Flower.,7,,
+green-poke-ball-pick,field,utility,Completes a sandwich made during a picnic.,9,,
+green-scarf,held,contest-boost,Raises Cleverness in Pokémon Contests (20 points in Generation III).,3,,
+green-shard,field,exchange,"Used as currency for move tutors, items, and crafting",3,,
+greet-mail,held,passive,Allows the holder to carry a customizable written message using the easy chat system.,5,5,"Prevents PC storage, Day Care use, Trick, Switcheroo, Bestow, Fling, Covet, Thief, and Pickpocket."
+greninjite,battle,evolution-trigger,Allows Greninja to Mega Evolve into Mega Greninja if the Trainer has a Key Stone,9,,Only one Mega-Evolved Pokémon can be active at a time
+grepa-berry,field,friendship,Increases friendship and lowers Special Defense EVs by 10,3,,
+grip-claw,held,move-duration,Binding moves always last 5 turns,4,4,
+grip-claw,held,move-duration,Binding moves always last 7 turns,5,,
+griseous-core,field,form-change,Switches Giratina between Altered Forme and Origin Forme when used,8,8,Used from the satchel in Pokémon Legends: Arceus
+griseous-core,held,type-boost,Boosts Giratina's Dragon- and Ghost-type moves by 20%,9,,
+griseous-core,held,form-change,Changes Giratina to its Origin Forme,9,,
+griseous-orb,held,type-boost,Boosts Dragon- and Ghost-type moves when held by Giratina,9,,Now affected by item manipulation effects
+griseous-orb,held,type-boost,Boosts Dragon- and Ghost-type moves by 20% when held by Giratina,4,8,Unaffected by Embargo or Klutz in these generations
+grit-dust,field,stat-boost,"Raises the effort level of one stat by 1, up to level 3",8,,
+grit-gravel,field,stat-boost,Raises the effort level of one stat by 1 when the effort level is between 3 and 5.,8,,
+grit-pebble,field,stat-boost,"Raises the effort level of one stat by 1 when used, if the stat’s effort level is between 6 and 8.",8,,
+grit-rock,field,stat-boost,Raises one stat’s effort level to 10 if it is already at 9.,8,,
+groudon-treat,field,story,Allows the player to encounter and battle Groudon at Alfornada Cavern and receive a hint from Snacksworth about its location.,9,,
+ground-gem,held,type-boost,Boosts the first Ground-type move used by 30% and is consumed.,6,,
+ground-gem,held,type-boost,Boosts the first Ground-type move used by 50% and is consumed.,5,5,Fling fails if the holder has a Ground Gem.
+ground-memory,battle,type-change,Multi-Attack becomes Ground type; Silvally changes to Ground form,7,,Memory cannot be removed or swapped via item-manipulating moves.
+ground-memory,field,type-change,Silvally changes to Ground form,7,,
+ground-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Ground.,9,,
+groundium-z,held,type-boost,Upgrades Ground-type moves into the Z-Move Tectonic Rage or Z-powered status moves.,7,,
+groundium-z,held,form-change,Changes Arceus to its Ground-type form when held.,7,,Due to Multitype
+growth-mulch,field,growth-modifier,Reduces Berry growth time to 75% but dries soil 50% faster,4,4,
+growth-mulch,passive,no-effect,No practical effect other than selling,5,,
+grubby-hanky,field,story,Can be returned on Thursday to its owner at Café Warehouse; returning on Sunday grants a Fluffy Tail.,5,,
+gs-ball,field,event-trigger,Summons a level 30 wild Celebi at the Ilex Forest shrine after analysis by Kurt.,2,2,
+guard-spec,battle,stat-protection,Prevents stat-lowering effects on the user's side for 5 turns,3,,Replicates the effect of Mist.
+guidebook,field,passive,Records and allows review of the player's adventure information and notes.,4,,
+gyaradosite,held,evolution-trigger,Allows Mega Evolution of Gyarados,6,,
+haban-berry,held,type-reduction,Halves damage from one super effective Dragon-type attack (¼ with Ripen).,4,,
+ham,field,crafting,Used as an ingredient when making sandwiches.,9,,
+hamburger,field,crafting,Used as an ingredient when making sandwiches.,9,,
+harbor-mail,held,passive,Allows the holder to carry a written message using Easy Chat phrases.,3,3,
+hard-stone,held,type-boost,Boosts Rock-type move power by 10%,2,3,
+hard-stone,held,type-boost,Boosts Rock-type move power by 20%,4,,
+hasty-mint,field,stat-modifier,"Applies the effects of the Hasty Nature (Speed up, Defense down)",8,,
+hawluchanite,battle,evolution-trigger,Allows Hawlucha to Mega Evolve into Mega Hawlucha,9,,Only one Mega Evolution is allowed per battle
+heal-ball,battle,capture-modifier,Catch rate modifier 1× (Ultra Beasts: ~0.1×),4,,
+heal-ball,passive,healing,"Fully restores HP, PP, and status of caught Pokémon",4,,
+heal-powder,field,healing,Cures all non-volatile status conditions and confusion; lowers friendship,2,,
+health-candy,field,stat-boost,"Increases HP by 1 AV, up to 50 AVs.",7,,
+health-candy-l,field,stat-boost,"Increases HP by 1 AV when used on a Pokémon level 30 or higher, up to 100 AVs.",7,,
+health-candy-xl,field,stat-boost,"Increases HP by 1 AV for Pokémon Lv. 60 or higher, up to 200 HP AVs.",7,,
+health-feather,field,stat-boost,+1 HP EV and slight friendship increase,5,,
+health-mochi,field,stat-boost,Increases HP EVs by 10.,9,,
+heart-mail,held,passive,Allows a Pokémon to hold a written message that can be traded to other Generation IV games.,4,4,"Prevents PC storage, Day Care use, and interaction with moves like Trick, Switcheroo, Thief, and Covet."
+heart-scale,field,move-reminder,Allows a Move Reminder to teach one move to one Pokémon,3,,"In BDSP, cost removed after 10 uses"
+hearthflame-mask,battle,stat-boost,Increases the power of the holder's moves by 20%,9,,
+hearthflame-mask,held,form-change,Changes Ogerpon to its Hearthflame Mask form,9,,
+hearty-grains,field,crafting,"Used to craft Grain Cake, Jubilife Muffin, and Choice Dumpling",8,,
+hearty-grains,field,bait,Attracts certain Pokémon when thrown,8,,
+heat-rock,held,weather-duration,Extends harsh sunlight to 8 turns,4,,"Prior to Generation VI, does not affect Drought."
+heatranite,battle,evolution-trigger,Allows Heatran to Mega Evolve into Mega Heatran,9,,Requires the Trainer to have a Key Stone
+heavy-ball,battle,capture-modifier,Catch rate modifier based on Pokémon weight,2,,Less effective on lighter Pokémon; special rules for Ultra Beasts and certain generations.
+heavy-ball,battle,catch-rate-modifier,x1.25,8,,"In Legends: Arceus battles, the bonus always applies."
+heavy-ball,field,catch-rate-modifier,x1.25 if target is unaware; x1 otherwise,8,,
+heavy-duty-boots,held,passive,Prevents damage and effects from entry hazards; grounded Poison-type holders still remove Toxic Spikes on entry.,8,,
+helix-fossil,field,evolution-trigger,Regenerates into Omanyte at fossil labs,1,,
+heracronite,held,evolution-trigger,Allows Heracross to Mega Evolve into Mega Heracross,6,,
+herbed-sausage,field,crafting,Used as an ingredient to make sandwiches.,9,,
+heroic-sword-pick,field,passive,Used to complete a sandwich during a picnic,9,,
+hi-tech-earbuds,field,passive,"Allows the player to adjust or mute background music, sound effects, and Pokémon cries.",8,,
+hm01,field,move-teaching,Teaches the move Cut.,1,,HM moves can be taught an unlimited number of times.
+hm02,field,hm-tm-reward,Allows use of Fly outside battle when the required Badge is obtained.,1,,
+hm03,field,move-teaching,Teaches Surf for overworld water travel.,1,,
+hm04,field,move-teaching,Teaches Strength,1,,
+hm05,field,move-teaching,Teaches a move usable in the field if the required Badge is obtained.,1,,No Badge is required in Generation V.
+hm06,field,hm-tm,Allows use of the taught move in the field with the required Badge (except Generation V).,2,,
+hm07,field,hm-move-teaching,"Allows teaching a specific move usable in the field, depending on the game.",2,,
+hm08,field,move-teaching,Teaches a move usable in the field if the required Badge is obtained.,3,,
+ho-oh-treat,field,encounter-trigger,Allows the player to encounter and battle Ho-Oh at South Province (Area Four).,9,,Showing it to Snacksworth provides a hint to Ho-Oh's location.
+hoennian-salt,field,crafting,Used to make the Omega and Alpha Old-Fashioned Donuts.,9,,
+holo-caster,field,communication,Receives hologram messages and news to advance the story and interact with other players.,6,,
+hometown-muffin,passive,quest-item,Completes Request 48: The Taste of Home,8,,
+hondew-berry,field,friendship,Increases friendship and lowers Special Attack EVs by 10,3,,"In Generation IV only, EV is reduced to 100 if above 110"
+honey,field,encounter-trigger,Triggers a wild Pokémon battle similar to Sweet Scent,4,7,Can cause Horde Encounters in Generation VI
+honey-cake,field,lure,"Attracts certain Pokémon, especially Bug-type, Fairy-type, and fairy-like Pokémon.",8,,
+honor-of-kalos,passive,story-proof,Proof of defeating Team Flare and becoming Champion of the Kalos Pokémon League,6,,
+hopo-berry,field,healing,Restores 10 PP to one move when used on a Pokémon,8,,
+hopo-berry,field,passive,Dulls reactions of wild Pokémon when thrown,8,,
+horseradish,field,ingredient,Used as an ingredient in making a sandwich.,9,,
+houndoominite,held,evolution-trigger,Enables Mega Evolution into Mega Houndoom,6,,Requires Key Stone; unaffected by Embargo or Klutz
+hp-up,field,stat-boost,Raises HP EVs up to 252 regardless of prior EVs,8,,
+hp-up,field,stat-boost,Raises HP EVs by 10 per use,3,7,Increases friendship slightly
+hyper-babiri-berry,passive,crafting-ingredient,Used as an ingredient for donuts,9,,
+hyper-charti-berry,passive,crafting-ingredient,Used only as an ingredient for making donuts.,9,,
+hyper-chesto-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-chople-berry,passive,crafting-ingredient,Used as an ingredient for making donuts; cannot be used directly.,9,,
+hyper-coba-berry,passive,crafting-ingredient,Used as an ingredient for making donuts; cannot be used directly.,9,,
+hyper-colbur-berry,passive,crafting-ingredient,Used only as an ingredient for making donuts,9,,
+hyper-grepa-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-haban-berry,passive,crafting-ingredient,Used only as an ingredient for making donuts.,9,,
+hyper-hondew-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-kasib-berry,passive,crafting-ingredient,Used as an ingredient for making donuts.,9,,Cannot be used directly.
+hyper-kebia-berry,passive,crafting-ingredient,Used as an ingredient for making donuts; cannot be used directly.,9,,
+hyper-kelpsy-berry,passive,crafting-material,Used only as an ingredient for donuts,9,,
+hyper-lum-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-occa-berry,passive,crafting-ingredient,Used as an ingredient for making donuts.,9,,
+hyper-oran-berry,passive,crafting-ingredient,Used only as an ingredient for making donuts,9,,
+hyper-passho-berry,passive,crafting,Used as an ingredient for making donuts.,9,,
+hyper-payapa-berry,passive,crafting,Used as an ingredient for donuts,9,,
+hyper-pecha-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-persim-berry,passive,crafting-ingredient,Used as an ingredient for making donuts; cannot be used directly.,9,,
+hyper-pomeg-berry,passive,crafting,Used only as an ingredient for donuts; cannot be used directly.,9,,
+hyper-potion,field,healing,Restores HP (200/120/150 depending on generation),1,,
+hyper-qualot-berry,passive,crafting-ingredient,Used only as an ingredient for donuts,9,,
+hyper-rawst-berry,passive,crafting-ingredient,Used as an ingredient for donuts; cannot be used directly.,9,,
+hyper-rindo-berry,passive,crafting,Used as an ingredient for donuts,9,,
+hyper-shuca-berry,passive,crafting-ingredient,Used as an ingredient for making donuts,9,,Cannot be used directly
+hyper-sitrus-berry,passive,crafting-ingredient,Used only as an ingredient for donuts,9,,
+hyper-tamato-berry,passive,crafting-ingredient,Used only as an ingredient for donuts and cannot be used directly.,9,,
+hyper-tanga-berry,passive,crafting-ingredient,Cannot be used directly; used only as an ingredient for donuts.,9,,
+hyper-wacan-berry,passive,crafting-ingredient,Used as an ingredient for making donuts,9,,Cannot be used directly.
+hyper-yache-berry,passive,crafting-ingredient,Used as an ingredient for making donuts; cannot be used directly.,9,,
+hyperspace-butter,field,passive,Allows up to eight berries to be used when making donuts.,9,,Used by Ansha
+iapapa-berry,field,healing,Restores HP when used from the Bag.,3,,
+iapapa-berry,held,healing,Restores HP when holder is in a pinch; may cause confusion if sour is disliked.,3,,Healing amount varies by generation.
+ice-berry,field,status-healing,Cures burn when used from the Bag.,2,2,
+ice-berry,held,status-healing,Cures burn when the holder becomes burned.,2,2,
+ice-gem,held,type-boost,Boosts first Ice-type move by 50% and is consumed,5,5,
+ice-gem,held,type-boost,Boosts first Ice-type move by 30% and is consumed,6,,
+ice-heal,field,status-cure,Cures the frozen status condition.,1,,
+ice-memory,battle,type-change,Changes Multi-Attack to Ice type and makes Silvally Ice type,7,,
+ice-memory,field,type-change,Changes Silvally to its Ice-type form,7,,
+ice-stone,field,evolution-trigger,Evolves certain Pokémon when used,7,,
+ice-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Ice at the Treasure Eatery in Medali,9,,
+iceroot-carrot,field,story,Allows the player to summon Glastrier at the Crown Shrine.,8,,
+icicle-plate,battle,move-type-change,Judgment becomes Ice-type,4,,Only when held by Arceus
+icicle-plate,field,form-change,Changes Arceus to Ice type,4,,
+icicle-plate,held,type-boost,Boosts Ice-type moves by 20%,4,,
+icium-z,held,type-boost,Upgrades Ice-type moves into the Z-Move Subzero Slammer or Ice-type Z-Moves.,7,,Cannot be removed by item-negating or item-manipulating effects.
+icy-rock,held,weather-duration,Extends hail or snow duration to 8 turns,4,,Affects snow instead of hail starting Generation IX
+ilimas-normalium-z,field,story,Activates a one-time rematch with Totem Gumshoos in Ultra Sun or Totem Raticate in Ultra Moon when placed on the pedestal in Verdant Cavern.,7,7,
+impish-mint,field,stat-modifier,"Changes nature effect to Impish: Defense up, Special Attack down",8,,
+incinium-z,held,evolution-trigger,Upgrades Incineroar's Darkest Lariat into the Z-Move Malicious Moonsault.,7,,Unaffected by item-negating effects; cannot be removed by Trick or Fling.
+indigo-disk,field,story,Redirects the Zero Lab elevator to the Area Zero Underdepths and is consumed on use.,9,,
+indigo-style-card,passive,unlock,Increases available options at certain clothing stores and hair salons.,9,,
+inquiry-mail,held,passive,Allows a Pokémon to carry a customizable message using Easy Chat phrases that can be traded to other games.,5,5,"Cannot be stolen, flung, or transferred to later generations."
+insect-plate,held,form-change,Changes Arceus to Bug type; Judgment becomes Bug-type,4,,
+insect-plate,held,type-boost,Boosts Bug-type move power by 20%,4,,
+instant-noodles,field,crafting,Used as an ingredient when making curry.,8,,
+intriguing-stone,field,exchange,Can be exchanged for a Sun Stone after being shown to Gurkinn in the Tower of Mastery.,6,6,Pokémon X and Y only.
+intriguing-stone,field,identification,Identified as a Pidgeotite by Mr. Stone at the Devon Corporation.,6,6,Pokémon Omega Ruby and Alpha Sapphire only.
+iron,field,stat-boost,Raises Defense EVs,1,,Consumed on use; increases friendship in later generations
+iron-ball,held,stat-modifier,Halves Speed and grounds the holder,4,,
+iron-barktongue,passive,crafting-material,Two are required to craft an Aux Guard.,8,,
+iron-chunk,passive,crafting,Used to craft various Poké Balls; quantities vary by ball type.,8,,
+iron-plate,battle,move-type-change,Judgment becomes Steel-type,4,,
+iron-plate,held,form-change,Changes Arceus to Steel type,4,,Multitype ability
+iron-plate,held,type-boost,Boosts Steel-type moves by 20%,4,,
+item-drop,battle,special,Removes held item for battle,5,,
+item-urge,battle,special,Activates held item effect,5,,
+jaboca-berry,held,damage-reflection,Attacker loses 1/8 max HP when using a physical move; 1/4 if holder has Ripen.,4,,
+jade-orb,field,story-trigger,Allows the player to encounter Rayquaza at the Embedded Tower.,4,,
+jalapeno,passive,ingredient,Used as an ingredient when making sandwiches.,9,,
+jam,field,crafting,Used as an ingredient when making sandwiches.,9,,
+jaw-fossil,passive,evolution-trigger,Can be restored into Tyrunt at specific locations,6,,
+jet-ball,field,catch-rate-modifier,2× normally; 2.75× against specific flying encounters,8,,
+johto-slate,field,event-trigger,"Allows access to battle Raikou, Entei, and Suicune in the Johto Room at Ramanas Park.",8,,
+jolly-mint,field,stat-modifier,"Changes nature effects to Jolly (Speed up, Special Attack down)",8,,
+jubilife-muffin,field,healing,Cures all non-volatile status conditions.,8,,
+kangaskhanite,held,evolution-trigger,Allows Mega Evolution into Mega Kangaskhan,6,,
+kanto-slate,field,story,"Allows the player to battle Articuno, Zapdos, and Moltres in the Kanto Room at Ramanas Park.",8,,
+kasib-berry,held,type-reduction,Halves damage from a supereffective Ghost-type attack; quarters it if the holder has Ripen.,4,,
+kebia-berry,held,type-reduction,Halves damage from one super-effective Poison-type attack,4,,"With Ripen, damage is reduced to one quarter"
+kee-berry,held,stat-boost,Raises Defense by one stage when hit by a physical move; consumed after use. Raises by two stages if the holder has Ripen.,6,,
+kelpsy-berry,field,friendship-boost,Increases friendship and lowers Attack EVs by 10,3,,
+ketchup,field,sandwich-modifier,"Adds Sweet Taste +8, Salty Taste +16, Sour Taste +16, Egg Power −3, Exp. Power +12, Raid Power +21, Flying Type Power +2, Poison Type Power +2",9,,
+key-stone,battle,evolution-trigger,Allows one Pokémon holding a Mega Stone to Mega Evolve per battle.,6,,
+key-to-room-1-hoenn,field,unlock,Unlocks Room 1 in the Abandoned Ship or Sea Mauville and is consumed after use.,3,,
+key-to-room-2,field,unlock,Unlocks Room 2 in the Abandoned Ship or Sea Mauville and is consumed on use.,3,,
+key-to-room-202,field,unlock,Unlocks the player's room at Hotel Z,9,,
+key-to-room-4,field,unlock,Unlocks the door to Room 4 in the Abandoned Ship or Sea Mauville and is consumed upon use.,3,,
+key-to-room-6,field,unlock,Unlocks Room 6 in the Abandoned Ship or Sea Mauville; consumed on use,3,,
+kings-leaf,passive,crafting,Used as a material to improve crafted medicine items.,8,,
+kings-rock,held,flinch,Grants a chance to make the target flinch when damage is dealt.,2,,
+kiwi,field,crafting,Used as an ingredient when making sandwiches.,9,,
+klawf-stick,field,ingredient,Used as an ingredient when making sandwiches.,9,,
+kofus-wallet,field,story,Required to be delivered to Kofu during the Cascarrafa Gym Test.,9,,
+kommonium-z,held,evolution-trigger,Upgrades Kommo-o's Clanging Scales into the Z-Move Clangorous Soulblaze.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+koraidons-poke-ball,passive,storage,Houses Koraidon and sets the met date to when the item is obtained.,9,,
+kubfu-treat,field,story,Allows the player to encounter and battle Kubfu at North Province (Area Two) after receiving a hint from Snacksworth.,9,,
+kyogre-treat,field,encounter-trigger,Allows the player to encounter and battle Kyogre at Casseroya Lake.,9,,Showing it to Snacksworth provides a hint to Kyogre's location.
+kyurem-treat,field,encounter-trigger,Allows the player to encounter and battle Kyurem at Dalizapa Passage and receive location hints from Snacksworth.,9,,
+lab-key-card-a,field,story,Opens the console labeled “A” in Lysandre Labs to unlock a door and access additional areas.,9,,
+lab-key-card-b,field,unlock,Opens the door at the console labeled “B” in Lysandre Labs.,9,,
+lab-key-card-c,field,story-unlock,Opens the console labeled “C” in Lysandre Labs to unlock a door.,9,,
+lab-key-card-x,passive,story,Currently unobtainable.,9,,
+lagging-tail,held,turn-order,Forces the holder to move last in its priority bracket regardless of Speed.,4,,Unaffected by Trick Room; changes apply from the next turn if gained or lost mid-turn.
+lansat-berry,battle,stat-boost,Raises critical-hit ratio by two stages when forcibly consumed.,3,,"Via Fling, Pluck, Bug Bite, or Item Urge."
+lansat-berry,held,stat-boost,Raises critical-hit ratio by two stages when HP is at or below one-quarter.,3,,Activates earlier with Gluttony; not affected by Ripen.
+large-leek,field,crafting,Used as an ingredient in cooking.,8,,
+latias-treat,field,encounter-trigger,Allows the player to encounter and battle Latias at South Province (Area Four).,9,,
+latias-treat,field,information,Showing the treat to Snacksworth provides a hint to Latias's location.,9,,
+latiasite,held,evolution-trigger,Allows Latias to Mega Evolve into Mega Latias,6,,
+latios-treat,field,encounter-trigger,Allows the player to encounter and battle Latios at North Province (Area Two) and receive a location hint from Snacksworth.,9,,
+latiosite,battle,evolution-trigger,Allows Latios to Mega Evolve into Mega Latios,6,,Requires a Key Stone
+latiosite,field,contest-effect,Allows Mega Evolution during Contest Spectacular talents,6,6,
+lava-cookie,field,healing,"Cures poison, paralysis, sleep, burn, freeze, and confusion.",3,,
+lax-incense,battle,accuracy-reduction,Reduces accuracy of moves targeting the holder by 10%,4,,
+lax-incense,battle,accuracy-reduction,Reduces accuracy of moves targeting the holder by 5%,3,3,
+lax-incense,field,breeding-modifier,Produces Wynaut Eggs instead of Wobbuffet Eggs,3,,
+lax-mint,field,stat-modifier,"Changes Nature effect to Lax: Defense up, Special Defense down",8,,
+leaden-ball,battle,catch-rate,Catch rate modifier of 2× in battle; 2× on unsuspecting Pokémon and 1.75× otherwise in the field,8,,
+leaders-crest,held,evolution-trigger,Enables Bisharp to evolve into Kingambit after defeating three Bisharp holding this item and leveling up.,9,,
+leaf-letter,passive,none,Serves no practical purpose.,7,,
+leaf-stone,field,evolution-trigger,Evolves certain Pokémon when used,1,,
+leafy-chairs,passive,decoration,Decorates the player's picnic without providing any gameplay effect.,9,,
+leafy-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+leek,held,stat-boost,Raises critical-hit ratio by two stages for Farfetch'd and Sirfetch'd,2,,
+left-poke-ball,field,quest-item,Contains an old man's Dartrix that can be returned to his granddaughter to receive a Mental Herb.,7,,
+leftovers,held,healing,Restores 1/16 of maximum HP at the end of each turn,2,,Heal Block interaction differs between generations
+legend-plate,battle,type-change,Changes Arceus's type and Judgment's type dynamically based on the opponent's type.,8,,
+legendary-clue-1,field,story,Reveals information about Calyrex and advances the Crown Tundra storyline.,8,,
+legendary-clue-2,field,story-progression,"Provides clues required to locate and awaken the legendary giants Regirock, Regice, Registeel, and choose between Regieleki or Regidrago.",8,,
+legendary-clue-3,field,story,Reveals information required to track and catch the legendary birds during Peony's expedition.,8,,
+legendary-clue-question,field,story,Allows Necrozma and Ultra Beasts to be encountered in Dynamax Adventures after being read.,8,,
+lemonade,field,healing,Restores 70 HP,7,,
+lemonade,field,healing,Restores 80 HP,1,6,
+lens-case,field,cosmetic,Allows the player to change their eye color in fitting rooms using contact lenses.,6,,
+leppa-berry,field,pp-restoration,Restores 10 PP to a selected move when used from the Bag.,3,,
+leppa-berry,held,pp-restoration,Restores 10 PP to a move that reaches 0 PP.,3,,Restores 20 PP if the holder has Ripen.
+letter,story,story-progression,Delivering the letter to Steven progresses the storyline and rewards the player with a TM.,3,,
+lettuce,field,crafting,Used as an ingredient when making sandwiches.,9,,
+level-ball,battle,catch-rate-modifier,"Catch rate increases based on level difference, up to 8×",2,,Ultra Beasts have a fixed reduced modifier; Legends: Z-A has special behavior without an active Pokémon.
+level-ball,held,fling,Fling fails,4,,
+liberty-pass,passive,story-unlock,Allows the player to travel from Castelia City to Liberty Garden.,5,,
+lidas-things,field,story,Must be returned to Lida to progress Main Mission 08: Reaching Rank V.,9,,
+liechi-berry,held,stat-boost,Raises Attack by one stage when HP is at 1/4 or below (1/2 with Gluttony; two stages with Ripen).,3,,
+life-orb,held,damage-boost,Boosts damage of damaging moves by 30% and deals 10% max HP recoil after each attack,4,,
+lift-key,field,story,Allows operation of the elevator in Team Rocket's Hideout to access Giovanni's office.,1,,
+light-ball,field,breeding,Allows Pichu to hatch knowing Volt Tackle if a parent holds it,3,,
+light-ball,held,stat-boost,Doubles Pikachu's Attack and Special Attack (varies by generation),2,,
+light-clay,held,duration-boost,"Extends Light Screen, Reflect, and Aurora Veil to 8 turns",4,,
+light-stone,field,story,Summons Reshiram to assist the player during key story events.,5,,
+like-mail,held,passive,Allows a customizable message to be written and sent when held by a Pokémon; restricts certain moves and transfers.,5,5,
+lilac-chairs,field,passive,Decorates the player's picnic.,9,,
+lilac-tablecloth,passive,cosmetic,Decorates the player's picnic with a light purple tablecloth.,9,,
+linking-cord,field,evolution-trigger,Evolves certain Pokémon that normally evolve by trading,8,,Consumed upon use
+litebluemail,held,passive,Allows the holder to carry a written message that can be traded to other games of the same generation.,2,2,Cannot be stolen by Thief.
+loaded-dice,held,passive,Multistrike moves hit at least four times; certain moves use a single accuracy check and Population Bomb hits four to ten times.,9,,
+lock-capsule,field,item-unlock,Can be opened by Mr. Lock in Castelia City to obtain TM95 (Snarl).,5,5,Never legitimately obtainable.
+lonely-mint,field,nature-change,"Changes Nature effects to Lonely (Attack up, Defense down)",8,,
+looker-ticket,passive,story-progression,Collecting all five tickets allows the player to progress the Looker Bureau storyline.,6,,
+lopunnite,held,evolution-trigger,Allows Lopunny to Mega Evolve into Mega Lopunny,6,,Requires a Key Stone
+lost-item,story,quest-item,"When returned to Copycat, she gives the player a Pass for the Magnet Train.",2,,
+lost-satchel,field,passive,"Returns lost items to their owner when found, rewarding the finder with Merit Points.",8,,
+love-ball,battle,catch-rate-modifier,8× catch rate if the wild Pokémon is the same species and opposite gender to the user's Pokémon; otherwise 1×,4,,Different behavior due to a glitch in Generation II.
+love-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Item is consumed on use
+lovely-mail,held,passive,Allows the holder to carry a custom written message that can be traded with other games of the same generation.,2,2,Cannot be stolen by Thief.
+lucarionite,battle,evolution-trigger,Allows Lucario to Mega Evolve into Mega Lucario,6,,Requires the Trainer to have a Key Stone
+lucarionite,held,passive,Unaffected by item-negating or item-manipulating effects,6,,
+lucarionite-z,battle,evolution-trigger,Allows Lucario to Mega Evolve into Mega Lucario Z,9,,Requires a Key Stone; only one Mega Evolution per battle
+luck-incense,held,prize-money-boost,Doubles prize money after battle if the holder participates,4,,Stacks with Happy Hour and Prize Money Power but not with Amulet Coin.
+lucky-egg,held,experience-boost,Experience gained increased to 150%,2,,Does not affect experience from Auto Battles
+lucky-punch,held,stat-boost,Raises critical hit ratio by 2 stages when held by Chansey,2,,Does not apply to transformed Pokémon in Generation II.
+lugia-treat,field,encounter-trigger,Allows the player to encounter and battle Lugia at the North Paldean Sea.,9,,Showing it to Snacksworth provides a hint to Lugia's location.
+lum-berry,field,status-healing,Cures all non-volatile status conditions of a Pokémon,3,,
+lum-berry,held,status-healing,Cures all non-volatile status conditions and confusion,3,,
+luminous-moss,held,stat-boost,Raises Special Defense by one stage when hit by a damaging Water-type move,6,,
+lumiose-galette,field,healing,Cures all non-volatile status conditions and confusion.,6,,
+lumiosian-butter,field,passive,Allows three berries to be used when making donuts.,9,,Used by Ansha
+lunala-treat,field,encounter-trigger,Allows the player to encounter and battle Lunala at Casseroya Lake; showing it to Snacksworth provides a hint to Lunala's location.,9,,
+lunalium-z,held,z-move-upgrade,Upgrades Moongeist Beam into Menacing Moonraze Maelstrom when held by Lunala or Dawn Wings Necrozma.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+lunar-feather,field,encounter-trigger,Causes a wild Cresselia to appear at Marvelous Bridge.,5,5,Known as Lunar Wing in this generation.
+lunar-feather,field,story,Awakens a boy from an endless nightmare in Canalave City; item is consumed.,4,4,
+lure,field,encounter-rate-boost,Increases encounter rates of rarer wild Pokémon for 100 steps and raises wild Pokémon levels by 1 above the area's normal maximum.,7,,Also increases the chance of encountering Shiny Pokémon.
+lure-ball,battle,catch-rate-modifier,Increased catch rate in fishing encounters or water encounters depending on game,2,,Multiplier varies by generation and game.
+lustrous-globe,field,form-change,Switches Palkia between its normal form and Origin Forme when used.,8,,Used from the satchel in Pokémon Legends: Arceus.
+lustrous-globe,held,form-change,Changes Palkia to its Origin Forme while held.,9,,
+lustrous-globe,held,type-boost,Boosts Dragon- and Water-type moves by 20%.,9,,
+lustrous-orb,held,type-boost,Boosts Dragon- and Water-type move power by 20% when held by Palkia,4,,
+luxury-ball,battle,catch-rate,1× catch rate modifier,3,,
+luxury-ball,passive,friendship-boost,+1 friendship gain on any increase,3,,
+lycanium-z,held,z-move-upgrade,Upgrades Lycanroc's Stone Edge into Splintered Stormshards.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+mach-bike,field,movement,Greatly increases movement speed and allows crossing cracked floors and muddy slopes at high speed.,3,,
+machine-part,field,story,"Restores operations to the Power Plant, enabling the Magnet Train and Lavender Radio Tower; rewards the player with a TM.",2,4,
+macho-brace,battle,stat-modifier,Speed is halved,3,,
+macho-brace,held,stat-modifier,Doubles effort values gained in battle,3,,Stacks with Pokérus; does not affect vitamins or feathers.
+magearnite,battle,evolution-trigger,Allows Magearna to Mega Evolve into Mega Magearna,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+magical-heart-pick,field,crafting,Used to complete a sandwich during a picnic.,9,,
+magical-star-pick,field,passive,Used to complete a sandwich made during a picnic.,9,,
+magma-emblem,field,story,Allows the player to open the hidden entrance to Team Magma's Hideout at the Jagged Pass.,3,,
+magma-stone,field,event-trigger,Allows encountering a wild Heatran in Reversal Mountain when taken to a special chamber.,5,5,Only in Black 2 and White 2.
+magma-suit,field,story,Allows access to Groudon's chamber in the Cave of Origin and is used to ride Mega Rayquaza into space during the Delta Episode.,6,,
+magmarizer,held,evolution-trigger,Evolves Magmar into Magmortar when traded,4,,
+magnet,held,type-boost,Boosts Electric-type move power by 10%,2,3,
+magnet,held,type-boost,Boosts Electric-type move power by 20%,4,,
+mago-berry,field,healing,Restores HP when used from the Bag.,3,,
+mago-berry,held,healing,Restores HP in a pinch; may cause confusion if the Pokémon dislikes sweet flavor.,3,,Restoration percentage varies by generation.
+magost-berry,held,move-type-change,"Natural Gift becomes Rock-type (70 power in Gen IV–V, 90 power in Gen VI+)",4,,
+makeup-bag,field,cosmetic,Allows the player to change lip color using stored lipsticks.,7,,
+malamarite,battle,evolution-trigger,Allows Malamar to Mega Evolve into Mega Malamar,9,,Requires a Key Stone; only one Mega Evolution per battle
+malicious-armor,field,evolution-trigger,Evolves Charcadet into Ceruledge,9,,Item is consumed upon use
+manectite,held,evolution-trigger,Allows Manectric to Mega Evolve,6,,Requires a Key Stone
+maranga-berry,held,stat-boost,Raises Special Defense by one stage when hit by a special move; consumed. Raises by two stages if the holder has Ripen.,6,,
+marble,passive,sell-only,Can only be sold for money.,7,,
+marill-ball,field,passive,Can be brought out during a picnic to be kicked around by the player and their party Pokémon.,9,,
+mark-charm,passive,encounter-modifier,"Triples the chance for symbol encounters to generate with a mark while in the Bag, excluding wanderers and Poké Portal News event mass outbreaks.",9,,
+mark-charm,passive,encounter-modifier,Triples the chance for wild Pokémon to generate with a mark while in the Bag.,8,8,
+marmalade,field,crafting,Used as an ingredient when making sandwiches.,9,,
+marsh-balm,battle,story,Calms frenzied Hisuian Lilligant during Mission 8 and post-game rematches.,8,,
+marsh-balm,field,story,Used during Azelf's trial in Mission 15 to obtain Azelf's Fang.,8,,
+marshadium-z,held,z-move-upgrade,Upgrades Marshadow's Spectral Thief to Soul-Stealing 7-Star Strike.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+master-ball,battle,capture,Guaranteed capture of wild Pokémon,1,,Fails only in special scripted encounters
+masterpiece-teacup,field,evolution-trigger,Evolves Artisan Form Poltchageist into Masterpiece Form Sinistcha,9,,Consumes the item upon use
+mawilite,held,evolution-trigger,Allows Mawile to Mega Evolve into Mega Mawile,6,,Requires a Key Stone
+max-elixir,field,healing,Fully restores PP of all moves,1,,
+max-ether,field,pp-restore,Fully restores PP of one selected move,1,,
+max-honey,field,healing,Revives a fainted Pokémon and restores all HP,8,,
+max-honey,passive,special,Required ingredient for Max Soup to give or remove Urshifu's Gigantamax Factor,8,,
+max-lure,field,encounter-rate,Increases encounter rate of rarer wild Pokémon for 250 steps and raises their level by 1 above the area's normal maximum.,7,,
+max-mushrooms,battle,stat-boost,"Raises Attack, Defense, Special Attack, Special Defense, and Speed by one stage each",8,,
+max-mushrooms,field,crafting,Three clusters can be exchanged for Max Soup to grant or remove the Gigantamax Factor; Urshifu requires Max Honey,8,,
+max-potion,field,healing,Restores HP to full.,1,,
+max-repel,field,encounter-prevention,Prevents lower-level wild Pokémon encounters for 250 steps,1,,
+max-revive,field,healing,Revives a fainted Pokémon and restores HP to full,1,,
+mayonnaise,passive,sandwich-modifier,"Adds 8 Sweet Taste, 20 Sour Taste, -3 Egg Power, 12 Exp. Power, 21 Raid Power, 2 Normal Type Power, and 2 Fighting Type Power to sandwiches.",9,,
+meadow-plate,held,form-change,Changes Arceus to Grass type,4,,
+meadow-plate,held,type-boost,Boosts Grass-type moves by 20%,4,,
+mech-mail,held,passive,Allows a Pokémon to hold a customizable written message.,3,3,
+medal-box,field,passive,Allows the player to collect Medals and view obtained Medals from the Bag.,5,,
+medichamite,held,evolution-trigger,Allows Medicham to Mega Evolve into Mega Medicham,6,,Requires Key Stone
+medicinal-leek,passive,crafting-material,Used to craft Potion (1) and Revive (2).,8,,
+mega-bracelet,battle,evolution-trigger,Allows Mega Evolution of one Pokémon per battle if it holds the appropriate Mega Stone.,6,,
+mega-ring,battle,evolution-trigger,Allows Mega Evolution of one Pokémon per battle if it holds the appropriate Mega Stone.,6,,
+mega-shard,passive,exchange-currency,"Can be exchanged for Mega Stones, Exp. Candies, Power items, TMs, and Feathers.",9,,
+meganiumite,held,evolution-trigger,Allows Meganium to Mega Evolve into Mega Meganium during battle,9,,Requires the Trainer to have a Key Stone
+member-card,passive,event-unlock,Grants access to the Harbor Inn and Newmoon Island to encounter Darkrai.,4,,Requires Lunar Wing obtained from Cresselia.
+mental-herb,held,status-cure,Cures infatuation,3,4,
+mental-herb,held,status-cure,"Cures infatuation, Taunt, Encore, Torment, Disable, and Heal Block",5,,
+meowsticite,battle,evolution-trigger,Allows Meowstic to Mega Evolve into Mega Meowstic,9,,Requires the Trainer to have a Key Stone
+mesprits-plume,passive,crafting,Required material to forge the Red Chain,8,,
+metagrossite,held,evolution-trigger,Allows Metagross to Mega Evolve into Mega Metagross,6,,Requires a Key Stone
+metal-alloy,field,evolution-trigger,Evolves Duraludon into Archaludon,9,,Item is consumed on use
+metal-coat,field,evolution-trigger,Evolves Onix and Scyther when traded or used,2,,
+metal-coat,held,type-boost,"Boosts Steel-type moves by 10% (Gen II–III), 20% (Gen IV onward)",2,,
+metal-powder,held,stat-boost,Increases Ditto's Defense (and Special Defense in Generation II),2,2,Applies even when transformed in Generation II
+metal-powder,held,stat-boost,Doubles Ditto's Defense,3,,Does not work when Ditto is transformed
+meteorite,field,exchange,Can be exchanged with Professor Cozmo for TM27 (Return),3,3,"Ruby, Sapphire, and Emerald only"
+meteorite,field,evolution-trigger,Fed to Rayquaza to enable Mega Evolution,6,6,Omega Ruby and Alpha Sapphire only; required before any Rayquaza can Mega Evolve
+meteorite,field,form-change,Used on Deoxys to switch between any of its forms,9,,Scarlet and Violet
+meteorite-shard,passive,story,Key item used during the Delta Episode to help divert an incoming asteroid.,6,,
+metronome,held,type-boost,Boosts power of consecutively used moves up to 100%,4,,10% per turn in Gen IV; 20% per turn from Gen V onward
+mewnium-z,held,z-move,Upgrades Mew's Psychic into the Z-Move Genesis Supernova,7,,Only usable by Mew or a Pokémon transformed into Mew.
+mewtwonite-x,held,evolution-trigger,Allows Mewtwo to Mega Evolve into Mega Mewtwo X,6,,Requires Key Stone
+mewtwonite-y,held,evolution-trigger,Enables Mega Evolution into Mega Mewtwo Y,6,,Requires a Key Stone
+micle-berry,held,stat-boost,Raises accuracy of next move by 1.2× when HP is low,4,,Activates at 1/4 HP or 1/2 HP with Gluttony
+mighty-candy,field,stat-boost,Increases Attack by 1 AV up to a maximum of 50 AVs.,7,,
+mighty-candy-l,field,stat-boost,"Increases Attack by 1 AV when used on a Pokémon Lv. 30 or higher, up to 100 AVs.",7,,
+mighty-candy-xl,field,stat-boost,"Increases Attack by 1 AV for Pokémon Lv. 60 or higher, up to 200 AVs.",7,,
+mild-mint,field,stat-modifier,"Changes the effect of a Pokémon’s Nature to Mild: Special Attack increases, Defense decreases.",8,,
+mimikium-z,held,evolution-trigger,Upgrades Mimikyu's Play Rough into the Z-Move Let's Snuggle Forever.,7,,Unaffected by Embargo or Klutz; cannot be removed by Trick or Fling.
+mind-plate,held,type-boost,Boosts Psychic-type moves by 20%,4,,
+mind-plate,held,type-change,Changes Arceus to Psychic type,4,,Via the Multitype Ability
+mint-berry,field,status-healing,Cures sleep when used from the Bag; item is consumed.,2,2,
+mint-berry,held,status-healing,Cures sleep when the holder is asleep; item is consumed.,2,2,
+mint-chairs,passive,decorative,Decorates the player's picnic with mint-colored chairs.,9,,
+mint-tablecloth,field,cosmetic,Decorates the player's picnic.,9,,
+miracle-seed,held,type-boost,Grass-type moves x1.2,4,,
+miracle-seed,held,type-boost,Grass-type moves x1.1,2,3,
+miracleberry,field,status-healing,Cures all non-volatile status conditions and confusion when used from the Bag.,2,2,
+miracleberry,held,status-healing,Cures any non-volatile status condition and confusion upon activation.,2,2,
+mirage-mail,held,passive,Allows a written message to be stored and traded with the Pokémon holding it.,2,2,
+miraidons-poke-ball,passive,story,Houses Miraidon and sets its met date to when the item is obtained.,9,,
+mirror-herb,battle,stat-boost,"Copies all stat increases gained by the opponent once, then is consumed.",9,,
+mirror-herb,field,move-learning,Allows a Pokémon to learn an Egg Move during a picnic if it has an empty move slot.,9,,Item is not consumed.
+misty-seed,held,stat-boost,+1 Special Defense stage when Misty Terrain is active,7,,
+mixed-mushrooms,field,crafting,Used as an ingredient when cooking curry.,8,,
+modest-mint,field,stat-modifier,"Applies Modest Nature effects (↑ Special Attack, ↓ Attack)",8,,
+moltres-treat,field,encounter-trigger,Allows the player to encounter and battle Moltres at Asado Desert.,9,,Showing the item to Snacksworth provides a hint to Moltres's location.
+monstrous-chairs,passive,cosmetic,Decorates the player's picnic with a monstrous-themed chair set.,9,,
+monstrous-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+moomoo-cheese,field,crafting,Used as an ingredient when making curry.,8,,
+moomoo-milk,field,healing,Restores 100 HP,2,,
+moon-ball,battle,catch-rate-boost,4× catch rate on Pokémon that evolve using a Moon Stone,4,,Ultra Beasts instead receive a reduced modifier.
+moon-flute,field,evolution-trigger,Triggers Cosmog's evolution when played with the Sun Flute at the appropriate altar.,7,,
+moon-stone,field,evolution-trigger,Evolves specific Pokémon when used,1,,
+morph-mail,held,passive,Allows the holder to carry a written message that can be traded to other games of the same generation.,2,2,Cannot be stolen by Thief.
+mosaic-mail,held,message-storage,Allows a Pokémon to hold a written message using the easy chat system and trade it to other Generation IV games.,4,4,"Cannot be stolen by Covet or Thief; causes Fling, Trick, and Switcheroo to fail."
+mountain-balm,battle,status,Calms the frenzied Hisuian Electrode when thrown.,8,,Usable during Mission 11 and post-game rematches.
+muscle-band,held,type-boost,Boosts physical move power by 10%,4,,Multiplier approximated as 4505/4096 from Generation V onward
+muscle-feather,field,stat-boost,+1 Attack EV,5,,Also slightly increases friendship.
+muscle-mochi,field,stat-boost,Increases the target Pokémon’s Attack EVs by 10.,9,,
+mushroom-cake,field,lure,Attracts certain Pokémon when thrown,8,,Attracts a wide variety of monstrous and dragon-like Pokémon.
+music-mail,held,passive,"Allows a Pokémon to hold a written message that can be viewed, traded, and printed.",2,2,Prevents the Pokémon from being deposited in the PC or Day Care while held.
+mustard,passive,sandwich-modifier,"Adds Sweet Taste +4, Salty Taste +8, Sour Taste +8, Salt Taste +16; Egg Power -3, Exp. Power +12, Raid Power +21, Ground Type Power +2, Rock Type Power +2.",9,,
+mysterious-balm,battle,special,Can be thrown at Arceus during the battle against it.,8,,Only usable during the Arceus battle and its rematches.
+mysterious-shard-l,passive,exchange,Can be exchanged for a Slate at Ramanas Park.,8,,
+mysterious-shard-s,field,exchange,Three Mysterious Shards S can be exchanged for a Slate at Ramanas Park.,8,,
+mystery-berry,field,pp-restore,Restores 5 PP to one move when used from the Bag.,2,2,
+mystery-berry,held,pp-restore,Restores 5 PP to a move when it runs out of PP.,2,2,
+mystic-ticket,field,story,Allows travel to Navel Rock where Ho-Oh and Lugia can be encountered.,3,3,
+mystic-water,held,type-boost,Boosts Water-type move power by 10%,2,3,
+mystic-water,held,type-boost,Boosts Water-type move power by 20%,4,,
+mythical-pecha-berry,field,story-unlock,"Grants access to The Hidden Treasure of Area Zero epilogue, Mochi Mayhem, in Kitakami.",9,,
+n-lunarizer,field,evolution-trigger,Fuses Necrozma with Lunala into Dawn Wings Necrozma or separates them,7,,
+n-solarizer,field,evolution-trigger,"Fuses Necrozma with Solgaleo to form Dusk Mane Necrozma, or separates them",7,,
+naive-mint,field,stat-boost,"Changes nature effect to Naive (Speed up, Special Defense down)",8,,
+nanab-berry,field,calming,Reduces wild Pokémon movement during capture,7,7,"Only in Let's Go, Pikachu!/Eevee!"
+nanab-berry,field,healing,Restores 1/3 max HP,8,8,Only in Pokémon Legends: Arceus
+naughty-mint,field,stat-boost,Changes Nature effects to Naughty,8,,
+necrozma-treat,field,encounter-trigger,Allows the player to encounter and battle Necrozma at Socarrat Trail and receive a location hint from Snacksworth.,9,,
+nest-ball,battle,catch-rate-modifier,Increases catch rate against lower-level wild Pokémon,3,,
+net-ball,battle,catch-rate-modifier,3× against Water- or Bug-type Pokémon,3,6,
+net-ball,battle,catch-rate-modifier,3.5× against Water- or Bug-type Pokémon; ~0.1× against Ultra Beasts,7,,
+net-ball,held,fling,Fails when used with Fling,4,,
+never-melt-ice,held,type-boost,Boosts Ice-type move power by 20%,4,,
+never-melt-ice,held,type-boost,Boosts Ice-type move power by 10%,2,3,
+nice-butter,field,passive,Allows up to four berries to be used when making donuts.,9,,
+nomel-berry,battle,move-modifier,"Natural Gift becomes Dragon-type (70 power Gen IV–V, 90 power Gen VI+)",4,,
+noodles,field,crafting,Used as an ingredient when making sandwiches.,9,,
+normal-box,field,consumable-effect,Consumes the item to obtain the Silver Trophy decoration if not already owned.,2,2,
+normal-gem,held,type-boost,Boosts first Normal-type move by 50%,5,5,Consumed after use
+normal-gem,held,type-boost,Boosts first Normal-type move by 30%,6,,Consumed after use
+normal-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Normal at the Treasure Eatery in Medali,9,,
+normalium-z,held,type-boost,Upgrades Normal-type moves into Z-Moves such as Breakneck Blitz,7,,
+nugget,passive,sell-only,Can only be sold for money,1,,
+oaks-letter,field,story,Allows access to Seabreak Path and Shaymin at Flower Paradise after meeting Professor Oak on Route 224.,4,,
+occa-berry,held,type-resistance,Halves damage from one supereffective Fire-type attack; quartered if holder has Ripen,4,,
+oceanic-slate,field,encounter-trigger,Allows the player to battle Kyogre in the Oceanic Room at Ramanas Park.,8,,
+odd-incense,held,type-boost,Boosts Psychic-type move power by 20%,4,,
+odd-keystone,field,story-trigger,Allows Spiritomb to be encountered after meeting interaction requirements.,4,,
+old-amber,field,evolution-trigger,Revives into Aerodactyl,1,,
+old-charm,story,story-progress,Allows access to investigate the Celestic Town ruins after delivery to the elder.,4,,
+old-gateau,field,healing,Cures all non-volatile status conditions and confusion,4,,
+old-journal,field,story,Triggers journal passages during Request 82 and replaces the Torn Journal.,8,,
+old-letter,field,story,Delivering it to Frank in Ballonlea rewards the player with a Choice Scarf and later allows obtaining a Reaper Cloth.,8,,
+old-rod,field,fishing,Allows fishing for low-level aquatic Pokémon.,1,,Less powerful than the Good Rod or Super Rod.
+old-sea-map,field,story-unlock,Allows travel to Faraway Island via the S.S. Tidal to encounter Mew.,3,3,
+old-verse-01,field,passive,Can be read from the player's satchel once collected.,8,,
+olive-oil,field,crafting,Used as an ingredient when making sandwiches.,9,,
+onion,field,crafting,Used as an ingredient when making sandwiches.,9,,
+oran-berry,held,healing,Restores 10 HP when HP falls below 50%,3,,Restores 20 HP in Legends: Arceus.
+orange-dish,field,passive,Decorative only; no gameplay effect.,9,,
+orange-mail,held,passive,Stores a written message that can be traded with the Pokémon holding it.,3,3,Cannot be stolen by Covet or Thief; can be removed by Knock Off.
+orange-petal,passive,story,One of seven petals required for Mina to create a Rainbow Flower.,7,,
+origin-ball,field,capture,Automatically catches Origin Forme Dialga or Origin Forme Palkia during a story cutscene.,8,,Cannot be used on any other Pokémon.
+origin-ore,field,crafting,Used by Professor Laventon along with the shattered Red Chain and a Poké Ball to craft the Origin Ball during Mission 18.,8,,
+oval-charm,passive,breeding-boost,Increases the chance of Pokémon Eggs being found at the Day Care or Nursery.,5,,
+oval-stone,held,evolution-trigger,Evolves Happiny into Chansey during daytime level-up,4,,Item is consumed upon evolution
+pack-of-potatoes,field,crafting,Used as an ingredient when cooking curry.,8,,
+packaged-curry,field,crafting,Used as an ingredient when cooking curry,8,,
+pair-of-tickets,field,story,Allows the player to attend the Litleonid star show at the Mossdeep Space Center during the Delta Episode.,6,,
+pal-pad,passive,utility,Allows registering friends and Friend Codes for online play and tracking multiplayer records.,4,,
+pamtre-berry,held,natural-gift,Natural Gift becomes Steel-type with 70 power (Gen IV–V) or 90 power (Gen VI+).,4,,
+paralyze-heal,field,status-healing,Cures paralysis,1,,
+parasol-pick,field,crafting,Used to complete a sandwich during a picnic.,9,,
+parcel,field,story,Triggers story events when delivered to the intended recipient.,1,,
+park-ball,battle,capture,Catches the encountered Pokémon without fail during Pal Park Catching Shows.,4,,
+party-sparkler-pick,field,passive,Completes a sandwich during a picnic.,9,,
+pass,field,access,Allows unlimited rides on the Magnet Train between Saffron City and Goldenrod City once the Power Plant is restored.,2,,
+pass-orb,field,currency,Used to purchase Pass Powers at the Entralink.,5,5,
+passho-berry,battle,natural-gift,"Natural Gift becomes Water-type; power 60 (Gen IV–V), 80 (Gen VI+)",4,,
+passho-berry,held,type-resistance,"Halves damage from one supereffective Water-type attack; with Ripen, damage is quartered",4,,
+pasta,field,crafting,Used as an ingredient when cooking curry.,8,,
+payapa-berry,held,type-boost,Halves damage from one supereffective Psychic-type attack; quartered if holder has Ripen.,4,,
+peach-chairs,passive,cosmetic,Decorates the player's picnic with a set of chairs.,9,,
+peach-tablecloth,passive,cosmetic,Decorates the player's picnic without providing gameplay effects.,9,,
+peanut-butter,field,ingredient,Used as an ingredient when making sandwiches.,9,,
+pearl,passive,sell-only,Can only be sold for money.,2,,
+pearl-string,passive,sell-only,No effect other than being sold,5,,
+peat-block,field,evolution-trigger,Evolves Ursaring into Ursaluna during a full moon,8,,Item is consumed upon use
+pebble,battle,evolution-trigger,Transforms into Zygardite and enables Mega Evolution of Zygarde.,9,,
+pecha-berry,field,status-healing,Cures a Pokémon of poison when used from the Bag.,3,,
+pecha-berry,held,status-healing,Cures poison when the holder becomes poisoned.,3,,
+pep-up-plant,passive,crafting-material,"Used to craft Super Potion, Fine Remedy, Aux Power, Aux Guard, Max Ether, and Max Elixir.",8,,
+pepper,field,crafting,Used as an ingredient when making sandwiches.,9,,
+permit,field,access,Allows travel to the Nature Preserve from the airport in Mistralton City.,5,,
+persim-berry,field,status-healing,Cures confusion when used from the Bag,3,,
+persim-berry,held,status-healing,Cures confusion,3,,
+petaya-berry,held,stat-boost,Raises Special Attack by one stage when HP is at or below 1/4,3,,Activates at 1/2 HP if the holder has Gluttony; raises two stages if the holder has Ripen
+pewter-crunchies,field,healing,Cures all non-volatile status conditions and confusion.,7,,
+pickle,field,crafting,Used as an ingredient to make sandwiches.,9,,
+picnic-set,field,passive,Allows the player to set up picnics from the menu.,9,,
+pidgeotite,held,evolution-trigger,Allows Mega Evolution of Pidgeot,6,,Requires Key Stone
+pika-pika-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+pikachu-cup,passive,decorative,Decorates the player's picnic with a Pikachu-themed cup.,9,,
+pikanium-z,held,z-move-upgrade,Upgrades Pikachu's Volt Tackle into Catastropika.,7,,Only works for Pikachu not wearing a cap.
+pikashunium-z,held,evolution-trigger,"Upgrades Thunderbolt into the Z-Move 10,000,000 Volt Thunderbolt for Pikachu in a cap.",7,,
+pinap-berry,field,catch-reward-boost,Increases item rewards from caught Pokémon,7,7,Only in Let's Go games
+pinap-berry,field,healing,Restores 1/3 max HP,8,8,Legends: Arceus only
+pineapple,field,crafting,Used as an ingredient when making sandwiches.,9,,
+pink-apricorn,field,crafting,Can be turned into a Love Ball by Kurt.,2,,
+pink-apricorn,field,stat-boost,Produces Aprijuice that boosts Speed Performance when used in the Apriblender.,4,,
+pink-bottle,passive,decorative,No practical effect; decorates the player's picnic.,9,,
+pink-bow,held,type-boost,Boosts Normal-type move power by 10%,2,2,
+pink-canari-plush-lv-1,passive,resource-boost,Small crystals drop 2–4 Mega Shards; large crystals drop 8–12.,9,,
+pink-canari-plush-lv-2,passive,resource-boost,Small crystals drop 3–5 Mega Shards; large crystals drop 10–14.,9,,
+pink-canari-plush-lv-3,passive,resource-boost,Small crystals drop 5–7 Mega Shards; large crystals drop 14–18.,9,,
+pink-chairs,field,passive,Decorates the player's picnic with a set of pink chairs.,9,,
+pink-cup,passive,decorative,No functional effect; decorates the player's picnic.,9,,
+pink-nectar,field,form-change,Changes Oricorio to Pa'u Style,7,,Can only be used outside of battle and is consumed after use
+pink-petal,passive,story,Contributes to forming the Rainbow Flower when all seven petals are collected.,7,,
+pink-scarf,held,stat-boost,Raises Cuteness in Pokémon Contests,3,,"In Generation III, raises Cuteness by 20 points up to 255."
+pink-tablecloth,passive,cosmetic,Decorates the player's picnic without providing gameplay benefits.,9,,
+pinsirite,held,evolution-trigger,Allows Pinsir to Mega Evolve into Mega Pinsir,6,,Requires Key Stone
+pixie-plate,held,form-change,Changes Arceus to Fairy type,6,,Via Multitype ability
+pixie-plate,held,type-boost,Boosts Fairy-type moves by 20%,6,,
+plaid-chairs-b,passive,decorative,Decorates the player's picnic with a set of chairs.,9,,
+plaid-chairs-r,passive,decorative,Decorates the player's picnic with red plaid chairs.,9,,
+plaid-chairs-y,passive,cosmetic,Decorates the player's picnic with yellow plaid chairs.,9,,
+plaid-tablecloth-b,field,cosmetic,Decorates the player's picnic table.,9,,
+plaid-tablecloth-r,passive,cosmetic,Decorates the player's picnic table.,9,,
+plaid-tablecloth-y,field,cosmetic,Decorates the player's picnic with a yellow plaid tablecloth.,9,,
+plasma-card,field,story-progress,Allows access to restricted areas of the Plasma Frigate.,5,,
+plume-fossil,passive,evolution-trigger,Restores into Archen when taken to a fossil restoration facility.,5,,
+plump-beans,field,crafting-material,Required to craft a Bean Cake.,8,,
+plump-beans,field,lure,Can be thrown to attract certain Pokémon.,8,,
+poffin-case,passive,storage,Stores up to 100 Poffins,4,,
+point-card,passive,currency-tracking,Stores Battle Points earned from Battle Tower victories.,4,,"In Platinum, HeartGold, and SoulSilver, Battle Points are tracked on the Vs. Recorder instead."
+poison-barb,held,type-boost,+20% Poison-type move power,4,,
+poison-barb,held,type-boost,+10% Poison-type move power,2,3,
+poison-gem,held,type-boost,Boosts first Poison-type move by 30%,6,,Consumed after use.
+poison-gem,held,type-boost,Boosts first Poison-type move by 50%,5,5,Consumed after use; Fling fails.
+poison-memory,battle,type-change,Multi-Attack becomes Poison-type,7,,
+poison-memory,field,form-change,Changes Silvally to Poison-type form,7,,
+poison-memory,held,form-change,Changes Silvally to Poison-type form,7,,Cannot be removed or swapped via item-manipulating moves
+poison-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Poison at the Treasure Eatery in Medali,9,,Cannot be used on Ogerpon or Terapagos.
+poisonium-z,held,form-change,Changes Arceus to its Poison-type form via Multitype.,7,,
+poisonium-z,held,type-boost,Upgrades Poison-type moves into the Z-Move Acid Downpour or corresponding Z-Moves.,7,,
+poke-ball,battle,capture,Catch rate modifier of 1×,1,,Ultra Beasts have a drastically reduced modifier.
+poke-ball,field,evolution-trigger,Creates Shedinja when Nincada evolves if space is available,4,,
+poke-ball-hisuian,battle,catch-rate-modifier,0.75× catch rate,8,,
+poke-doll,battle,escape,Guaranteed escape from wild Pokémon battles,1,,
+poke-flute,battle,status-healing,Cures sleep for all Pokémon on the field,1,3,Does not affect Pokémon with Soundproof in Generation III.
+poke-flute,field,story-trigger,Wakes sleeping Snorlax blocking routes,1,7,
+poke-radar,field,encounter-modifier,Generates shaking patches of grass to encounter wild Pokémon and enable chaining for increased Shiny odds.,4,,
+poke-toy,battle,escape,Guarantees escape from wild Pokémon battles,5,,
+pokeblock-case,field,storage,Stores up to 40 Pokéblocks and allows access to related activities.,3,,Allows admission to the Hoenn Safari Zone; enables Pokémon Contests in Emerald.
+pokeblock-kit,field,passive,"Allows the player to make, store, and feed Pokéblocks using a portable Berry Blender and Pokéblock Case.",6,,
+pokemon-box-link,field,storage-access,Allows access to the Pokémon storage system from most locations.,7,,Unavailable in certain areas such as Gyms or tournaments in some games.
+pokeshi-doll,passive,none,No practical effect other than being sold.,8,,
+polka-dot-bottle,passive,decoration,Decorates the player's picnic with no gameplay effect.,9,,
+polka-dot-chairs,passive,cosmetic,Decorates the player's picnic with polka-dot themed chairs.,9,,
+polka-dot-cup,passive,cosmetic,Decorates the player's picnic with no gameplay effect.,9,,
+polka-dot-tablecloth,passive,cosmetic,Decorates the player's picnic.,9,,
+polkadot-bow,held,type-boost,Boosts Normal-type move power by 10%,2,2,
+pomeg-berry,field,friendship-boost,Increases friendship and lowers HP EVs by 10,3,,Friendship increase scales with current friendship; EV reduction capped at 0.
+pop-pod,passive,crafting-material,Required to craft a Scatter Bang,8,,
+popping-candy,field,crafting,Used to make the Plasma-Glazed Donut.,9,,
+portraitmail,held,message-storage,Stores a written message up to 32 characters and displays the holder's sprite.,2,2,Cannot be stolen by Thief.
+potato-salad,passive,crafting,Used as an ingredient when making sandwiches.,9,,
+potato-tortilla,field,crafting,Used as an ingredient when making sandwiches.,9,,
+potion,field,healing,Restores 20 HP,1,,Restores 60 HP in Legends: Arceus
+powder-jar,passive,storage,"Stores up to 99,999 units of Berry Powder and allows participation in the Berry Crush minigame.",3,,
+power-anklet,field,breeding,Holder's Speed IV is guaranteed to be passed down,4,,"If both parents hold one, one is chosen at random"
+power-anklet,held,ev-gain,"+4 Speed EVs (Gen IV–VI), +8 Speed EVs (Gen VII+)",4,,Effect doubled by Pokérus
+power-anklet,held,stat-modifier,Speed is halved in battle,4,,
+power-band,field,breeding,Passes down Special Defense IV,4,,"If both parents hold one, one is chosen at random."
+power-band,held,stat-boost,+4 Special Defense EVs per battle,4,6,Effect doubled by Pokérus; Speed is halved in battle.
+power-band,held,stat-boost,+8 Special Defense EVs per battle,7,,Speed is halved in battle.
+power-belt,battle,stat-modifier,Speed is halved; grants +4 Defense EVs per battle,4,6,EV gain doubled by Pokérus
+power-belt,battle,stat-modifier,Speed is halved; grants +8 Defense EVs per battle,7,,
+power-belt,field,breeding,Guarantees inheritance of holder's Defense IV,4,,From HeartGold and SoulSilver onward
+power-bracer,field,breeding,Passes down the holder's Attack IV when breeding,4,,From HeartGold and SoulSilver onward
+power-bracer,held,ev-boost,+8 Attack EVs per battle,7,,
+power-bracer,held,ev-boost,+4 Attack EVs per battle,4,6,Doubled by Pokérus
+power-bracer,held,stat-modifier,Speed is halved in battle,4,,
+power-herb,held,charge-skip,Consumes itself to skip the charging turn of certain moves,4,,Not consumed during harsh sunlight for Solar Beam/Solar Blade or rain for Electro Shot
+power-lens,field,breeding,Passes down the holder's Special Attack IV when breeding,4,,"If both parents hold a Power Lens, one is chosen at random"
+power-lens,held,stat-boost,+8 Special Attack EVs per battle,7,,
+power-lens,held,stat-modifier,Speed is halved in battle,4,,
+power-lens,held,stat-boost,+4 Special Attack EVs per battle,4,6,Effect doubled by Pokérus
+power-plant-pass,field,access,Allows entry to the Kalos Power Plant,6,,
+power-weight,battle,stat-modifier,Halves Speed during battle,4,,
+power-weight,battle,ev-boost,+4 HP EVs per battle (+8 from Generation VII onward); doubled with Pokérus,4,,
+power-weight,held,breeding,Guarantees inheritance of holder's HP IV,4,,From HeartGold and SoulSilver onward
+pp-max,field,pp-boost,Sets selected move PP to 8/5 of its base value,3,,Consumed on use; slightly increases friendship
+pp-up,field,stat-boost,Increases a move's maximum PP by 20% of its base PP,1,,Up to three uses per move; also slightly increases friendship from Generation III onward.
+precooked-burger,field,crafting,Used as an ingredient when cooking curry.,8,,
+premier-ball,battle,catch-rate,1× catch rate; reduced against Ultra Beasts,3,,
+pretty-feather,passive,none,Can only be sold; has no other effect.,5,,
+primarium-z,held,move-upgrade,Upgrades Sparkling Aria into Oceanic Operetta when held by Primarina.,7,,
+prism-scale,held,evolution-trigger,Evolves Feebas into Milotic when traded,5,,Consumed upon use
+prison-bottle,field,evolution-trigger,Transforms Hoopa Confined into Hoopa Unbound for three days,6,,"Hoopa reverts when deposited into PC, Bank, or Nursery depending on generation"
+professors-mask,field,story,Must be returned to Professor Kukui at Malie Garden.,7,,
+profs-letter,field,story,"When given to the player's mother, she gives the player a Town Map and a Potion.",6,,
+prop-case,field,storage,Stores Props used for Pokémon Musicals.,5,,
+prosciutto,field,crafting,Used as an ingredient when making sandwiches.,9,,
+protective-pads,held,passive,Prevents effects triggered by contact moves from affecting the holder.,7,,Also prevents Perish Body from activating on contact.
+protector,field,evolution-trigger,Evolves Rhydon into Rhyperior when used,8,8,Legends: Arceus only
+protector,held,evolution-trigger,Evolves Rhydon into Rhyperior when traded,4,,Item is consumed on evolution
+protein,field,stat-boost,+10 Attack EVs (earlier gens) / raises Attack EVs up to caps (Gen VIII+),1,,
+przcureberry,field,healing,Cures paralysis when used from the Bag,2,2,
+przcureberry,held,healing,Cures paralysis when the holder becomes paralyzed,2,2,
+psn-cure-berry,field,healing,Cures poison when used from the Bag,2,2,
+psn-cure-berry,held,healing,Cures poison when the holder becomes poisoned,2,2,
+psychic-gem,held,type-boost,Boosts the first Psychic-type move by 50%,5,5,Consumed after use; Fling fails if held
+psychic-gem,held,type-boost,Boosts the first Psychic-type move by 30%,6,,Consumed after use
+psychic-memory,battle,type-change,Changes Multi-Attack to Psychic type and Silvally to Psychic type,7,,
+psychic-memory,field,type-change,Changes Silvally to its Psychic-type form,7,,
+psychic-seed,held,stat-boost,+1 Special Defense stage when Psychic Terrain is active,7,,
+psychic-tera-shard,field,type-change,Collect 50 shards to change a Pokémon’s Tera Type to Psychic at the Treasure Eatery in Medali.,9,,Does not apply to Ogerpon or Terapagos.
+psychium-z,held,type-boost,"Upgrades Psychic-type moves into Z-Moves, including Shattered Psyche.",7,,Unaffected by item-negating effects and cannot be removed by Trick or Fling.
+psychium-z,held,form-change,Changes Arceus to its Psychic-type form via Multitype.,7,,
+pumkin-berry,field,status-healing,Cures freeze when used from the Bag,3,3,
+pumkin-berry,held,status-healing,Cures freeze when held and consumed,3,3,
+punching-glove,held,type-boost,Boosts punching move power by 10% and prevents contact effects.,9,,Stacks with Iron Fist.
+pungent-root,passive,crafting,Used as an ingredient when cooking curry.,8,,
+pure-incense,field,encounter-rate,Lowers wild Pokémon encounter rate by one third when held by the lead Pokémon.,4,,
+pure-incense,held,breeding,Allows Chimecho to produce Chingling Eggs.,4,,
+purple-nectar,field,evolution-trigger,Changes Oricorio to Sensu Style,7,,Consumed after use and cannot be used in battle
+purple-petal,passive,story,"When all seven petals are collected, Mina combines them to create a Rainbow Flower.",7,,
+pyroarite,battle,evolution-trigger,Allows Pyroar to Mega Evolve into Mega Pyroar,9,,Requires the Trainer to have a Key Stone
+qualot-berry,field,friendship,"+friendship, -10 Defense EVs",3,,
+question-marks,battle,passive,"If a battle starts while facing a surfable tile, the player is treated as surfing, altering music and allowing glitch effects.",1,1,Can cause incorrect sound effects and allow passing through barriers after battle.
+question-marks,field,field-move,"Allows surfing over water without Pokémon or Badges, including Cycling Road.",1,1,
+quick-ball,battle,catch-rate-boost,Higher catch rate on first turn of a wild encounter,4,,"Modifier is 4× in Gen IV, 5× from Gen V onward; special cases apply."
+quick-ball,held,fling-failure,Fling fails,4,,
+quick-candy,field,stat-boost,Increases Speed by 1 AV up to a maximum of 50 AVs.,7,,
+quick-candy-l,field,stat-boost,"Increases Speed by 1 AV when used on a Pokémon level 30 or higher, up to 100 AVs.",7,,
+quick-candy-xl,field,stat-boost,"Raises Speed by 1 AV for Pokémon level 60 or higher, up to 200 Speed AVs.",7,,
+quick-claw,held,turn-order,Gives the holder a chance to move first in its priority bracket,2,,~23% in Gen II; 20% from Gen III onward
+quick-powder,held,stat-boost,Doubles Speed when held by Ditto,4,,No effect if Ditto is transformed.
+quiet-mint,field,nature-change,"Changes a Pokémon’s nature effects to Quiet (+Special Attack, −Speed).",8,,
+rabuta-berry,battle,natural-gift,"Ghost-type, 70 power in Generations IV–V; 90 power in Generation VI onward",4,,
+radiant-petal,field,crafting,Used with White Mane Hair or Black Mane Hair to create the Reins of Unity.,8,,
+rage-candy-bar,field,status-cure,Cures all non-volatile status conditions and confusion,7,,
+rage-candy-bar,field,healing,Restores 20 HP,2,6,
+raichunite-x,battle,evolution-trigger,Allows Kantonian Raichu to Mega Evolve into Mega Raichu X.,9,,Requires the Trainer to possess a Key Stone. Only one Mega Evolution may occur per battle.
+raichunite-y,battle,evolution-trigger,Allows Kantonian Raichu to Mega Evolve into Mega Raichu Y if the Trainer has a Key Stone.,9,,
+raikou-treat,field,encounter-trigger,Allows the player to encounter and battle Raikou at West Province (Area One).,9,,Showing the treat to Snacksworth provides a hint to Raikou's location.
+rainbow-feather,field,story,Allows access to Bell Tower and the encounter with Ho-Oh.,2,,
+rainbow-flower,field,story,"Starts the final part of Mina's trial, triggering a battle with Totem Ribombee.",7,,
+rainbow-pass,field,access-unlock,"Allows travel via Seagallop ferries between Vermilion City and the Sevii Islands, unlocking Four through Seven Island when combined with the Tri-Pass.",3,3,Required to use AuroraTicket and MysticTicket destinations.
+rainbow-slate,field,event-trigger,Allows entry to the Rainbow Room in Ramanas Park to battle Ho-Oh.,8,,
+rare-bone,passive,sell-only,No effect other than being sold for money,4,,
+rare-candy,field,level-boost,Raises level by 1,1,,
+rash-mint,field,stat-modifier,Changes the Pokémon’s Nature effect to Rash,8,,
+rawst-berry,field,status-healing,Cures burn when used from the Bag,3,,
+rawst-berry,held,status-healing,Cures burn,3,,
+rayquaza-treat,field,story-trigger,Allows the player to encounter and battle Rayquaza at the Great Crater of Paldea; showing it to Snacksworth provides a hint to Rayquaza's location.,9,,
+razor-claw,battle,stat-boost,Raises critical hit ratio by one stage,4,,
+razor-claw,held,evolution-trigger,Triggers evolution for Sneasel forms when leveled up under time-of-day conditions,4,,
+razor-fang,battle,status,10% chance to cause flinching on eligible moves,4,,
+razor-fang,field,evolution-trigger,Evolves Gligar into Gliscor,4,,
+razz-berry,field,catch-rate-boost,Makes wild Pokémon easier to catch,7,,"Applies to Let's Go, Pikachu!/Eevee! and Pokémon Legends: Arceus."
+razz-berry,field,healing,Restores 1/3 of max HP,8,8,Pokémon Legends: Arceus only.
+reaper-cloth,held,evolution-trigger,Allows Dusclops to evolve into Dusknoir,4,,Consumed on evolution
+red-apricorn,field,stat-boost,Produces Aprijuice that boosts Power Performance.,4,,
+red-apricorn,field,crafting,Can be turned into a Level Ball by Kurt.,2,,
+red-bell-pepper,field,ingredient,Used as an ingredient when making sandwiches.,9,,
+red-canari-plush-lv-1,passive,experience-boost,+5% Exp. Points,9,,
+red-canari-plush-lv-2,passive,experience-boost,+10% Exp. Points,9,,
+red-canari-plush-lv-3,passive,experience-boost,+15% Exp. Points,9,,
+red-card,held,forced-switch,Forces the attacker to switch out when the holder is hit by a damaging move.,5,,
+red-dish,passive,decoration,Decorates the player's picnic.,9,,
+red-flag-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+red-flute,battle,status-healing,Cures infatuation.,6,6,Omega Ruby and Alpha Sapphire only.
+red-flute,battle,status-healing,Cures infatuation.,3,4,
+red-nectar,field,form-change,Changes Oricorio to Baile Style,7,,Can only be used outside of battle; consumed after use.
+red-onion,field,crafting,Used as an ingredient when making sandwiches.,9,,
+red-orb,held,evolution-trigger,Allows Groudon to undergo Primal Reversion upon entering battle.,6,,Only functions when held by Groudon; unaffected by item-negating effects.
+red-petal,passive,story,"When all seven petals are collected, Mina combines them into a Rainbow Flower.",7,,
+red-poke-ball-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+red-scale,field,exchange,Can be exchanged with Mr. Pokémon for an Exp. Share.,2,,
+red-scarf,held,stat-boost,Raises Coolness in Pokémon Contests,3,,
+red-shard,passive,exchange,"Used as currency for move tutors, item exchanges, or crafting.",3,,
+reins-of-unity,field,evolution-trigger,Fuses or separates Calyrex with Glastrier or Spectrier,8,,
+relaxed-mint,field,stat-modifier,"Changes nature effect to Relaxed (Defense up, Speed down)",8,,
+relic-band,passive,none,No effect other than being sold for money.,5,,
+relic-copper,passive,sell-only,Can only be sold for money,5,,
+relic-crown,passive,none,Can only be sold for money,5,,
+relic-gold,passive,sell-only,No effect other than being sold for money,5,,
+relic-silver,passive,sell-only,Has no practical use other than being sold for money.,5,,
+relic-statue,passive,sell-only,Can be sold for a high price,5,,
+relic-vase,passive,sell-only,Can only be sold for money,5,,
+remedy,field,healing,Restores 60 HP and lowers friendship,8,,
+repeat-ball,battle,capture-rate-modifier,3× if species previously caught (Gen III–VI),3,6,
+repeat-ball,battle,capture-rate-modifier,3.5× if species previously caught (Gen VII onward),7,,Ultra Beasts instead use a fixed ~0.1× modifier
+repeat-ball,held,fling,Fling fails,4,,
+repel,field,encounter-prevention,Prevents encounters with lower-level wild Pokémon for 100 steps.,1,,
+reply-mail,held,passive,Allows the holder to carry a written message that can be traded to other games of the same generation; prevents certain item-removal or exchange moves from succeeding.,5,5,
+reset-urge,battle,stat-reset,Eliminates all stat changes,5,,
+reshiram-treat,field,story,Allows the player to encounter and battle Reshiram at East Province (Area One) and receive a location hint from Snacksworth.,9,,
+resist-feather,field,stat-boost,+1 Defense EV and small friendship increase,5,,Consumed on use; cannot be used in battle.
+resist-mochi,field,stat-boost,Increases Defense EVs by 10,9,,
+retro-mail,held,passive,Allows the player to write and store a message using the Easy Chat system while held by a Pokémon.,3,3,Message can be traded to other Generation III games.
+reveal-glass,field,form-change,"Switches Tornadus, Thundurus, Landorus, or Enamorus between Incarnate and Therian Formes",5,,
+revitalizing-twig,field,healing,"Heals the wild Fennekin during Side Mission 008: Get Well, Fennekin.",9,,
+revival-herb,field,revival,Revives a fainted Pokémon and restores HP; lowers friendship,2,,
+revive,field,healing,Revives a fainted Pokémon and restores 50% of its maximum HP,1,,Can be used on Shedinja.
+ribbon-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Item is consumed on use
+rice,field,crafting,Used as an ingredient when making sandwiches.,9,,
+rich-mulch,field,no-effect,Has no practical effect other than being sold.,6,,From Omega Ruby and Alpha Sapphire onward.
+rich-mulch,field,berry-yield-boost,Increases the final Berry harvest by 2 Berries when applied to a Berry patch.,6,6,Applies only in Pokémon X and Y.
+rindo-berry,held,type-resistance,Halves damage from a supereffective Grass-type move; quarter damage if holder has Ripen,4,,
+ring-target,held,type-immunity-removal,Removes the holder’s type-based immunities to attacking moves.,5,,
+rock-gem,battle,fling-restriction,Fling fails if the user is holding this item,5,,
+rock-gem,held,type-boost,Boosts the first Rock-type move by 30% and is consumed,6,,
+rock-gem,held,type-boost,Boosts the first Rock-type move by 50% and is consumed,5,5,
+rock-incense,battle,type-boost,Boosts Rock-type moves by 20%,4,,Effect is identical to Hard Stone.
+rock-incense,field,breeding,Produces a Bonsly Egg when breeding Sudowoodo,4,8,
+rock-memory,battle,type-change,Changes Multi-Attack to Rock type and makes Silvally Rock type.,7,,
+rock-memory,field,type-change,Changes Silvally to its Rock-type form.,7,,
+rock-memory,held,passive,Prevents removal or swapping by item-manipulating moves.,7,,
+rock-tera-shard,field,tera-type-change,50 shards change a Pokémon’s Tera Type to Rock,9,,Performed at the Treasure Eatery in Medali
+rockium-z,held,form-change,Changes Arceus to its Rock-type form via Multitype.,7,,
+rockium-z,held,type-boost,Upgrades Rock-type damaging moves to the Z-Move Continental Crush; Rock-type status moves become Z-Moves.,7,,
+rocky-helmet,held,damage,Damages attacker for 1/6 of its maximum HP on contact.,5,,
+roller-skates,field,movement,Allows faster movement than running and enables skating tricks using the Circle Pad.,6,,
+room-service,held,stat-drop,Lowers the holder's Speed by one stage when Trick Room takes effect or when switching in during Trick Room.,8,,Consumed upon activation.
+root-fossil,field,evolution-trigger,Regenerates into Lileep,3,,
+rose-incense,battle,type-boost,Boosts Grass-type move power by 20%,4,,
+rose-incense,held,breeding,Causes Budew Eggs instead of Roselia Eggs when held by a parent,4,,
+roseli-berry,held,type-resist,Halves damage from one supereffective Fairy-type attack,6,,"With Ripen, damage is quartered"
+roto-stick,field,passive,Increases the available selfie options when taking photos with the Rotom Phone.,9,,
+rotom-bike,field,movement,"Increases travel speed, allows turbo boosting, and enables riding on water after upgrades.",8,,
+rotom-catalog,field,form-change,Allows Rotom to change between its appliance forms.,8,,
+rowap-berry,held,damage,Damages the attacker by 1/8 of its max HP when hit by a special move; 1/4 if the holder has Ripen.,4,,
+rsvp-mail,held,message-delivery,Allows a custom Easy Chat message of up to three sentences to be carried by a Pokémon and shared via trade.,5,,Prevents PC storage and causes certain item-exchange moves to fail.
+ruby,passive,story,"Used by Celio to complete the Pokémon Network Machine, after which the player receives the Rainbow Pass.",3,3,
+rusted-shield,battle,evolution-trigger,Transforms Zamazenta into its Crowned Shield form and changes Iron Head into Behemoth Bash,8,,
+rusted-sword,held,form-change,Transforms Zacian into its Crowned Sword form and changes Iron Head into Behemoth Blade in battle.,8,,
+sablenite,held,evolution-trigger,Allows Sableye to Mega Evolve into Mega Sableye,6,,Requires a Key Stone
+sachet,held,evolution-trigger,Evolves Spritzee into Aromatisse when traded,6,,Item is consumed on trade
+sacred-ash,field,healing,Revives all fainted Pokémon and fully restores HP,2,,Usable only outside of battle
+safari-ball,battle,catch-rate-modifier,x1,8,8,Changed back to x1.5 in Brilliant Diamond and Shining Pearl.
+safari-ball,battle,catch-rate-modifier,x1.5,3,7,
+safari-ball,battle,catch-rate-modifier,x1,9,,
+safari-ball,battle,catch-rate-modifier,x2,1,1,
+safety-goggles,held,immunity,"Blocks damage from hail and sandstorm and prevents effects of powder and spore moves, including Effect Spore.",6,,
+sail-fossil,passive,evolution-trigger,Can be regenerated into Amaura at a fossil restoration location,6,,
+salac-berry,held,stat-boost,Raises Speed by one stage when HP is at 1/4 or less,3,,"With Gluttony, activates at 1/2 HP; with Ripen, raises Speed by two stages."
+salad-mix,field,crafting,Used as an ingredient when cooking curry.,8,,
+salamencite,battle,evolution-trigger,Allows Salamence to Mega Evolve into Mega Salamence.,6,,Requires a Key Stone; only one Mega Evolution per battle.
+salamencite,field,contest-effect,Allows Mega Evolution during Pokémon Contest Spectacular Talent Round.,6,6,
+salt,passive,crafting,Used as an ingredient when making sandwiches.,9,,
+salt-cake,field,lure,"Attracts Pokémon that resemble grass, plants, or minerals when thrown.",8,,
+salty-herba-mystica,field,crafting,Used as an ingredient when making sandwiches.,9,,
+sand-radish,passive,crafting,Two are required to craft a Twice-Spiced Radish.,8,,
+sandwich,field,story,Revitalizes Koraidon or Miraidon during the player's first encounter at Poco Path.,9,,
+sapphire,passive,story-progression,Allows completion of the Network Machine to enable trading with Hoenn games and related connectivity features.,3,,
+sassy-mint,field,nature-change,"Changes a Pokémon’s Nature effects to Sassy (↑ Special Defense, ↓ Speed)",8,,
+sausages,field,crafting,Used as an ingredient when cooking curry.,8,,
+scanner,field,exchange,Can be exchanged with Captain Stern for DeepSeaScale or DeepSeaTooth.,3,3,
+scanner,field,exchange,Can be exchanged with Captain Stern for the Clear Bell or Tidal Bell to encounter Ho-Oh or Lugia.,6,6,
+scarlet-book,field,story,Used in the Zero Lab to shut down Professor Sada's time machine; a second copy triggers a conversation with Arven.,9,,
+scatter-bang,field,utility,"Scares certain wild Pokémon, causing them to flee from the impact site.",8,,
+sceptilite,held,evolution-trigger,Allows Sceptile to Mega Evolve into Mega Sceptile,6,,Requires a Key Stone
+scizorite,battle,evolution-trigger,Enables Mega Evolution of Scizor,6,,
+scolipite,battle,evolution-trigger,Allows Scolipede to Mega Evolve into Mega Scolipede,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+scope-lens,held,stat-boost,Raises critical hit ratio by one stage,2,,
+scovillainite,battle,evolution-trigger,Allows Scovillain to Mega Evolve into Mega Scovillain,9,,Requires the Trainer to have a Key Stone
+scraftinite,battle,evolution-trigger,Allows Scrafty to Mega Evolve into Mega Scrafty,9,,
+scroll-of-darkness,field,evolution-trigger,Evolves Kubfu into Single Strike Style Urshifu,9,,
+scroll-of-waters,field,evolution-trigger,Evolves Kubfu into Rapid Strike Style Urshifu,9,,
+sea-incense,battle,type-boost,+20% Water-type move power,4,,
+sea-incense,battle,type-boost,+5% Water-type move power,3,3,
+sea-incense,field,breeding,Produces Azurill Egg instead of Marill,3,8,
+secret-key-kanto,field,story,Unlocks access to the Cinnabar Island Gym.,1,,
+secret-key-sinnoh,field,unlock,"Opens Rotom’s Room in the Team Galactic Eterna Building, allowing Rotom to change forms.",4,,
+secret-medicine,field,story-progress,Cures specific Pokémon to unblock paths or progress story events,2,,
+seed-of-mastery,field,move-upgrade,Upgrades one known move into a Plus Move,9,9,Given to Josée in Legends: Z-A
+seed-of-mastery,field,move-upgrade,Allows a Pokémon to master a move for agile or strong style use,8,8,Given to Zisu in Legends: Arceus
+serious-mint,field,nature-change,"Changes the Pokémon’s Nature effect to Serious, with no stat increases or decreases.",8,,
+shaderoot-carrot,field,summon,Summons Spectrier at the Crown Shrine.,8,,
+shadow-mail,held,message-storage,Stores a written message using Easy Chat phrases while held by a Pokémon.,3,3,Cannot be stolen by Covet or Thief; removable by Knock Off.
+shalour-sable,field,healing,Cures all non-volatile status conditions and confusion.,6,,
+sharp-beak,held,type-boost,Boosts Flying-type moves by 10%,2,3,
+sharp-beak,held,type-boost,Boosts Flying-type moves by 20%,4,,
+sharpedonite,held,evolution-trigger,Allows Sharpedo to Mega Evolve into Mega Sharpedo,6,,
+shed-shell,held,switching,"Allows the holder to switch out regardless of trapping moves or Abilities, including self-inflicted effects like Ingrain.",4,,
+shell-bell,held,healing,Restores HP equal to 1/8 of damage dealt,3,,Does not activate under certain conditions depending on generation
+shiny-charm,passive,encounter-modifier,Increases the chance of encountering or hatching Shiny Pokémon by granting additional shiny rerolls.,5,,Specific reroll counts and affected encounter types vary by generation and game.
+shiny-stone,field,evolution-trigger,Evolves certain Pokémon when used,4,,
+shoal-salt,field,crafting,Combine four Shoal Salt and four Shoal Shells to create a Shell Bell,3,,
+shoal-shell,field,crafting,Combine four Shoal Shells and four Shoal Salts to obtain a Shell Bell.,3,,Only in Hoenn
+shock-drive,battle,type-change,Changes Techno Blast to Electric type when used by Genesect.,5,,
+shock-drive,held,form-change,Changes Genesect into its Shock Drive form.,5,,Cannot be removed or swapped via item-manipulating moves.
+shuca-berry,held,damage-reduction,Halves damage from one supereffective Ground-type attack (¼ with Ripen),4,,
+silk-scarf,held,type-boost,Boosts Normal-type move power by 10%,3,3,Also boosted confusion damage
+silk-scarf,held,type-boost,Boosts Normal-type move power,5,,No longer boosts confusion damage
+silk-scarf,held,type-boost,Boosts Normal-type move power by 20%,4,4,Also boosted confusion damage
+silph-scope,field,utility,Allows unidentified ghosts to be revealed and interacted with normally in Pokémon Tower.,1,,
+silver-bottle,passive,cosmetic,Decorates the player's picnic with no functional effect.,9,,
+silver-cup,passive,decorative,Decorates the player's picnic with no gameplay effect.,9,,
+silver-feather,field,encounter-trigger,Allows Lugia to appear at the Whirl Islands under specific conditions.,2,,
+silver-leaf,passive,sell-only,No practical use other than being sold.,2,,
+silver-nanab-berry,field,capture-assist,Makes wild Pokémon less likely to move and causes the target ring to shrink more slowly until a Poké Ball escape.,7,,
+silver-pick,field,passive,Completes a sandwich during a picnic.,9,,
+silver-pinap-berry,field,reward-boost,Increases the chance of receiving additional item rewards when catching a wild Pokémon; effect ends if the Pokémon breaks free.,7,,
+silver-powder,held,type-boost,Boosts Bug-type move power by 20%,4,,
+silver-powder,held,type-boost,Boosts Bug-type move power by 10%,2,3,
+silver-razz-berry,field,catch-rate-boost,Increases catch rate until the Pokémon breaks out of a Poké Ball.,7,,
+simple-chairs,passive,decorative,Decorates the player's picnic with simple chairs.,9,,
+sitrus-berry,bag,healing,Restores 25% of maximum HP,4,,Restores 50% if the Pokémon has the Ripen Ability.
+sitrus-berry,held,healing,Restores 25% of maximum HP when HP falls below 50%,4,,
+skarmorite,battle,evolution-trigger,Allows Skarmory to Mega Evolve into Mega Skarmory while held,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+skull-fossil,passive,evolution-trigger,Can be regenerated into Cranidos at a fossil restoration location,4,,
+sky-plate,held,type-boost,Boosts Flying-type moves by 20%,4,,
+sky-plate,held,evolution-trigger,Changes Arceus to Flying type via Multitype,4,,
+sky-tumblestone,passive,crafting,"Used to craft Feather Ball, Wing Ball (1), and Jet Ball (2).",8,,
+slowbronite,held,evolution-trigger,Allows Mega Evolution into Mega Slowbro,6,,"Unaffected by Embargo, Klutz, Trick, or Fling"
+slowpoke-cup,passive,cosmetic,Decorates the player's picnic with no practical gameplay effect.,9,,
+slowpoke-tail,passive,sell-only,No effect other than being sold for money,2,,
+small-bouquet,passive,none,No practical effect.,7,,
+smart-candy,field,stat-boost,Increases Special Attack by 1 AV up to a maximum of 50 AVs.,7,,
+smart-candy-l,field,stat-boost,"Increases Special Attack by 1 AV when used on a Pokémon of Lv. 30 or higher, up to 100 AVs.",7,,
+smart-candy-xl,field,stat-boost,"Increases Special Attack by 1 AV for Pokémon Lv. 60 or higher, up to 200 AVs.",7,,
+smiling-vee-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+smoke-ball,held,escape,Guarantees fleeing from wild Pokémon; interaction varies by generation with trapping effects.,2,,
+smoke-bomb,field,passive,Creates a wide cloud of smoke for about 25 seconds that reduces visibility and allows sneaking like tall grass.,8,,
+smoke-poke-tail,field,crafting,Used as an ingredient when cooking curry,8,,
+smoked-fillet,field,crafting,Used as an ingredient when making sandwiches.,9,,
+smooth-rock,held,weather-extension,Extends sandstorm duration to 8 turns,4,,"Prior to Generation VI, does not affect Sand Stream."
+snorlium-z,held,z-move-upgrade,Upgrades Snorlax's Giga Impact into Pulverizing Pancake,7,,
+snow-balm,battle,quest-specific,Calms the frenzied Hisuian Avalugg during Mission 12 and post-game rematches.,8,,
+snow-mail,held,passive,Allows the holder to carry a written message that can be traded to other Generation IV games.,4,4,"Cannot be stolen by Covet or Thief; Knock Off can remove it; causes Fling, Trick, and Switcheroo to fail."
+snowball,field,status,Thrown to temporarily stun wild Pokémon.,8,,Legends: Arceus only
+snowball,held,stat-boost,Raises Attack by one stage when hit by an Ice-type damaging move; item is consumed.,6,,
+soda-pop,field,healing,Restores 50 HP,7,,
+soda-pop,field,healing,Restores 60 HP,1,6,
+soft-sand,held,type-boost,Boosts Ground-type move power by 10%,2,3,
+soft-sand,held,type-boost,Boosts Ground-type move power by 20%,4,,
+solgaleo-treat,field,encounter-trigger,Allows the player to encounter and battle Solgaleo at the Pokémon League and receive hints from Snacksworth.,9,,
+solganium-z,held,move-upgrade,Upgrades Sunsteel Strike into the Z-Move Searing Sunraze Smash when held by Solgaleo or Dusk Mane Necrozma.,7,,Unaffected by item-negating effects and cannot be removed by item-manipulating effects.
+sonias-book,passive,none,No practical effect.,8,,
+soot-sack,field,collection,Allows the player to collect volcanic ash on Route 113 or Jagged Pass.,3,,
+sootfoot-root,passive,crafting-material,"Used to craft Smoke Bomb, Old Gateau, and Swap Snack.",8,,
+soothe-bell,held,friendship-boost,Increases friendship gains by 50%,3,,
+soul-dew,held,type-boost,Psychic- and Dragon-type move power x1.2 when held by Latios or Latias,7,,Exact multiplier is 4915/4096.
+soul-dew,held,stat-boost,Special Attack and Special Defense x1.5 when held by Latios or Latias,3,6,
+soul-slate,field,encounter-trigger,Allows access to a battle with Latias and Latios in the Soul Room at Ramanas Park.,8,,
+sour-herba-mystica,field,crafting,Used as an ingredient when making sandwiches.,9,,
+space-balm,battle,passive,Calms the frenzied Palkia in its Origin Forme when thrown during specific battles.,8,,
+space-mail,held,passive,"Allows a written message to be attached to a Pokémon and traded; prevents PC storage and causes Fling, Trick, and Switcheroo to fail.",4,4,Message is deleted if stored in Bag or Item Storage.
+sparkling-stone,field,story,Given to Hala to refine into a Z-Ring or Z-Power Ring.,7,,
+spectrier-treat,field,encounter-trigger,Allows the player to encounter and battle Spectrier at Glaseado Mountain and receive a location hint from Snacksworth.,9,,
+spell-tag,held,type-boost,Boosts Ghost-type moves by 10%,2,3,
+spell-tag,held,type-boost,Boosts Ghost-type moves by 20%,4,,
+spelon-berry,passive,ingredient,"Used as an ingredient for Pokéblocks, Poffins, Berry Powder, and similar items",3,,
+spice-mix,passive,crafting,Used as an ingredient when cooking curry.,8,,
+spicy-herba-mystica,field,crafting,Used as an ingredient when making sandwiches.,9,,
+splash-plate,held,type-boost,Boosts Water-type moves by 20%; changes Judgment to Water type.,4,,Changes Arceus to Water type via Multitype.
+spoiled-apricorn,field,stun,Temporarily stuns wild Pokémon when thrown,8,,
+spoiled-apricorn,passive,crafting-material,Required to craft Sticky Glob,8,,
+spooky-chairs,passive,cosmetic,Decorates the player's picnic with spooky-themed chairs.,9,,
+spooky-plate,battle,move-type-change,Judgment becomes Ghost type,4,,Only when held by Arceus
+spooky-plate,held,type-boost,Boosts Ghost-type moves by 20%,4,,
+spooky-tablecloth,passive,cosmetic,Decorates the player's picnic without providing gameplay benefits.,9,,
+sport-ball,battle,catch-rate,1.5× catch rate,2,7,Usable only during Bug-Catching Contest in applicable games.
+sport-ball,battle,catch-rate,1× catch rate,8,,
+sprayduck,field,passive,Watering planted Berries increases the yield if done correctly for sufficient time.,4,,
+springy-mushroom,field,bait,Attracts certain Pokémon when thrown.,8,,
+springy-mushroom,field,crafting,Used to craft Mushroom Cake and Swap Snack.,8,,
+sprinklotad,field,utility,Allows the player to water trees planted at Berry fields.,6,,
+squall-slate,field,event-trigger,Allows entry to the Squall Room in Ramanas Park to battle Lugia.,8,,
+squirt-bottle,field,story,"Allows watering the Sudowoodo blocking Route 36, triggering a battle.",2,4,
+squirt-bottle,field,utility,Waters Berry plants grown in Berry Pots.,4,,
+ss-ticket,field,story-progress,Allows boarding of specific ships and access to new areas,1,,
+stable-mulch,field,berry-growth,Extends the time Berries remain on plants to 150% of normal,4,4,
+stable-mulch,passive,none,No practical effect other than selling,5,,
+star-sweet,held,evolution-trigger,Evolves Milcery into Alcremie when the player spins,8,,Consumed upon evolution
+staraptite,held,evolution-trigger,Allows Staraptor to Mega Evolve into Mega Staraptor during battle if the Trainer has a Key Stone.,9,,
+stardust,passive,sell-only,Can be sold for money,2,,
+starf-berry,held,stat-boost,"Randomly raises Attack, Defense, Special Attack, Special Defense, or Speed by two stages when HP is low",3,,Gluttony triggers at 1/2 HP; Ripen doubles the boost
+starminite,battle,evolution-trigger,Allows Starmie to Mega Evolve into Mega Starmie while held.,9,,Requires a Key Stone; only one Mega Evolution per battle.
+stealth-spray,field,passive,"Silences the player's footsteps for one minute, reducing the chance of alerting wild Pokémon.",8,,
+steel-bottle-b,field,passive,Decorative item with no practical effect.,9,,
+steel-bottle-r,passive,cosmetic,Decorative picnic item with no gameplay effect.,9,,
+steel-bottle-y,field,cosmetic,Decorative picnic item with no practical effect.,9,,
+steel-gem,battle,restriction,Fling fails if the user is holding this item,5,,
+steel-gem,held,type-boost,Boosts first Steel-type move by 50%,5,5,Consumed after use
+steel-gem,held,type-boost,Boosts first Steel-type move by 30%,6,,Consumed after use
+steel-mail,held,passive,Allows the holder to carry a written message that can be traded to other Generation IV games.,4,4,Cannot be stolen by Covet or Thief; Knock Off can remove it; Trick and Switcheroo fail.
+steel-memory,battle,type-change,Changes Multi-Attack to Steel type and makes Silvally Steel type.,7,,
+steel-memory,field,type-change,Changes Silvally into its Steel-type form.,7,,
+steel-tera-shard,field,type-change,"50 shards can change a Pokémon’s Tera Type to Steel at the Treasure Eatery in Medali, except for Ogerpon and Terapagos.",9,,
+steelium-z,held,form-change,Changes Arceus to its Steel-type form when held.,7,,Due to the Multitype Ability
+steelium-z,held,type-boost,Upgrades Steel-type moves into the Z-Move Corkscrew Crash or corresponding Z-Moves.,7,,
+steelixite,battle,evolution-trigger,Enables Steelix to Mega Evolve into Mega Steelix,6,,Requires Key Stone; only one Mega Evolution per battle
+stellar-tera-shard,field,type-change,50 shards change a Pokémon’s Tera Type to Stellar at the Treasure Eatery in Medali,9,,Does not apply to Ogerpon or Terapagos
+sticker-case,field,passive,"Allows buying, collecting, and applying Stickers or Seals to Ball Capsules.",4,,
+sticky-barb,held,damage,Damages holder by 12.5% of max HP each turn; transfers on contact.,4,,Does not damage Pokémon with Magic Guard; does not transfer through Substitute.
+sticky-glob,field,status,Temporarily stuns a wild Pokémon when hit,8,,
+stone-plate,held,form-change,Changes Arceus to Rock type,4,,
+stone-plate,held,type-boost,Boosts Rock-type move power by 20%,4,,
+storage-key-hoenn,field,unlock,Opens the storage hold on the exterior of Sea Mauville.,6,,Grants access to items including TM13 (Ice Beam) and Beedrillite.
+storage-key-hoenn,field,unlock,Opens the storage room aboard the Abandoned Ship.,3,5,Grants access to items including TM13 (Ice Beam).
+storage-key-sinnoh,field,story,Opens the locked door inside the Galactic Warehouse.,4,,"In Pokémon Platinum, the key is used by Looker during a scripted event instead of the player."
+strange-ball,battle,catch-rate,"Acts as a placeholder; if hacked into use, functions with a standard catch rate depending on the game.",8,,Not normally usable due to being unobtainable.
+strange-souvenir,passive,sell-only,No effect other than being sold for money,6,,
+stratospheric-slate,field,story,Allows the player to battle Rayquaza in the Stratospheric Room at Ramanas Park.,8,,
+strawberry,passive,crafting,Used as an ingredient for making sandwiches.,9,,
+strawberry-sweet,held,evolution-trigger,Triggers Milcery to evolve into Alcremie when the player spins,8,,The item is consumed upon evolution.
+stretchy-spring,passive,none,No effect other than being sold.,7,,
+striped-bottle,passive,decoration,Decorates the player's picnic with no additional effects.,9,,
+striped-chairs,passive,decorative,Decorates the player's picnic with striped chairs.,9,,
+striped-cup,passive,decorative,No practical effect; used only to decorate picnics.,9,,
+striped-tablecloth,field,cosmetic,Decorates the player's picnic with a striped tablecloth.,9,,
+style-card,passive,unlock,Unlocks additional clothing and hair styles in boutiques and hair salons.,8,,
+suicune-treat,field,encounter-trigger,Allows the player to encounter and battle Suicune at Casseroya Lake; showing it to Snacksworth provides a hint to Suicune's location.,9,,
+suite-key,field,story,"Allows the owner to access her hotel suite when returned, yielding a reward item.",4,,Used in a side quest at Hotel Grand Lake
+sun-flute,field,evolution-trigger,Triggers the evolution of Cosmoem when played with the Moon Flute at the appropriate altar during the storyline.,7,,
+sun-stone,field,evolution-trigger,Evolves specific Pokémon when used,2,,
+sunrise-flower-pick,field,passive,Can be used to complete a sandwich during a picnic.,9,,
+sunset-flower-pick,field,passive,Used to complete sandwiches during picnics.,9,,
+super-lumiose-galette,field,story-progress,Necessary to progress in the Canari Quiz Whiz Contest at the Electrical Substation.,9,,
+super-lure,field,encounter-rate-boost,Increases encounters with rarer wild Pokémon for 200 steps and raises spawned Pokémon levels by 1 above the area's normal maximum.,7,,
+super-potion,field,healing,Heals 50–100 HP depending on generation,1,,
+super-repel,field,encounter-prevention,Prevents encounters with lower-level wild Pokémon for 200 steps,1,,
+super-rod,field,encounter,Allows fishing for higher-level wild Pokémon than other rods.,1,,
+superb-remedy,field,healing,Restores 150 HP and lowers friendship,8,,
+supreme-butter,field,passive,Allows up to seven berries to be used when making donuts.,9,,Used by Ansha to make Donuts.
+surf-mail,held,passive,Stores a custom written message that can be traded with the Pokémon holding it.,2,2,Cannot be stolen by Thief; restricts PC storage while held.
+surge-badge,passive,none,Serves no practical purpose.,7,,
+surprise-mulch,field,berry-mutation,Increases the chance of Berry mutations when applied to a Berry patch.,6,6,Only effective in Pokémon X and Y
+surprise-mulch,passive,no-effect,Has no practical effect other than being sold.,6,,From Omega Ruby and Alpha Sapphire onward
+survival-charm,passive,stat-boost,Increases the player's total health by 20% per charm while equipped in the satchel.,8,,Multiple charms stack; falling from great heights still causes immediate blackout.
+swampertite,held,evolution-trigger,Allows Swampert to Mega Evolve into Mega Swampert,6,,
+swap-snack,battle,stat-swap,Temporarily swaps Attack with Defense and Special Attack with Special Defense.,8,,
+sweet-apple,field,evolution-trigger,Evolves Applin into Appletun,8,,Consumed upon use
+sweet-heart,field,healing,Restores 20 HP,5,,
+sweet-herba-mystica,field,crafting,Used as an ingredient when making sandwiches.,9,,
+swift-feather,field,stat-boost,+1 Speed EV; slight friendship increase,5,,
+swift-mochi,field,stat-boost,Increases Speed EVs by 10,9,,
+swordcap,passive,crafting-material,Used to craft Aux Power and Choice Dumpling items.,8,,
+synchro-machine,field,perspective-control,Allows the player to directly control their lead Pokémon within the Terarium.,9,,
+syrupy-apple,field,evolution-trigger,Evolves Applin into Dipplin,9,,Consumed upon use
+tamato-berry,field,friendship,Increases friendship and lowers Speed EVs by 10,3,,Speed EVs cannot go below 0; special behavior in Generation IV.
+tanga-berry,held,type-resist,Halves damage from one supereffective Bug-type attack,4,,Damage is reduced to one-quarter if the holder has Ripen
+tapunium-z,held,z-move-upgrade,Upgrades Nature's Madness into Guardian of Alola when held by a tapu.,7,,
+tart-apple,field,evolution-trigger,Evolves Applin into Flapple,8,,Item is consumed upon use
+tasty-trash,field,lure,Lures wild Trubbish during Side Mission 025: Trubblesome Patrons.,9,,
+tatsugirinite,battle,evolution-trigger,Allows Tatsugiri to Mega Evolve into Mega Tatsugiri,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+tea,field,story,Grants access to Saffron City when given to a guard.,3,,
+teachy-tv,field,tutorial,"Allows the player to watch the Poké Dude Show, which teaches basic gameplay mechanics.",3,3,
+teal-mask,passive,story,Returned to Ogerpon as part of the plot.,9,,
+teal-style-card,field,passive,Expands available options at certain clothing stores and hair salons.,9,,
+tectonic-slate,field,encounter-trigger,Allows the player to battle Groudon in the Tectonic Room at Ramanas Park.,8,,
+tempting-charm,field,passive,Is lost instead of other items when the player blacks out,8,,
+tera-orb,battle,form-change,Allows a Pokémon to Terastallize once per battle when charged.,9,,"Requires recharging at a Pokémon Center or Tera Raid crystal, with specific battle exceptions."
+terrain-extender,held,field-duration,Extends terrain effects created by the holder to last 8 turns instead of 5.,7,,
+terrakion-treat,field,encounter-trigger,Allows the player to encounter and battle Terrakion at West Province (Area One).,9,,Showing it to Snacksworth provides a hint to Terrakion's location.
+thanks-mail,held,passive,Allows a custom thank-you message to be written and sent when held by a Pokémon.,5,,Prevents PC storage and certain move interactions while held.
+thick-club,held,stat-boost,Doubles Attack for Cubone or Marowak,2,,Does not apply to transformed Pokémon in Generation II.
+throat-spray,held,stat-boost,Raises Special Attack by one stage after using a sound-based move; item is consumed.,8,,Does not activate if the move fails or ends the battle
+thunder-stone,field,evolution-trigger,Evolves compatible Pokémon when used,1,,Item is consumed upon use
+tidal-bell,field,story,Used with the Silver Wing and the Kimono Girls' dance to summon Lugia.,4,4,Specific to Pokémon SoulSilver.
+tidal-bell,field,story,Required to encounter Lugia at Sea Mauville.,6,6,Specific to Pokémon Alpha Sapphire.
+time-balm,battle,story-progression,"Calms the frenzied Dialga, allowing it to be caught.",8,,Only usable during specific missions and rematches.
+timer-ball,battle,catch-rate-modifier,"Catch rate increases as more turns pass, up to a maximum of 4×.",3,,Uses move count instead of turns in Pokémon Legends: Z-A.
+timid-mint,field,stat-modifier,"Changes nature effects to Timid (Speed up, Attack down)",8,,
+tin-of-beans,field,crafting,Used as an ingredient when cooking curry.,8,,
+tiny-bamboo-shoot,passive,sell-only,Has no practical use other than being sold.,9,,
+tiny-mushroom,field,exchange,Two can be exchanged for Move Reminder service,3,3,FireRed and LeafGreen only
+tm-case,passive,storage,Stores all TMs and HMs collected by the player.,3,,
+tm00,field,move-teaching,Teaches Mega Punch to compatible Pokémon,8,,
+tm001,field,move-teaching,Teaches a specific move depending on the game version.,1,,
+tm002,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm003,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm004,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm005,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm006,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm007,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm010,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm014,field,move-teaching,Teaches a move depending on the game.,1,,
+tm015,field,move-teaching,Teaches a move that varies by game.,1,,
+tm016,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm017,field,move-teaching,Teaches a move depending on the game.,1,,
+tm018,field,move-teaching,Teaches a move depending on the game.,1,,
+tm021,field,move-teaching,Teaches a move depending on the game.,1,,
+tm024,battle,move-teaching,Teaches a specific move depending on the game version.,1,,
+tm025,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm026,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm028,field,move-teaching,Teaches a move depending on the game.,1,,
+tm029,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm031,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm033,passive,move-teaching,Teaches a move that varies by game version.,1,,
+tm034,field,move-teaching,Teaches a move depending on the game version.,1,,
+tm035,field,move-teaching,Teaches a move depending on the game.,1,,
+tm036,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm039,field,move-teaching,Teaches a move depending on the game.,1,,
+tm040,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm042,field,move-teaching,Teaches a move that varies by game.,1,,
+tm045,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm047,field,move-teaching,Teaches a specific move depending on the game version.,1,,
+tm049,field,move-teaching,Teaches a specific move depending on the game.,1,,
+tm053,field,move-teaching,Teaches a move depending on the game version.,4,,
+tm064,field,move-teaching,Teaches a move that depends on the game version.,4,,
+tm066,field,move-teaching,Teaches a move depending on the game version.,4,,
+tm067,field,move-teaching,Teaches a move depending on the game version.,4,,
+tm069,field,move-teaching,Teaches a compatible Pokémon a move.,4,,
+tm072,field,move-teaching,Teaches a move depending on the game.,4,,
+tm076,field,move-teaching,Teaches a specific move depending on the game version.,4,,
+tm081,field,move-teaching,Teaches a specific move depending on the game.,4,,
+tm084,field,move-teaching,Teaches a move depending on the game version.,4,,
+tm089,field,move-teaching,Teaches a specific move depending on the game.,4,,
+tm090,field,move-teaching,Teaches a move depending on the game.,4,,
+tm093,field,move-teaching,Teaches a move depending on the game version.,5,,
+tm095,field,move-teaching,Teaches a move depending on the game version.,5,,
+tm097,field,move-teaching,Teaches a move depending on the game.,6,,
+tm099,field,move-teaching,Teaches a specific move depending on the game.,6,,
+tm100,field,move-teaching,Teaches a specific move depending on the game.,6,,
+tm113,field,move-teaching,Teaches a compatible Pokémon a move depending on the game.,9,,
+tm172,field,move-teaching,Teaches the move Roar,9,,"In Pokémon Scarlet and Violet, TMs can only be used once."
+tm177,field,move-teach,Teaches the move Spite to a compatible Pokémon.,9,,
+tm182,field,move-teaching,Teaches Bug Bite,9,,Single-use in Scarlet and Violet
+tm184,field,move-teaching,Teaches the move Vacuum Wave to a compatible Pokémon.,9,,
+tm189,field,move-teaching,Teaches the move Heat Crash,9,,
+tm191,passive,move-teaching,Teaches the move Uproar to a compatible Pokémon.,9,,
+tm196,field,move-teaching,Teaches Flip Turn,9,,"In Pokémon Scarlet and Violet, TMs can only be used once."
+tm200,field,move-teaching,Teaches the move Scale Shot.,9,,
+tm201,field,move-teaching,Teaches Misty Explosion to a compatible Pokémon.,9,,
+tm203,field,move-teach,Teaches the move Psych Up,9,,
+tm210,field,move-teaching,Teaches the move Supercell Slam to compatible Pokémon.,9,,
+tm211,field,move-teaching,Teaches the move Electroweb to a compatible Pokémon.,9,,Only in The Indigo Disk.
+tm214,field,move-teaching,Teaches Sludge Wave,9,,
+tm215,field,move-teaching,Teaches the move Scorching Sands to a compatible Pokémon.,9,,
+tm218,field,move-teaching,Teaches the move Expanding Force to compatible Pokémon.,9,,
+tm226,field,move-teaching,Teaches the move Dragon Cheer.,9,,
+tmv-pass,field,access,Allows the player to ride the TMV at Lumiose Station and access Kiloude City.,6,,
+tofu,field,ingredient,Used as an ingredient in making a sandwich.,9,,
+tomato,field,crafting,Used as an ingredient when making sandwiches.,9,,
+torn-journal,field,story,Triggers reading a journal passage during Request 82: Traces of a Lost Village.,8,,Only appears during the request in the Alabaster Icelands.
+tough-candy,field,stat-boost,Raises Defense by 1 AV up to 50 AVs,7,,
+tough-candy-l,field,stat-boost,"Increases Defense by 1 AV when used on Pokémon level 30 or higher, up to 100 AVs.",7,,
+tough-candy-xl,field,stat-boost,+1 Defense AV (up to 200) when used on Pokémon Lv. 60+,7,7,Only applies to Let's Go games.
+town-map,field,information,Displays the regional map and the player's current location.,1,,
+toxic-orb,held,status-infliction,Badly poisons the holder at the end of each turn,4,,
+toxic-plate,held,type-boost,Boosts Poison-type move power by 20%,4,,
+toxic-plate,held,form-change,Changes Arceus to Poison type,4,,
+tr00,field,move-teaching,Teaches Swords Dance to a compatible Pokémon,8,,Consumable; disappears after use
+tr01,field,move-teaching,Teaches Body Slam to a compatible Pokémon,8,,Consumed after use
+tr02,field,move-teaching,Teaches the move Flamethrower once to a compatible Pokémon.,8,,
+tr03,field,move-teaching,Teaches Hydro Pump to a compatible Pokémon once,8,,
+tr04,field,move-teaching,Teaches the move Surf to a compatible Pokémon once.,8,,
+tr05,field,move-teaching,Teaches the move Ice Beam,8,,Single-use Technical Record
+tr07,field,move-teaching,Teaches Low Kick to a compatible Pokémon once,8,,
+tr09,field,move-teaching,Teaches the move Thunder,8,,
+tr10,field,move-teach,Teaches the move Earthquake once,8,,
+tr11,field,move-teaching,Teaches the move Psychic,8,,
+tr12,field,move-teaching,Teaches the move Agility to a compatible Pokémon once.,8,,
+tr13,field,move-teaching,Teaches Focus Energy,8,,
+tr14,field,move-teaching,Teaches the move Metronome to a compatible Pokémon once.,8,,
+tr15,field,move-teaching,Teaches the move Fire Blast once to a compatible Pokémon.,8,,
+tr16,field,move-teaching,Teaches the move Waterfall to a compatible Pokémon; single-use.,8,,
+tr17,field,move-teaching,Teaches Amnesia once to a compatible Pokémon.,8,,
+tr18,field,move-teaching,Teaches the move Leech Life,8,,Single-use
+tr19,field,move-teaching,Teaches the move Tri Attack to a compatible Pokémon once.,8,,
+tr20,field,move-teaching,Teaches the move Substitute,8,,Single-use Technical Record
+tr21,field,move-teaching,Teaches the move Reversal,8,,Single-use item
+tr24,field,move-teaching,Teaches the move Outrage to a compatible Pokémon. Single-use.,8,,
+tr25,field,move-teaching,Teaches Psyshock once to a compatible Pokémon,8,,
+tr26,field,move-teaching,Teaches the move Endure,8,,
+tr27,field,move-teaching,Teaches the move Sleep Talk to a compatible Pokémon once.,8,,
+tr28,field,move-teaching,Teaches the move Megahorn to a compatible Pokémon once.,8,,
+tr29,field,move-teaching,Teaches Baton Pass to a compatible Pokémon,8,,Single-use Technical Record
+tr30,field,move-teaching,Teaches the move Encore to a compatible Pokémon once.,8,,
+tr31,field,move-teaching,Teaches the move Iron Tail to a compatible Pokémon. The item is consumed after use.,8,,
+tr32,field,move-teaching,Teaches the move Crunch to a compatible Pokémon once.,8,,
+tr33,field,move-teaching,Teaches the move Shadow Ball to a compatible Pokémon. Single-use.,8,,
+tr35,field,move-teaching,Teaches the move Uproar to a compatible Pokémon,8,,Consumed upon use
+tr36,field,move-teaching,Teaches the move Heat Wave to a compatible Pokémon. The TR is consumed after use.,8,,
+tr38,field,move-teaching,Teaches the move Trick once,8,,
+tr39,field,move-teaching,Teaches the move Superpower,8,,Single-use Technical Record
+tr40,field,move-teaching,Teaches Skill Swap once,8,,
+tr41,field,move-teaching,Teaches Blaze Kick to a compatible Pokémon once.,8,,
+tr42,field,move-teaching,Teaches the move Hyper Voice once to a compatible Pokémon.,8,,
+tr44,field,move-teaching,Teaches the move Cosmic Power to a compatible Pokémon,8,,Consumed upon use
+tr45,field,move-teaching,Teaches the move Muddy Water to a compatible Pokémon. Single-use.,8,,
+tr46,field,move-teaching,Teaches the move Iron Defense to a compatible Pokémon.,8,,Consumed upon use.
+tr47,field,move-teaching,Teaches Dragon Claw,8,,Single-use Technical Record
+tr50,field,move-teaching,Teaches Leaf Blade,8,,
+tr51,field,move-teaching,Teaches the move Dragon Dance,8,,
+tr52,field,move-teaching,Teaches the move Gyro Ball,8,,
+tr53,field,move-teaching,Teaches the move Close Combat to a compatible Pokémon once.,8,,
+tr54,field,move-teaching,Teaches Toxic Spikes to a compatible Pokémon (single use).,8,,
+tr55,field,move-teaching,Teaches the move Flare Blitz to a compatible Pokémon. The item is consumed after use.,8,,
+tr56,field,move-teaching,Teaches Aura Sphere to a compatible Pokémon once.,8,,
+tr57,field,move-teaching,Teaches the move Poison Jab to a compatible Pokémon,8,,Single-use Technical Record
+tr58,field,move-teaching,Teaches Dark Pulse,8,,Consumed after use
+tr59,field,move-teaching,Teaches the move Seed Bomb,8,,
+tr61,field,move-teaching,Teaches the move Bug Buzz once,8,,
+tr62,field,move-teaching,Teaches Dragon Pulse to a compatible Pokémon,8,,Single-use
+tr63,field,move-teaching,Teaches the move Power Gem to a compatible Pokémon once.,8,,
+tr64,field,move-teaching,Teaches the move Focus Blast to a compatible Pokémon once.,8,,
+tr65,field,move-teaching,Teaches the move Energy Ball to a compatible Pokémon once,8,,
+tr66,field,move-teaching,Teaches the move Brave Bird to a compatible Pokémon once.,8,,
+tr68,field,move-teaching,Teaches the move Nasty Plot to a compatible Pokémon once.,8,,
+tr69,field,move-teaching,Teaches Zen Headbutt,8,,Consumed upon use
+tr70,field,move-teaching,Teaches the move Flash Cannon once,8,,
+tr71,field,move-teaching,Teaches the move Leaf Storm to a compatible Pokémon once.,8,,
+tr72,field,move-teaching,Teaches the move Power Whip once to a compatible Pokémon.,8,,
+tr73,field,move-teaching,Teaches the move Gunk Shot,8,,Single-use
+tr75,field,move-teaching,Teaches Stone Edge to a compatible Pokémon once,8,,
+tr76,field,move-teaching,Teaches Stealth Rock,8,,
+tr77,field,move-teaching,Teaches the move Grass Knot,8,,Single-use
+tr79,passive,move-teaching,Teaches Heavy Slam to a compatible Pokémon once.,8,,
+tr81,field,move-teaching,Teaches Foul Play to a compatible Pokémon once,8,,
+tr82,field,move-teaching,Teaches the move Stored Power to a compatible Pokémon once.,8,,
+tr85,field,move-teaching,Teaches the move Work Up to a compatible Pokémon once.,8,,
+tr88,field,move-teaching,Teaches the move Heat Crash to a compatible Pokémon once.,8,,
+tr90,field,move-teaching,Teaches the move Play Rough to a compatible Pokémon once,8,,
+tr91,field,move-teaching,Teaches the move Venom Drench to a compatible Pokémon; can be used once.,8,,
+tr93,field,move-teaching,Teaches the move Darkest Lariat to a compatible Pokémon,8,,Consumable after use
+tr94,field,move-teaching,Teaches the move High Horsepower to a compatible Pokémon once.,8,,
+tr95,passive,move-teaching,Teaches Throat Chop once,8,,
+tr96,field,move-teaching,Teaches the move Pollen Puff,8,,Consumed after use
+tr98,field,move-teaching,Teaches the move Liquidation once,8,,
+tr99,field,move-teaching,Teaches Body Press once,8,,
+tri-pass,field,travel-unlock,"Allows travel via Seagallop ferries between One, Two, and Three Island; later enables travel from Vermilion City.",3,,
+tropic-mail,held,message-storage,Stores a written message using Easy Chat phrases while held by a Pokémon.,3,3,Cannot be stolen by Thief or Covet; can be removed by Knock Off.
+tropical-shell,passive,sell-only,No practical effect other than being sold.,7,,
+tumblestone,field,crafting,"Required to craft Poké Ball and Great Ball (1), Ultra Ball (2).",8,,
+tunnel-mail,held,passive,Allows the holder to carry a written message that can be read when traded or viewed from the Mailbox.,4,4,"Prevents PC storage and Day Care use while held; incompatible with Fling, Trick, Switcheroo, Covet, and Thief."
+twice-spiced-radish,battle,stat-boost,Damage dealt by moves is increased by 50% for five turns.,8,,
+twisted-spoon,held,type-boost,Boosts Psychic-type move power by 20%,4,,
+twisted-spoon,held,type-boost,Boosts Psychic-type move power by 10%,2,3,
+tyranitarite,held,evolution-trigger,Enables Mega Evolution into Mega Tyranitar,6,,Requires Key Stone; unaffected by Embargo or Klutz
+ultra-ball,battle,catch-rate-modifier,2× catch rate; reduced to ~0.1× on Ultra Beasts,1,,
+ultra-ball,held,fling-interaction,Fling fails if the holder has an Ultra Ball,4,,
+ultra-ball-hisui,battle,catch-rate,x2.25,8,,
+ultranecrozium-z,held,evolution-trigger,Allows Necrozma to transform into Ultra Necrozma and upgrades Photon Geyser into Light That Burns the Sky,7,,
+unown-report,passive,information,Records the different forms of Unown caught and unlocks research notes as more forms are discovered.,4,,
+unremarkable-teacup,field,evolution-trigger,Evolves Counterfeit Form Poltchageist into Unremarkable Form Sinistcha,9,,Item is consumed on use
+upgrade,field,evolution-trigger,Use on Porygon to evolve into Porygon2,8,,Legends: Arceus
+upgrade,held,evolution-trigger,Evolves Porygon into Porygon2 when traded,2,8,
+utility-umbrella,held,weather-negation,Negates the effects of rain and harsh sunlight on the holder.,8,,
+uxies-claw,passive,crafting-material,Required to craft the Red Chain,8,,
+vee-vee-pick,field,passive,Used to complete a sandwich during a picnic.,9,,
+venusaurite,held,evolution-trigger,Allows Venusaur to Mega Evolve into Mega Venusaur,6,,Requires a Key Stone
+victreebelite,held,evolution-trigger,Allows Victreebel to Mega Evolve into Mega Victreebel in battle,9,,Requires the Trainer to have a Key Stone; only one Mega Evolution per battle
+vinegar,field,ingredient,Used as an ingredient when making sandwiches.,9,,
+violet-book,field,story,Used in the Zero Lab to shut down Professor Turo's time machine; a second copy triggers a conversation with Arven.,9,,
+virizion-treat,field,story,Allows the player to encounter and battle Virizion at Tagtree Thicket and receive a location hint from Snacksworth.,9,,
+vivichoke,passive,crafting-material,"Used to craft Hyper Potion, Superb Remedy, and Revive.",8,,
+volcano-balm,battle,status,Calms the frenzied Hisuian Arcanine during the Lord of the Isles battle.,8,,
+vs-recorder,field,recording,"Records, replays, uploads, and downloads battle videos and related trainer records.",4,,
+vs-seeker,field,trainer-rematch,Marks on-screen Trainers available for rematches after charging by walking 100 steps.,3,,
+wacan-berry,held,type-resist,Halves damage from one super effective Electric-type attack; quarter damage if the holder has Ripen.,4,,
+wailmer-pail,field,growth-boost,Increases Berry yield when used correctly on planted Berries.,3,,
+wall-fragment,field,story,"Returned to Calaba after being recovered from the Miss Fortune sisters, allowing the player to challenge the frenzied Ursaluna.",8,,
+warding-charm,passive,status-prevention,Prevents a status condition inflicted by a wild Pokémon attack and is consumed.,8,,
+wasabi,field,crafting,Used as an ingredient when making sandwiches.,9,,
+water-gem,held,type-boost,Boosts first Water-type move by 50%,5,5,Consumed after use
+water-gem,held,type-boost,Boosts first Water-type move by 30%,6,,Consumed after use
+water-memory,battle,type-change,Changes Multi-Attack to Water type and Silvally to Water type,7,,
+water-memory,field,form-change,Changes Silvally to its Water-type form,7,,
+water-stone,field,evolution-trigger,Evolves certain Pokémon when used,1,,
+water-tera-shard,field,type-change,Consumes 50 shards to change a Pokémon’s Tera Type to Water.,9,,
+watercress,field,crafting,Used as an ingredient in making sandwiches.,9,,
+waterium-z,held,form-change,Changes Arceus to its Water-type form.,7,,
+waterium-z,held,type-boost,Upgrades Water-type moves into the Z-Move Hydro Vortex or Water-type Z status moves.,7,,
+watmel-berry,passive,ingredient,"Used as an ingredient for Pokéblocks, Poffins, Berry Powder, and similar items.",3,,
+wave-incense,battle,type-boost,Boosts Water-type move power by 20%,4,,
+wave-incense,field,evolution-trigger,Produces Mantyke Egg instead of Mantine Egg,4,,
+wave-mail,held,passive,Allows the holder to carry a custom Easy Chat message that can be traded to other Generation III games.,3,3,Cannot be stolen by Covet or Thief; can be removed by Knock Off.
+weakness-policy,held,stat-boost,Raises Attack and Special Attack by two stages each when hit by a super-effective move,6,,
+wellspring-mask,held,type-boost,Increases the power of the holder's moves by 20%,9,,
+wellspring-mask,held,form-change,Changes Ogerpon to its Wellspring Mask form,9,,
+wepear-berry,passive,ingredient,"Used as an ingredient for Pokéblocks, Poffins, and other berry-based items",3,,
+whimsical-chairs,passive,decorative,Decorates the player's picnic with whimsical chairs.,9,,
+whimsical-tablecloth,field,passive,Decorative only; no gameplay effect.,9,,
+whipped-cream,field,crafting,Used as an ingredient when making sandwiches.,9,,
+whipped-dream,held,evolution-trigger,Evolves Swirlix into Slurpuff when traded,6,,Item is consumed upon evolution
+white-apricorn,field,crafting,Can be made into a Fast Ball by Kurt.,2,,
+white-apricorn,field,crafting,Produces a flavorless Aprijuice with no effect when used in the Apriblender.,4,4,
+white-dish,passive,decorative,Decorates the player's picnic without providing gameplay benefits.,9,,
+white-flute,field,encounter-rate,Increases wild Pokémon encounter rate by 50%,3,4,Effect ends on map transition
+white-flute,field,level-modifier,Decreases wild Pokémon level by 1–4,6,6,Omega Ruby and Alpha Sapphire only
+white-herb,held,stat-reset,Restores all lowered stats to neutral once,3,,
+white-mane-hair,field,crafting,Used with a Radiant Petal to create the Reins of Unity,8,,
+wide-lens,held,stat-boost,Boosts accuracy by 10%,4,,"From Generation V onward, implemented as 4505/4096."
+wiki-berry,field,healing,Restores HP when used from the Bag; consumed on use.,3,,
+wiki-berry,held,healing,Restores HP in a pinch; may cause confusion if the Pokémon dislikes dry flavor.,3,,Restoration amount varies by generation.
+wing-ball,battle,catch-rate-modifier,2× on specific flying encounters; otherwise 1.25×,8,,
+winking-pika-pick,field,crafting,Used to complete a sandwich during a picnic,9,,
+wise-glasses,held,type-boost,Boosts special move power by 10%,4,,
+wishing-piece,field,event-trigger,Activates a Max Raid Battle in an inactive Pokémon Den.,8,,
+wishing-star,field,story,"Allows a Dynamax Band to be fitted, enabling Dynamaxing.",8,,
+wood,passive,crafting,Used as a material to craft items such as the Pokéshi Doll.,8,,
+wood,passive,exchange,Three pieces can be exchanged with Cogita for the Pixie Plate during Mission 26.,8,,
+wood-mail,held,passive,Allows a written message to be stored and transferred with the Pokémon holding it.,3,3,Cannot be stolen by Covet or Thief; removable by Knock Off.
+wooden-crown,field,story,Placing it on the King of Bountiful Harvests statue summons Calyrex.,8,,
+works-key,field,story-progression,Unlocks the door to the Valley Windworks,4,,
+x-accuracy,battle,stat-boost,Raises accuracy by 1 stage (Gen III–VI),3,6,
+x-accuracy,battle,stat-boost,Raises accuracy by 2 stages,7,,
+x-accuracy-2,battle,stat-boost,+2 accuracy stages,5,,
+x-accuracy-3,battle,stat-boost,+3 accuracy stages,5,,
+x-accuracy-6,battle,stat-boost,+6 accuracy stages,5,,
+x-attack,battle,stat-boost,+2 Attack stages,7,,Also slightly increases friendship
+x-attack,battle,stat-boost,+1 Attack stage,1,6,Also slightly increases friendship from Generation II onward
+x-attack-2,battle,stat-boost,+2 Attack stages,5,,
+x-attack-3,battle,stat-boost,+3 Attack stages,5,,
+x-attack-6,battle,stat-boost,+6 Attack stages,5,,
+x-defend-2,battle,stat-boost,+2 Defense stages,5,,
+x-defend-3,battle,stat-boost,+3 Defense stages,5,,
+x-defend-6,battle,stat-boost,+6 Defense stages,5,,
+x-defense,battle,stat-boost,+2 Defense stages,7,,Also increases friendship.
+x-defense,battle,stat-boost,+1 Defense stage,1,6,Also increases friendship from Generation II onward.
+x-sp-atk,battle,stat-boost,+2 Special Attack,7,,Also increases friendship slightly
+x-sp-atk,battle,stat-boost,+1 Special,1,1,
+x-sp-atk,battle,stat-boost,+1 Special Attack,2,6,Also increases friendship slightly
+x-sp-atk-2,battle,stat-boost,+2 Special Attack stages,5,,
+x-sp-atk-3,battle,stat-boost,+3 Special Attack stages,5,,
+x-sp-atk-6,battle,stat-boost,+6 Special Attack stages,5,,
+x-sp-def,battle,stat-boost,+2 Special Defense stages,7,,Also increases friendship slightly
+x-sp-def,battle,stat-boost,+1 Special Defense stage,4,6,Also increases friendship slightly in Generation VI
+x-sp-def-2,battle,stat-boost,+2 Special Defense stages,5,,
+x-sp-def-3,battle,stat-boost,+3 Special Defense stages,5,,
+x-sp-def-6,battle,stat-boost,+6 Special Defense stages,5,,
+x-speed,battle,stat-boost,+2 Speed stages,7,,Also increases friendship
+x-speed,battle,stat-boost,+1 Speed stage,1,6,Also increases friendship from Generation II onward
+x-speed-2,battle,stat-boost,+2 Speed stages,5,,
+x-speed-3,battle,stat-boost,+3 Speed stages,5,,
+x-speed-6,battle,stat-boost,+6 Speed stages,5,,
+xtransceiver,field,communication,Allows communication with NPCs and other players via audio and video calls.,5,,
+yache-berry,held,type-resist,Halves damage from a supereffective Ice-type move (quarters damage if holder has Ripen),4,,
+yarn-ball,field,passive,Can be kicked around by the player and their party Pokémon during a picnic.,9,,
+yellow-apricorn,field,crafting,Can be made into a Moon Ball by Kurt,2,,
+yellow-apricorn,field,stat-boost,Produces Aprijuice that boosts the Stamina Performance stat,4,,Apriblender use
+yellow-bell-pepper,field,crafting,Used as an ingredient when making sandwiches.,9,,
+yellow-bottle,passive,cosmetic,Decorates the player's picnic with a yellow bottle.,9,,
+yellow-chairs,passive,decorative,Decorates the player's picnic with yellow chairs.,9,,
+yellow-cup,passive,cosmetic,Decorates the player's picnic with no gameplay effect.,9,,
+yellow-dish,passive,decorative,No functional effect; used only for picnic decoration.,9,,
+yellow-flute,battle,status-healing,Cures confusion,3,4,
+yellow-flute,battle,status-healing,Cures confusion,6,,Applies from Omega Ruby and Alpha Sapphire onward
+yellow-flute,passive,none,No usable effect,5,6,Does not apply to Omega Ruby and Alpha Sapphire
+yellow-nectar,field,evolution-trigger,Changes Oricorio to Pom-Pom Style,7,,Can only be used outside of battle; consumed on use
+yellow-petal,passive,story-progress,"When all seven petals are collected, Mina combines them to make a Rainbow Flower.",7,,
+yellow-scarf,held,contest-boost,Raises Toughness by 20 points in Generation III contests,3,3,
+yellow-tablecloth,field,cosmetic,Decorates the player's picnic table.,9,,
+yogurt,field,crafting,Used as an ingredient when making a sandwich.,9,,
+z-power-ring,battle,special-move,Allows the use of Z-Crystals and one Z-Move per battle.,7,,
+z-power-ring,battle,mega-evolution,Allows Mega Evolution if the Trainer has obtained a Key Stone and the Pokémon holds a Mega Stone.,7,,Requires receiving a Key Stone from Dexio.
+z-ring,battle,special-mechanic,Allows the use of Z-Crystals and Z-Moves once per battle.,7,,
+zap-plate,held,type-change,Changes Arceus to Electric type,4,,Requires Multitype
+zap-plate,held,type-boost,Boosts Electric-type move power by 20%,4,,
+zapdos-treat,field,encounter-trigger,Allows the player to encounter and battle Zapdos at South Province (Area One) and receive hints from Snacksworth.,9,,
+zekrom-treat,field,encounter-trigger,Allows the player to encounter and battle Zekrom at South Province (Area Five) and receive location hints from Snacksworth.,9,,
+zeraorite,battle,evolution-trigger,Allows Zeraora to Mega Evolve into Mega Zeraora if the Trainer has a Key Stone.,9,,Only one Mega-Evolved Pokémon is allowed at a time.
+zinc,field,stat-boost,+10 Special Defense EVs,3,7,Also slightly increases friendship
+zinc,field,stat-boost,Raises Special Defense EVs up to 252,8,,
+zoom-lens,held,accuracy-boost,Boosts accuracy by 20% when the holder moves after its target in the same turn,4,,"From Generation V onward, accuracy modifier is 4915/4096."
+zygarde-cube,field,form-change,Allows changing Zygarde between 10% and 50% Formes and managing Cells and Cores.,7,,
+zygardite,battle,evolution-trigger,Allows Zygarde Complete Forme to Mega Evolve into Mega Zygarde if the Trainer has a Key Stone,9,,

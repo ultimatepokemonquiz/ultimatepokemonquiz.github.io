@@ -1,0 +1,18 @@
+# Build output (regenerate with pyinstaller / build_artifact.py)
+build/
+dist/
+web-artifact-source.html
+
+# Distribution packages (large, regenerate from source — see README)
+share/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude session config
+.claude/
+
+# OS cruft
+Thumbs.db
+.DS_Store

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ultimate Pokemon Quiz</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <div class="app-brand">Ultimate Pokemon Quiz</div>
+    <h1 id="pageTitle">Do They Breed?</h1>
+    <p class="subtitle" id="pageSubtitle">Can these two Pokémon produce an egg together?</p>
+
+    <div class="mode-switcher" id="modeSwitcher"></div>
+
+    <section class="mode-panel active" id="quizPanel">
+      <div class="streaks" id="streaksBox">
+        <div class="streak-box">
+          <div class="streak-label">Current Streak</div>
+          <div class="streak-value" id="qCurrentStreak">0</div>
+        </div>
+        <div class="streak-box">
+          <div class="streak-label">Previous Streak</div>
+          <div class="streak-value" id="qPreviousStreak">0</div>
+        </div>
+        <div class="streak-box">
+          <div class="streak-label">Longest Streak</div>
+          <div class="streak-value" id="qLongestStreak">0</div>
+        </div>
+      </div>
+
+      <div class="daily-progress" id="dailyProgress"></div>
+
+      <div class="pairing" id="qPairing"></div>
+
+      <div class="question" id="qQuestion">—</div>
+
+      <div class="choices" id="qChoices"></div>
+
+      <div class="result" id="qResult"></div>
+
+      <button class="next-btn" id="qBtnNext">Next</button>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

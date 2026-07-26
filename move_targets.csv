@@ -1,0 +1,17 @@
+id,name,identifier,description,image_path
+1,Normal,normal,Affects a selected adjacent target.,https://cdn.pokedb.org/948950edacd757eaec4f464cd5b3f0e2cc0a70eeffcf0d84216d77b57db4f278
+2,Long Range,long-range,Affects a selected target on the field.,https://cdn.pokedb.org/1857ead3b433cd5d2f3cfdf944e333770f55f0fc36329ad41b87eeca3e7ef2eb
+3,Adjacent Enemy,adjacent-enemy,Affects a selected adjacent enemy.,https://cdn.pokedb.org/7251972b59e632942ecd8753be2439dcbe756245adf3a44009fa3f0c4a1daecc
+4,Self,self,Targets the user.,https://cdn.pokedb.org/0406a3a2121fac0ea4109b84dfcc65af71c9d4ffc20c0d95e001d47505e4b823
+5,Adjacent Ally,adjacent-ally,Aaffects an adjacent ally Pokémon. It has no effect in a Single Battle.,https://cdn.pokedb.org/d2b2cc18d610c025ad265d541944747f38678d0dbe54fd3415b4576a43b6b1d5
+6,Self Or Adjacent Ally,self-or-adjacent-ally,Can target the user or an adjacent ally.,https://cdn.pokedb.org/b5dbfa68ac9f1bad686485f4049a95f8a6f8528cab5dca9be85943b0b4f3af1b
+7,Own Party,own-party,"Affects the user's entire party, including Pokémon that aren't currently on the battlefield, as well as any allies.",https://cdn.pokedb.org/bb02364d2b5654beeda3df228b7ff56b028037760d563f29ba56735f50941db4
+8,All Allies (Except Self),all-allies-except-self,"Affects all allies simultaneously, except for the user. It has no effect in a Single Battle.",https://cdn.pokedb.org/955ee42b8cb96dab676886d22cb021502f5b9fdee029d2b873f604e2fb0122cc
+9,One Random,one-random,Affects one adjacent enemy at random. It targets the enemy Pokémon in Single Battle.,https://cdn.pokedb.org/276b745ec7a7e4fa15e71c2c033931c229cf5993decebf6eafe16e49149bcbed
+10,All Adjacent Enemies,all-adjacent-enemy,Affects multiple adjacent enemies simultaneously.,https://cdn.pokedb.org/05f1056be2f3661fc70b6d3da0b29df9aa6cc32b39ca2f7471704ace5c1b4421
+11,All Adjacent Pokémon,all-adjacent,Affects all adjacent Pokémon simultaneously.,https://cdn.pokedb.org/32e17ac2ed9314b4a431fa39c5de7b19f7edc6d882676b54bb3dfec87d7dcc20
+12,All Pokémon,all,Affects all Pokémon on the battlefield at the time the move is used.,https://cdn.pokedb.org/af2c18bcada49bb9dc1b5ba11c80fdf91e976657b2e5e7a095f04561282fe775
+13,Entire Field,all-field,Affects the entire battlefield and all Pokémon on it.,https://cdn.pokedb.org/f467811c7630ec7416831504b3a519b4121d58c14593bb1b768b7b9cddd471a0
+14,Enemy Field,enemy-field,Affects the opponent's side of the battlefield.,https://cdn.pokedb.org/15e8971816a80c2b7e57ea1a72ce7c58aa1640a5bd55863a156ef4a3d964d3a6
+15,Own Field,own-field,Affects the user's side of the battlefield.,https://cdn.pokedb.org/000e83c32fdb70bdec5262ac06532557ed8111e90d50d9739f0ba35c157d7fb7
+16,Varies,varies,"The move is influenced by things such as the opposing Pokémon using a move or the user's type, so the effect and range are not fixed.",https://cdn.pokedb.org/3dc6587193e386961a1c05bc9d505287159c89349cdd73a3992d6dd723c8ad68

@@ -1,0 +1,68 @@
+region_area_identifier,version_identifier,type,image
+alola,sun-moon,Overworld Map,https://cdn.pokedb.org/0009b394a3649ce1370dbb0ef70654db2cdb8001fee898fba2611216febda062
+alola,sun-moon,Artwork,https://cdn.pokedb.org/b3b572a59d392f2a290f76b9b43eb9c388d5a2c0405be21a1eea2054fd0c1fe7
+alola,ultra-sun-ultra-moon,Artwork,https://cdn.pokedb.org/dcdf9da7b6cc02e8ebf8d2cc36681f8f10cd03a2a24d5c5a32b6f836d03e873c
+alola,ultra-sun-ultra-moon,Overworld Map,https://cdn.pokedb.org/6c6695831eaa0f316962a484d7881f0eb96a8c1a87c853679ce9461daaca5b89
+alola,,Pokémon Masters EX Mindscape,https://cdn.pokedb.org/522bc2fc71176834d9ca2d95e4f80935a62115467c1f28caf77e51e77c3313cf
+blueberry-academy,scarlet-violet,Town Map,https://cdn.pokedb.org/d867b7598daca28bd261544abd1666069d5a0ecbd1ae8fc5ecbb700dfdb8dd7c
+galar,sword-shield,Artwork,https://cdn.pokedb.org/8786c907cbf67e3423d2d25adabc37c47a9ccbb4f805b34a309c3e31e3290b2f
+galar,sword-shield,Artwork (The Isle of Armor),https://cdn.pokedb.org/f3ae20f5eac57cccc660c1755e21a5022f5c42699d62abfdfc3ddc50467fc128
+galar,sword-shield,Artwork (The Crown Tundra),https://cdn.pokedb.org/9d9b059561082604065df90c953ab748ad3de35ae6d0402af0961a4db0327dae
+galar,,Pokémon Masters EX Mindscape,https://cdn.pokedb.org/4a151d6e3f02b276cd4a9963ecebd706d1687dbd1b8c9a727cd12fc50fc36f50
+hisui,legends-arceus,Town Map,https://cdn.pokedb.org/7dd09bf699b693dbdf5551e7f105f19a189267268a00c0357062102722cc8fbc
+hisui,legends-arceus,Artwork,https://cdn.pokedb.org/e65e14af7fe37e75e720c764412b502b8a3c855b2b4f78b99418c0a220e2c0c8
+hoenn,emerald,Artwork,https://cdn.pokedb.org/31fa8f121b60fa74f842705c211c68b5bd7ae669ff9e22c5d1c42152c99ee0b1
+hoenn,omega-ruby-alpha-sapphire,Town Map with no markers,https://cdn.pokedb.org/92e98d9832382512aee72abf1cb686c6d7249dcf0055c3d81478dc45177daf08
+hoenn,omega-ruby-alpha-sapphire,Town Map,https://cdn.pokedb.org/f3b39e1857134b5a9224049c536f33c941d0242e7deab79f7ffc9ccdc5858c05
+hoenn,omega-ruby-alpha-sapphire,While Soaring,https://cdn.pokedb.org/3fc2fc1898747137e7d4f153ce7669587b393224853801149bd24b684a0ec546
+hoenn,omega-ruby-alpha-sapphire,Artwork,https://cdn.pokedb.org/6b3f885fed993009606c9686a3bf391942773b6ef7a4c87612b95abcfe96f2ce
+hoenn,ruby-sapphire,Town Map,https://cdn.pokedb.org/489bfbf9c7c0027ad5f1d4621d45df8e97d6ac5f3a5f64c84360ad484e429699
+hoenn,ruby-sapphire,Artwork,https://cdn.pokedb.org/b64d1fc255570fe0a830b917cfd09c203cf0a88dc41891267ff0ad783b5af39d
+hoenn,,From the anime,https://cdn.pokedb.org/71aedb710a615ca6cc494462ad88551ee8a719a95c19b7548bfb9d9b3e6acf52
+hoenn,,Pokémon Masters EX Mindscape,https://cdn.pokedb.org/6ac385c01d1afe939b3ba4f8e8c1477bcbf823601bc1836d0e4e5bafad5d400a
+hoenn,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/16744609972f07ce398a76807ae949f1bfcb6bd990db644e764090b6efcfead7
+johto,crystal,Town Map,https://cdn.pokedb.org/953e21395ee2f5a9a41085a8ef809dd047e1b02c6faae9dbeade656920f97c65
+johto,gold-silver,Town Map,https://cdn.pokedb.org/ddd7c4acfa936a9dd1713c119e87e6342543b3b010e83bb82b70bce2dc701ff0
+johto,gold-silver,Overworld Map,https://cdn.pokedb.org/ac76e6a785191b17ff1d838d9f4b2aa130cac582dec3e5264ed9cb4f6b3f4abf
+johto,heartgold-soulsilver,Town Map,https://cdn.pokedb.org/1a884f7b2212fd83a913cda22bf0eea4e507ed0b7a7adcf1c1df3c7feff90a81
+johto,heartgold-soulsilver,Artwork,https://cdn.pokedb.org/3e09d4ebca20f707b65a4b343ea5354541b1a0496abbd568fdf7b8cf348c5834
+johto,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/20b0956b07900ad9bf2bcb5dfe0ff4a48f7327b76c02a7724cd16224bbe8447f
+johto,,Adventure Guide Book,https://cdn.pokedb.org/a8ea80d60506fedee2ab2c4b3f614d0928905f2fbf8f40a952377fbaad79f06f
+kalos,x-y,Artwork,https://cdn.pokedb.org/8c6bfb8885198a79bc207fe4893e0a377a11b52fa6481a533a6a33ef287566d1
+kalos,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/b834ace775fc170249edeeefffc6fbd4cd1f40d8c9e1af31f34d444aa3b5b7e1
+kanto,crystal,Town Map,https://cdn.pokedb.org/6e7af0d19824f03896ee0dcdb5d14ce4669cc48aeda1a1edbf8cca3dbf4b4883
+kanto,firered-leafgreen,Town Map,https://cdn.pokedb.org/bb1cb4bba1d615f20604f477976cbca462ef179b17e3941b04244c00fe7c9b14
+kanto,firered-leafgreen,Artwork,https://cdn.pokedb.org/496916219a120ac9e74dce1c8dd0adf2392b499b096c53531d5b4d5516b80ac9
+kanto,firered-leafgreen,Overworld Map,https://cdn.pokedb.org/7b4a2dee3bb3bb9417d07440f58d12055cf95608dad11b1329cd8b300583b481
+kanto,gold-silver,Town Map,https://cdn.pokedb.org/aca434f7dbb9801bfd3025568a878d5500c149fd6fb40cc4f6623a40db6cfe6a
+kanto,gold-silver,Artwork,https://cdn.pokedb.org/e722ed2128ffed6d6c64f310fd2e7793cad490b2d3bbcde7f10db55617980183
+kanto,gold-silver,Overworld Map,https://cdn.pokedb.org/e4e859e779cbe7e3755f14e6b751e277dfde29472d3207df483ab5cb412528d5
+kanto,heartgold-soulsilver,Artwork,https://cdn.pokedb.org/2c482bfd85942ab375f9f04e6dd7bcec0b4feefa001f8b0b3a57b10da5f84a65
+kanto,heartgold-soulsilver,Town Map,https://cdn.pokedb.org/66d187f8894b56b223196b41aca39a17084774eb7cd7bb5adda9f4417d6af5b5
+kanto,lets-go-pikachu-lets-go-eevee,Town Map,https://cdn.pokedb.org/1ada2312938379048ca0a64fc1820255fe066ae75f34ef368635659130f4e71d
+kanto,lets-go-pikachu-lets-go-eevee,Artwork,https://cdn.pokedb.org/3c37c5c29b850dbe4218c2f2ccb310c7330dc8ff95a94a81f5efbc451b4ca638
+kanto,red-blue,Artwork,https://cdn.pokedb.org/44a70281fc9dd67a7c1b9c443b9e32a1f37561b29823454585b8bc523014a6f0
+kanto,red-blue,Town Map,https://cdn.pokedb.org/51b50a91d0d5548267738381ef48be610f178e6a9c6f81bc33c5ed6e6c2f1463
+kanto,red-blue,Overworld Map,https://cdn.pokedb.org/032cad73d68ab61a86dce5abceafe94c9829dffa57b1d95b05f3a8c6ca549fef
+kanto,red-green,Town Map,https://cdn.pokedb.org/48f187dcf562941c5bb40660b99d3baca0a8a65ecbe891cb15cd4195ddfb05de
+kanto,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/b2f3972970ff7b01f6cb2269b728b5ad573e73831f27239ca3745835d6864d95
+kitakami,scarlet-violet,Town Map,https://cdn.pokedb.org/a353003184bbf6b2baa575f5ed0d2f5cdc59f9815f014230f3526ef2f6e4f8f0
+kitakami,scarlet-violet,Artwork of Mossui Town,https://cdn.pokedb.org/8ec31cc91f47cd57ff27cc5b0ef104c9f799831aa82e3f6de7106a9fb3f6442b
+paldea,scarlet-violet,Artwork,https://cdn.pokedb.org/1a62daf6b1bc62035cf4ff22614ff3b125e0de073978a1087d9fe815d1eaa69e
+paldea,scarlet-violet,Town Map,https://cdn.pokedb.org/02954daa6baa39d821d8c078d726dfd43894077b17e78063a16bd7b34ed3d292
+paldea,,South Province (Pokémon Paldean Wilds),https://cdn.pokedb.org/3cdbfe50e028d6dfcbdf626f8da2c62ed3bc7e1420de310b65ab34dd9e400201
+sevii-islands,firered-leafgreen,Artwork,https://cdn.pokedb.org/64b05e9fb66a4cfbf6460f1014365ca3d04b238ea57cdf9f17fa71eb90f2724e
+sevii-islands,firered-leafgreen,Overworld Map,https://cdn.pokedb.org/b119bb7f34de0d1e7873c72cf8dd1d26c9a8da617beb57d71b466391d15eba9d
+sinnoh,brilliant-diamond-shining-pearl,Artwork,https://cdn.pokedb.org/6b2e2501514dba59682b8a156783737389dcbbc6a8f95138b7bf7d6084f180f5
+sinnoh,brilliant-diamond-shining-pearl,Town Map,https://cdn.pokedb.org/9acca2e81004083d077030179f5b058ea610c6c29b1683e25fd8dc94fcc7ac4a
+sinnoh,diamond-pearl,Artwork,https://cdn.pokedb.org/54d48fa17a536152b887509af6c62c335337fbce73b27d90f6187002fe4917cd
+sinnoh,diamond-pearl,Town Map,https://cdn.pokedb.org/3f77ed8b2d0a084cd88ae1c05917bdd227ad6c5e9da9d330b2d523633f8f32a7
+sinnoh,platinum,Artwork,https://cdn.pokedb.org/cb85b5db75f5cbc01afef3f4c7d22c65df9fce850cbe293a73fbcfabb6f297f5
+sinnoh,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/7a179f4711b2f589095e9e471a9ab67166b1e9554800fdd5d21b1cef88564cc3
+unova,black-2-white-2,Town Map,https://cdn.pokedb.org/3dc2cff10f28ee5407d2d5ad9e29775cc57c49e20b42df31cacb09ef28c58956
+unova,black-2-white-2,Artwork,https://cdn.pokedb.org/9db6b9e8a4d9a443250ca7d0d16a9593c0841bc487a3917bd075f0365f417460
+unova,black-white,Artwork,https://cdn.pokedb.org/a919ccd51bf7c59303df39125772bc19850837d0af845086270773beb23b8741
+unova,black-white,Town Map,https://cdn.pokedb.org/f06c449b743e74d2786fbdcb6975c796d2882dd676a1d5bc001e85cba3d2f93c
+unova,,Wallpaper (Daisuki Club),https://cdn.pokedb.org/406aa0c3e3c9e4a23c1781fac1518e4715b1d19ee26bf6491d075446fadb2052
+unova,,Pokémon Generations,https://cdn.pokedb.org/b6ad8d1e298f068ac2b049ee4956917445f21bec78e6e26070d0a2795c326be8
+unova,,Pokémon Masters EX Mindscape,https://cdn.pokedb.org/d4dd0c2be3e021aeee02488ee195cb1a0d5b60b61e6d064cc1d4ef6685eeb26b

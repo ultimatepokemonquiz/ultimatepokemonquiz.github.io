@@ -1,0 +1,2537 @@
+ability_id,version_identifier,flavor_text
+1,black-2-white-2,The stench may cause the target to flinch.
+1,black-white,The stench may cause the target to flinch.
+1,diamond-pearl,The stench helps keep wild Pokémon away.
+1,emerald,Helps repel wild POKéMON.
+1,firered-leafgreen,Helps repel wild POKéMON.
+1,heartgold-soulsilver,The stench helps keep wild Pokémon away.
+1,lets-go-pikachu-lets-go-eevee,"By releasing stench when attacking, this Pokémon may cause the target to flinch."
+1,omega-ruby-alpha-sapphire,The stench may cause the target to flinch.
+1,platinum,The stench helps keep wild Pokémon away.
+1,ruby-sapphire,Helps repel wild POKéMON.
+1,scarlet-violet,"By releasing a stench when attacking, the Pokémon may cause the target to flinch."
+1,sun-moon,"By releasing stench when attacking, this Pokémon may cause the target to flinch."
+1,sword-shield,"By releasing stench when attacking, this Pokémon may cause the target to flinch."
+1,ultra-sun-ultra-moon,"By releasing stench when attacking, this Pokémon may cause the target to flinch."
+1,x-y,The stench may cause the target to flinch.
+2,black-2-white-2,The Pokémon makes it rain if it appears in battle.
+2,black-white,The Pokémon makes it rain if it appears in battle.
+2,diamond-pearl,The Pokémon makes it rain if it appears in battle.
+2,emerald,Summons rain in battle.
+2,firered-leafgreen,Summons rain in battle.
+2,heartgold-soulsilver,The Pokémon makes it rain if it appears in battle.
+2,lets-go-pikachu-lets-go-eevee,The Pokémon makes it rain when it enters a battle.
+2,omega-ruby-alpha-sapphire,The Pokémon makes it rain when it enters a battle.
+2,platinum,The Pokémon makes it rain if it appears in battle.
+2,ruby-sapphire,Summons rain in battle.
+2,scarlet-violet,The Pokémon makes it rain when it enters a battle.
+2,sun-moon,The Pokémon makes it rain when it enters a battle.
+2,sword-shield,The Pokémon makes it rain when it enters a battle.
+2,ultra-sun-ultra-moon,The Pokémon makes it rain when it enters a battle.
+2,x-y,The Pokémon makes it rain when it enters a battle.
+3,black-2-white-2,Its Speed stat is gradually boosted.
+3,black-white,Its Speed stat is gradually boosted.
+3,diamond-pearl,The Pokémon’s Speed stat is gradually boosted.
+3,emerald,Gradually boosts SPEED.
+3,firered-leafgreen,Gradually boosts SPEED.
+3,heartgold-soulsilver,Its Speed stat is gradually boosted.
+3,lets-go-pikachu-lets-go-eevee,Its Speed stat is boosted every turn.
+3,omega-ruby-alpha-sapphire,Its Speed stat is gradually boosted.
+3,platinum,The Pokémon’s Speed stat is gradually boosted.
+3,ruby-sapphire,Gradually boosts SPEED.
+3,scarlet-violet,The Pokémon's Speed stat is boosted every turn.
+3,sun-moon,Its Speed stat is boosted every turn.
+3,sword-shield,Its Speed stat is boosted every turn.
+3,ultra-sun-ultra-moon,Its Speed stat is boosted every turn.
+3,x-y,Its Speed stat is gradually boosted.
+4,black-2-white-2,The Pokémon is protected against critical hits.
+4,black-white,The Pokémon is protected against critical hits.
+4,diamond-pearl,The Pokémon is protected against critical hits.
+4,emerald,Blocks critical hits.
+4,firered-leafgreen,Blocks critical hits.
+4,heartgold-soulsilver,The Pokémon is protected against critical hits.
+4,lets-go-pikachu-lets-go-eevee,Hard armor protects the Pokémon from critical hits.
+4,omega-ruby-alpha-sapphire,Protects the Pokémon from critical hits.
+4,platinum,The Pokémon is protected against critical hits.
+4,ruby-sapphire,Blocks critical hits.
+4,scarlet-violet,Hard armor protects the Pokémon from critical hits.
+4,sun-moon,Hard armor protects the Pokémon from critical hits.
+4,sword-shield,Hard armor protects the Pokémon from critical hits.
+4,ultra-sun-ultra-moon,Hard armor protects the Pokémon from critical hits.
+4,x-y,Protects the Pokémon from critical hits.
+5,black-2-white-2,It cannot be knocked out with one hit.
+5,black-white,It cannot be knocked out with one hit.
+5,diamond-pearl,The Pokémon is protected against 1-hit KO attacks.
+5,emerald,Negates 1-hit KO attacks.
+5,firered-leafgreen,Negates 1-hit KO attacks.
+5,heartgold-soulsilver,It is protected against 1-hit KO attacks.
+5,lets-go-pikachu-lets-go-eevee,"It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+5,omega-ruby-alpha-sapphire,It cannot be knocked out with one hit.
+5,platinum,The Pokémon is protected against 1-hit KO attacks.
+5,ruby-sapphire,Negates 1-hit KO attacks.
+5,scarlet-violet,The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.
+5,sun-moon,"It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+5,sword-shield,"It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+5,ultra-sun-ultra-moon,"It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+5,x-y,It cannot be knocked out with one hit.
+6,black-2-white-2,Prevents the use of self-destructing moves.
+6,black-white,Prevents the use of self-destructing moves.
+6,diamond-pearl,Prevents combatants from self destructing.
+6,emerald,Prevents self-destruction.
+6,firered-leafgreen,Prevents self-destruction.
+6,heartgold-soulsilver,Prevents combatants from self-destructing.
+6,lets-go-pikachu-lets-go-eevee,"Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings."
+6,omega-ruby-alpha-sapphire,Prevents the use of self-destructing moves.
+6,platinum,Prevents combatants from self destructing.
+6,ruby-sapphire,Prevents self-destruction.
+6,scarlet-violet,"The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct."
+6,sun-moon,Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.
+6,sword-shield,"Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings."
+6,ultra-sun-ultra-moon,Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.
+6,x-y,Prevents the use of self-destructing moves.
+7,black-2-white-2,The Pokémon is protected from paralysis.
+7,black-white,The Pokémon is protected from paralysis.
+7,diamond-pearl,The Pokémon is protected from paralysis.
+7,emerald,Prevents paralysis.
+7,firered-leafgreen,Prevents paralysis.
+7,heartgold-soulsilver,The Pokémon is protected from paralysis.
+7,lets-go-pikachu-lets-go-eevee,Its limber body protects the Pokémon from paralysis.
+7,omega-ruby-alpha-sapphire,Protects the Pokémon from paralysis.
+7,platinum,The Pokémon is protected from paralysis.
+7,ruby-sapphire,Prevents paralysis.
+7,scarlet-violet,The Pokémon's limber body prevents it from being paralyzed.
+7,sun-moon,Its limber body protects the Pokémon from paralysis.
+7,sword-shield,Its limber body protects the Pokémon from paralysis.
+7,ultra-sun-ultra-moon,Its limber body protects the Pokémon from paralysis.
+7,x-y,Protects the Pokémon from paralysis.
+8,black-2-white-2,Boosts the Pokémon’s evasion in a sandstorm.
+8,black-white,Boosts the Pokémon’s evasion in a sandstorm.
+8,diamond-pearl,Boosts the Pokémon’s evasion in a sandstorm.
+8,emerald,Ups evasion in a sandstorm.
+8,firered-leafgreen,Ups evasion in a sandstorm.
+8,heartgold-soulsilver,Boosts the Pokémon’s evasion in a sandstorm.
+8,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s evasion in a sandstorm.
+8,omega-ruby-alpha-sapphire,Boosts the Pokémon’s evasion in a sandstorm.
+8,platinum,Boosts the Pokémon’s evasion in a sandstorm.
+8,ruby-sapphire,Ups evasion in a sandstorm.
+8,scarlet-violet,Boosts the Pokémon's evasiveness in a sandstorm.
+8,sun-moon,Boosts the Pokémon’s evasion in a sandstorm.
+8,sword-shield,Boosts the Pokémon’s evasiveness in a sandstorm.
+8,ultra-sun-ultra-moon,Boosts the Pokémon’s evasion in a sandstorm.
+8,x-y,Boosts the Pokémon’s evasion in a sandstorm.
+9,black-2-white-2,Contact with the Pokémon may cause paralysis.
+9,black-white,Contact with the Pokémon may cause paralysis.
+9,diamond-pearl,Contact with the Pokémon may cause paralysis.
+9,emerald,Paralyzes on contact.
+9,firered-leafgreen,Paralyzes on contact.
+9,heartgold-soulsilver,Contact with the Pokémon may cause paralysis.
+9,lets-go-pikachu-lets-go-eevee,"The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+9,omega-ruby-alpha-sapphire,Contact with the Pokémon may cause paralysis.
+9,platinum,Contact with the Pokémon may cause paralysis.
+9,ruby-sapphire,Paralyzes on contact.
+9,scarlet-violet,The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.
+9,sun-moon,"The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+9,sword-shield,"The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+9,ultra-sun-ultra-moon,"The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+9,x-y,Contact with the Pokémon may cause paralysis.
+10,black-2-white-2,Restores HP if hit by an Electric-type move.
+10,black-white,Restores HP if hit by an Electric-type move.
+10,diamond-pearl,Restores HP if hit by an Electric-type move.
+10,emerald,Turns electricity into HP.
+10,firered-leafgreen,Turns electricity into HP.
+10,heartgold-soulsilver,Restores HP if hit by an Electric-type move.
+10,lets-go-pikachu-lets-go-eevee,Restores HP if hit by an Electric-type move instead of taking damage.
+10,omega-ruby-alpha-sapphire,Restores HP if hit by an Electric-type move.
+10,platinum,Restores HP if hit by an Electric-type move.
+10,ruby-sapphire,Turns electricity into HP.
+10,scarlet-violet,"If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage."
+10,sun-moon,"Restores HP if hit by an Electric-type move, instead of taking damage."
+10,sword-shield,Restores HP if hit by an Electric-type move instead of taking damage.
+10,ultra-sun-ultra-moon,"Restores HP if hit by an Electric-type move, instead of taking damage."
+10,x-y,Restores HP if hit by an Electric-type move.
+11,black-2-white-2,Restores HP if hit by a Water-type move.
+11,black-white,Restores HP if hit by a Water-type move.
+11,diamond-pearl,Restores HP if hit by a Water-type move.
+11,emerald,Changes water into HP.
+11,firered-leafgreen,Changes water into HP.
+11,heartgold-soulsilver,Restores HP if hit by a Water-type move.
+11,lets-go-pikachu-lets-go-eevee,Restores HP if hit by a Water-type move instead of taking damage.
+11,omega-ruby-alpha-sapphire,Restores HP if hit by a Water-type move.
+11,platinum,Restores HP if hit by a Water-type move.
+11,ruby-sapphire,Changes water into HP.
+11,scarlet-violet,"If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage."
+11,sun-moon,"Restores HP if hit by a Water-type move, instead of taking damage."
+11,sword-shield,Restores HP if hit by a Water-type move instead of taking damage.
+11,ultra-sun-ultra-moon,"Restores HP if hit by a Water-type move, instead of taking damage."
+11,x-y,Restores HP if hit by a Water-type move.
+12,black-2-white-2,Prevents it from becoming infatuated.
+12,black-white,Prevents it from becoming infatuated.
+12,diamond-pearl,Prevents the Pokémon from becoming infatuated.
+12,emerald,Prevents attraction.
+12,firered-leafgreen,Prevents attraction.
+12,heartgold-soulsilver,Prevents it from becoming infatuated.
+12,lets-go-pikachu-lets-go-eevee,"The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+12,omega-ruby-alpha-sapphire,Keeps the Pokémon from being infatuated or falling for taunts.
+12,platinum,Prevents the Pokémon from becoming infatuated.
+12,ruby-sapphire,Prevents attraction.
+12,scarlet-violet,"The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate."
+12,sun-moon,"The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+12,sword-shield,"The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+12,ultra-sun-ultra-moon,"The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
+12,x-y,Keeps the Pokémon from being infatuated or falling for taunts.
+13,black-2-white-2,Eliminates the effects of weather.
+13,black-white,Eliminates the effects of weather.
+13,diamond-pearl,Eliminates the effects of weather.
+13,emerald,Negates weather effects.
+13,firered-leafgreen,Negates weather effects.
+13,heartgold-soulsilver,Eliminates the effects of weather.
+13,lets-go-pikachu-lets-go-eevee,Eliminates the effects of weather.
+13,omega-ruby-alpha-sapphire,Eliminates the effects of weather.
+13,platinum,Eliminates the effects of weather.
+13,ruby-sapphire,Negates weather effects.
+13,scarlet-violet,Eliminates the effects of weather.
+13,sun-moon,Eliminates the effects of weather.
+13,sword-shield,Eliminates the effects of weather.
+13,ultra-sun-ultra-moon,Eliminates the effects of weather.
+13,x-y,Eliminates the effects of weather.
+14,black-2-white-2,The Pokémon’s accuracy is boosted.
+14,black-white,The Pokémon’s accuracy is boosted.
+14,diamond-pearl,The Pokémon’s accuracy is boosted.
+14,emerald,Raises accuracy.
+14,firered-leafgreen,Raises accuracy.
+14,heartgold-soulsilver,The Pokémon’s accuracy is boosted.
+14,lets-go-pikachu-lets-go-eevee,The Pokémon’s compound eyes boost its accuracy.
+14,omega-ruby-alpha-sapphire,Boosts the Pokémon’s accuracy.
+14,platinum,The Pokémon’s accuracy is boosted.
+14,ruby-sapphire,Raises accuracy.
+14,scarlet-violet,The Pokémon's compound eyes boost its accuracy.
+14,sun-moon,The Pokémon’s compound eyes boost its accuracy.
+14,sword-shield,The Pokémon’s compound eyes boost its accuracy.
+14,ultra-sun-ultra-moon,The Pokémon’s compound eyes boost its accuracy.
+14,x-y,Boosts the Pokémon’s accuracy.
+15,black-2-white-2,Prevents the Pokémon from falling asleep.
+15,black-white,Prevents the Pokémon from falling asleep.
+15,diamond-pearl,Prevents the Pokémon from falling asleep.
+15,emerald,Prevents sleep.
+15,firered-leafgreen,Prevents sleep.
+15,heartgold-soulsilver,Prevents the Pokémon from falling asleep.
+15,lets-go-pikachu-lets-go-eevee,The Pokémon is suffering from insomnia and cannot fall asleep.
+15,omega-ruby-alpha-sapphire,Prevents the Pokémon from falling asleep.
+15,platinum,Prevents the Pokémon from falling asleep.
+15,ruby-sapphire,Prevents sleep.
+15,sun-moon,The Pokémon is suffering from insomnia and cannot fall asleep.
+15,sword-shield,The Pokémon is suffering from insomnia and cannot fall asleep.
+15,sword-shield,The Pokémon's insomnia prevents it from falling asleep.
+15,ultra-sun-ultra-moon,The Pokémon is suffering from insomnia and cannot fall asleep.
+15,x-y,Prevents the Pokémon from falling asleep.
+16,black-2-white-2,Changes the Pokémon’s type to the foe’s move.
+16,black-white,Changes the Pokémon’s type to the foe’s move.
+16,diamond-pearl,Changes the Pokémon’s type to the foe’s move.
+16,emerald,Changes type to foe’s move.
+16,firered-leafgreen,Changes type to foe’s move.
+16,heartgold-soulsilver,Changes the Pokémon’s type to the foe’s move.
+16,lets-go-pikachu-lets-go-eevee,The Pokémon’s type becomes the type of the move used on it.
+16,omega-ruby-alpha-sapphire,The Pokémon’s type becomes the type of the move used on it.
+16,platinum,Changes the Pokémon’s type to the foe’s move.
+16,ruby-sapphire,Changes type to foe’s move.
+16,sun-moon,The Pokémon’s type becomes the type of the move used on it.
+16,sword-shield,The Pokémon’s type becomes the type of the move used on it.
+16,ultra-sun-ultra-moon,The Pokémon’s type becomes the type of the move used on it.
+16,x-y,The Pokémon’s type becomes the type of the move used on it.
+17,black-2-white-2,Prevents the Pokémon from getting poisoned.
+17,black-white,Prevents the Pokémon from getting poisoned.
+17,diamond-pearl,Prevents the Pokémon from getting poisoned.
+17,emerald,Prevents poisoning.
+17,firered-leafgreen,Prevents poisoning.
+17,heartgold-soulsilver,Prevents the Pokémon from getting poisoned.
+17,lets-go-pikachu-lets-go-eevee,The immune system of the Pokémon prevents it from getting poisoned.
+17,omega-ruby-alpha-sapphire,Prevents the Pokémon from getting poisoned.
+17,platinum,Prevents the Pokémon from getting poisoned.
+17,ruby-sapphire,Prevents poisoning.
+17,scarlet-violet,The Pokémon's immune system prevents it from being poisoned.
+17,sun-moon,The immune system of the Pokémon prevents it from getting poisoned.
+17,sword-shield,The immune system of the Pokémon prevents it from getting poisoned.
+17,ultra-sun-ultra-moon,The immune system of the Pokémon prevents it from getting poisoned.
+17,x-y,Prevents the Pokémon from getting poisoned.
+18,black-2-white-2,It powers up Fire-type moves if it’s hit by one.
+18,black-white,It powers up Fire-type moves if it’s hit by one.
+18,diamond-pearl,Powers up Fire-type moves if hit by a fire move.
+18,emerald,Powers up if hit by fire.
+18,firered-leafgreen,Powers up if hit by fire.
+18,heartgold-soulsilver,It powers up Fire-type moves if it’s hit by one.
+18,lets-go-pikachu-lets-go-eevee,Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+18,omega-ruby-alpha-sapphire,Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+18,platinum,Powers up Fire-type moves if hit by a fire move.
+18,ruby-sapphire,Powers up if hit by fire.
+18,scarlet-violet,"If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves."
+18,sun-moon,Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+18,sword-shield,Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+18,ultra-sun-ultra-moon,Powers up the Pokémon’s Fire-type moves if it’s hit by one.
+18,x-y,Powers up the Pokémon’s Fire- type moves if it’s hit by one.
+19,black-2-white-2,Blocks the added effects of attacks taken.
+19,black-white,Blocks the added effects of attacks taken.
+19,diamond-pearl,Blocks the added effects of attacks taken.
+19,emerald,Prevents added effects.
+19,firered-leafgreen,Prevents added effects.
+19,heartgold-soulsilver,Blocks the added effects of attacks taken.
+19,lets-go-pikachu-lets-go-eevee,This Pokémon’s dust blocks the additional effects of attacks taken.
+19,omega-ruby-alpha-sapphire,Blocks the additional effects of attacks taken.
+19,platinum,Blocks the added effects of attacks taken.
+19,ruby-sapphire,Prevents added effects.
+19,scarlet-violet,Protective dust shields the Pokémon from the additional effects of moves.
+19,sun-moon,This Pokémon’s dust blocks the additional effects of attacks taken.
+19,sword-shield,This Pokémon’s dust blocks the additional effects of attacks taken.
+19,ultra-sun-ultra-moon,This Pokémon’s dust blocks the additional effects of attacks taken.
+19,x-y,Blocks the additional effects of attacks taken.
+20,black-2-white-2,Prevents the Pokémon from becoming confused.
+20,black-white,Prevents the Pokémon from becoming confused.
+20,diamond-pearl,Prevents the Pokémon from becoming confused.
+20,emerald,Prevents confusion.
+20,firered-leafgreen,Prevents confusion.
+20,heartgold-soulsilver,Prevents the Pokémon from becoming confused.
+20,lets-go-pikachu-lets-go-eevee,"This Pokémon has its own tempo, and that prevents it from becoming confused."
+20,omega-ruby-alpha-sapphire,Prevents the Pokémon from becoming confused.
+20,platinum,Prevents the Pokémon from becoming confused.
+20,ruby-sapphire,Prevents confusion.
+20,scarlet-violet,"The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate."
+20,sun-moon,"This Pokémon has its own tempo, and that prevents it from becoming confused."
+20,sword-shield,"This Pokémon has its own tempo, and that prevents it from becoming confused."
+20,ultra-sun-ultra-moon,"This Pokémon has its own tempo, and that prevents it from becoming confused."
+20,x-y,Prevents the Pokémon from becoming confused.
+21,black-2-white-2,Negates all moves that force switching out.
+21,black-white,Negates all moves that force switching out.
+21,diamond-pearl,Negates moves that force switching out.
+21,emerald,Firmly anchors the body.
+21,firered-leafgreen,Firmly anchors the body.
+21,heartgold-soulsilver,Negates foes’ moves that force switching out.
+21,lets-go-pikachu-lets-go-eevee,This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+21,omega-ruby-alpha-sapphire,Negates all moves and items that force switching out.
+21,platinum,Negates moves that force switching out.
+21,ruby-sapphire,Firmly anchors the body.
+21,sun-moon,This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+21,sword-shield,This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+21,the-indigo-disk,The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out.
+21,ultra-sun-ultra-moon,This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.
+21,x-y,Negates all moves and items that force switching out.
+22,black-2-white-2,Lowers the foe’s Attack stat.
+22,black-white,Lowers the foe’s Attack stat.
+22,diamond-pearl,Lowers the foe’s Attack stat.
+22,emerald,Lowers the foe’s ATTACK.
+22,firered-leafgreen,Lowers the foe’s ATTACK.
+22,heartgold-soulsilver,Lowers the foe’s Attack stat.
+22,lets-go-pikachu-lets-go-eevee,"The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+22,omega-ruby-alpha-sapphire,Lowers the opposing Pokémon’s Attack stat.
+22,platinum,Lowers the foe’s Attack stat.
+22,ruby-sapphire,Lowers the foe’s ATTACK.
+22,scarlet-violet,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats."
+22,sun-moon,"The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+22,sword-shield,"The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+22,ultra-sun-ultra-moon,"The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+22,x-y,Lowers the opposing Pokémon’s Attack stat.
+23,black-2-white-2,Prevents the foe from escaping.
+23,black-white,Prevents the foe from escaping.
+23,diamond-pearl,Prevents the foe from escaping.
+23,emerald,Prevents the foe’s escape.
+23,firered-leafgreen,Prevents the foe’s escape.
+23,heartgold-soulsilver,Prevents the foe from escaping.
+23,lets-go-pikachu-lets-go-eevee,This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+23,omega-ruby-alpha-sapphire,Prevents opposing Pokémon from escaping.
+23,platinum,Prevents the foe from escaping.
+23,ruby-sapphire,Prevents the foe’s escape.
+23,scarlet-violet,The Pokémon steps on the opposing Pokémon's shadows to prevent them from fleeing or switching out.
+23,sun-moon,This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+23,sword-shield,This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+23,ultra-sun-ultra-moon,This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.
+23,x-y,Prevents opposing Pokémon from escaping.
+24,black-2-white-2,Inflicts damage to the attacker on contact.
+24,black-white,Inflicts damage to the attacker on contact.
+24,diamond-pearl,Inflicts damage to the foe on contact.
+24,emerald,Hurts to touch.
+24,firered-leafgreen,Hurts to touch.
+24,heartgold-soulsilver,Inflicts damage to the foe on contact.
+24,lets-go-pikachu-lets-go-eevee,This Pokémon inflicts damage with its rough skin to the attacker on contact.
+24,omega-ruby-alpha-sapphire,Inflicts damage to the attacker on contact.
+24,platinum,Inflicts damage to the foe on contact.
+24,ruby-sapphire,Hurts to touch.
+24,scarlet-violet,The Pokémon's rough skin damages attackers that make direct contact with it.
+24,sun-moon,This Pokémon inflicts damage with its rough skin to the attacker on contact.
+24,sword-shield,This Pokémon inflicts damage with its rough skin to the attacker on contact.
+24,ultra-sun-ultra-moon,This Pokémon inflicts damage with its rough skin to the attacker on contact.
+24,x-y,Inflicts damage to the attacker on contact.
+25,black-2-white-2,Only supereffective moves will hit.
+25,black-white,Only supereffective moves will hit.
+25,diamond-pearl,Only supereffective moves will hit.
+25,emerald,“Super effective” hits.
+25,firered-leafgreen,“Super effective” hits.
+25,heartgold-soulsilver,Only supereffective moves will hit.
+25,lets-go-pikachu-lets-go-eevee,Its mysterious power only lets supereffective moves hit the Pokémon.
+25,omega-ruby-alpha-sapphire,Only supereffective moves will hit.
+25,platinum,Only supereffective moves will hit.
+25,ruby-sapphire,“Super effective” hits.
+25,sun-moon,Its mysterious power only lets supereffective moves hit the Pokémon.
+25,sword-shield,Its mysterious power only lets supereffective moves hit the Pokémon.
+25,ultra-sun-ultra-moon,Its mysterious power only lets supereffective moves hit the Pokémon.
+25,x-y,Only supereffective moves will hit.
+26,black-2-white-2,Gives full immunity to all Ground-type moves.
+26,black-white,Gives full immunity to all Ground-type moves.
+26,diamond-pearl,Gives full immunity to all Ground-type moves.
+26,emerald,Not hit by GROUND attacks.
+26,firered-leafgreen,Not hit by GROUND attacks.
+26,heartgold-soulsilver,Gives full immunity to all Ground-type moves.
+26,lets-go-pikachu-lets-go-eevee,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+26,omega-ruby-alpha-sapphire,Gives full immunity to all Ground-type moves.
+26,platinum,Gives full immunity to all Ground-type moves.
+26,ruby-sapphire,Not hit by GROUND attacks.
+26,scarlet-violet,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+26,sun-moon,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+26,sword-shield,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+26,ultra-sun-ultra-moon,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+26,x-y,Gives full immunity to all Ground-type moves.
+27,black-2-white-2,Contact may poison or cause paralysis or sleep.
+27,black-white,Contact may poison or cause paralysis or sleep.
+27,diamond-pearl,"Contact may paralyze, poison, or cause sleep."
+27,emerald,Leaves spores on contact.
+27,firered-leafgreen,Leaves spores on contact.
+27,heartgold-soulsilver,"Contact may paralyze, poison, or cause sleep."
+27,lets-go-pikachu-lets-go-eevee,"Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+27,omega-ruby-alpha-sapphire,Contact may poison or cause paralysis or sleep.
+27,platinum,"Contact may paralyze, poison, or cause sleep."
+27,ruby-sapphire,Leaves spores on contact.
+27,scarlet-violet,"Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker."
+27,sun-moon,"Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+27,sword-shield,"Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+27,ultra-sun-ultra-moon,"Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+27,x-y,Contact may poison or cause paralysis or sleep.
+28,black-2-white-2,"Passes a burn, poison, or paralysis to the foe."
+28,black-white,"Passes a burn, poison, or paralysis to the foe."
+28,diamond-pearl,"Passes on a burn, poison, or paralysis to the foe."
+28,emerald,Passes on status problems.
+28,firered-leafgreen,Passes on status problems.
+28,heartgold-soulsilver,"Passes a burn, poison, or paralysis to the foe."
+28,lets-go-pikachu-lets-go-eevee,"The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+28,omega-ruby-alpha-sapphire,"Passes poison, paralyze, or burn to the Pokémon that inflicted it."
+28,platinum,"Passes on a burn, poison, or paralysis to the foe."
+28,ruby-sapphire,Passes on status problems.
+28,scarlet-violet,"If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition."
+28,sun-moon,"The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+28,sword-shield,"The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+28,ultra-sun-ultra-moon,"The attacker will receive the same status condition if it inflicts a burn, poison, or paralysis to the Pokémon."
+28,x-y,"Passes poison, paralyze, or burn to the Pokémon that inflicted it."
+29,black-2-white-2,Prevents other Pokémon from lowering its stats.
+29,black-white,Prevents other Pokémon from lowering its stats.
+29,diamond-pearl,Prevents the Pokémon’s stats from being lowered.
+29,emerald,Prevents ability reduction.
+29,firered-leafgreen,Prevents ability reduction.
+29,heartgold-soulsilver,Prevents its stats from being lowered.
+29,lets-go-pikachu-lets-go-eevee,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+29,omega-ruby-alpha-sapphire,Prevents other Pokémon from lowering its stats.
+29,platinum,Prevents the Pokémon’s stats from being lowered.
+29,ruby-sapphire,Prevents ability reduction.
+29,scarlet-violet,Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.
+29,sun-moon,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+29,sword-shield,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+29,ultra-sun-ultra-moon,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+29,x-y,Prevents other Pokémon from lowering its stats.
+30,black-2-white-2,All status problems heal when it switches out.
+30,black-white,All status problems heal when it switches out.
+30,diamond-pearl,All status problems are healed upon switching out.
+30,emerald,Heals upon switching out.
+30,firered-leafgreen,Heals upon switching out.
+30,heartgold-soulsilver,All status problems heal when it switches out.
+30,lets-go-pikachu-lets-go-eevee,All status conditions heal when the Pokémon switches out.
+30,omega-ruby-alpha-sapphire,All status conditions heal when the Pokémon switches out.
+30,platinum,All status problems are healed upon switching out.
+30,ruby-sapphire,Heals upon switching out.
+30,scarlet-violet,The Pokémon's status conditions are cured when it switches out.
+30,sun-moon,All status conditions heal when the Pokémon switches out.
+30,sword-shield,All status conditions heal when the Pokémon switches out.
+30,ultra-sun-ultra-moon,All status conditions heal when the Pokémon switches out.
+30,x-y,All status conditions heal when the Pokémon switches out.
+31,black-2-white-2,Draws in all Electric-type moves to up Sp. Attack.
+31,black-white,Draws in all Electric-type moves to up Sp. Attack.
+31,diamond-pearl,The Pokémon draws in all Electric-type moves.
+31,emerald,Draws electrical moves.
+31,firered-leafgreen,Draws electrical moves.
+31,heartgold-soulsilver,The Pokémon draws in all Electric-type moves.
+31,lets-go-pikachu-lets-go-eevee,"The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+31,omega-ruby-alpha-sapphire,Draws in all Electric-type moves to boost its Sp. Atk stat.
+31,platinum,The Pokémon draws in all Electric-type moves.
+31,ruby-sapphire,Draws electrical moves.
+31,scarlet-violet,"The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+31,sun-moon,"The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+31,sword-shield,"The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+31,ultra-sun-ultra-moon,"The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+31,x-y,Draws in all Electric-type moves to boost its Sp. Atk stat.
+32,black-2-white-2,Boosts the likelihood of added effects appearing.
+32,black-white,Boosts the likelihood of added effects appearing.
+32,diamond-pearl,Boosts the likelihood of added effects appearing.
+32,emerald,Promotes added effects.
+32,firered-leafgreen,Promotes added effects.
+32,heartgold-soulsilver,Boosts the likelihood of added effects appearing.
+32,lets-go-pikachu-lets-go-eevee,Boosts the likelihood of additional effects occurring when attacking.
+32,omega-ruby-alpha-sapphire,Boosts the likelihood of additional effects occurring.
+32,platinum,Boosts the likelihood of added effects appearing.
+32,ruby-sapphire,Promotes added effects.
+32,scarlet-violet,Raises the likelihood of additional effects occurring when the Pokémon uses its moves.
+32,sun-moon,Boosts the likelihood of additional effects occurring when attacking.
+32,sword-shield,Boosts the likelihood of additional effects occurring when attacking.
+32,ultra-sun-ultra-moon,Boosts the likelihood of additional effects occurring when attacking.
+32,x-y,Boosts the likelihood of additional effects occurring.
+33,black-2-white-2,Boosts the Pokémon’s Speed in rain.
+33,black-white,Boosts the Pokémon’s Speed in rain.
+33,diamond-pearl,Boosts the Pokémon’s Speed in rain.
+33,emerald,Raises SPEED in rain.
+33,firered-leafgreen,Raises SPEED in rain.
+33,heartgold-soulsilver,Boosts the Pokémon’s Speed in rain.
+33,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Speed stat in rain.
+33,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Speed stat in rain.
+33,platinum,Boosts the Pokémon’s Speed in rain.
+33,ruby-sapphire,Raises SPEED in rain.
+33,scarlet-violet,Boosts the Pokémon's Speed stat in rain.
+33,sun-moon,Boosts the Pokémon’s Speed stat in rain.
+33,sword-shield,Boosts the Pokémon’s Speed stat in rain.
+33,ultra-sun-ultra-moon,Boosts the Pokémon’s Speed stat in rain.
+33,x-y,Boosts the Pokémon’s Speed stat in rain.
+34,black-2-white-2,Boosts the Pokémon’s Speed in sunshine.
+34,black-white,Boosts the Pokémon’s Speed in sunshine.
+34,diamond-pearl,Boosts the Pokémon’s Speed in sunshine.
+34,emerald,Raises SPEED in sunshine.
+34,firered-leafgreen,Raises SPEED in sunshine.
+34,heartgold-soulsilver,Boosts the Pokémon’s Speed in sunshine.
+34,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Speed stat in harsh sunlight.
+34,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Speed stat in sunshine.
+34,platinum,Boosts the Pokémon’s Speed in sunshine.
+34,ruby-sapphire,Raises SPEED in sunshine.
+34,scarlet-violet,Boosts the Pokémon's Speed stat in harsh sunlight.
+34,sun-moon,Boosts the Pokémon’s Speed stat in sunshine.
+34,sword-shield,Boosts the Pokémon’s Speed stat in harsh sunlight.
+34,ultra-sun-ultra-moon,Boosts the Pokémon’s Speed stat in harsh sunlight.
+34,x-y,Boosts the Pokémon’s Speed stat in sunshine.
+35,black-2-white-2,Raises the likelihood of meeting wild Pokémon.
+35,black-white,Raises the likelihood of meeting wild Pokémon.
+35,diamond-pearl,Raises the likelihood of meeting wild Pokémon.
+35,emerald,Encounter rate increases.
+35,firered-leafgreen,Encounter rate increases.
+35,heartgold-soulsilver,Raises the likelihood of meeting wild Pokémon.
+35,lets-go-pikachu-lets-go-eevee,Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+35,omega-ruby-alpha-sapphire,Raises the likelihood of meeting wild Pokémon.
+35,platinum,Raises the likelihood of meeting wild Pokémon.
+35,ruby-sapphire,Encounter rate increases.
+35,sun-moon,Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+35,sword-shield,Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+35,the-teal-mask,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered."
+35,ultra-sun-ultra-moon,Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.
+35,x-y,Raises the likelihood of meeting wild Pokémon.
+36,black-2-white-2,The Pokémon copies a foe’s Ability.
+36,black-white,The Pokémon copies a foe’s Ability.
+36,diamond-pearl,The Pokémon copies the foe’s ability.
+36,emerald,Copies special ability.
+36,firered-leafgreen,Copies special ability.
+36,heartgold-soulsilver,The Pokémon copies the foe’s ability.
+36,lets-go-pikachu-lets-go-eevee,"When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+36,omega-ruby-alpha-sapphire,The Pokémon copies an opposing Pokémon’s Ability.
+36,platinum,The Pokémon copies the foe’s ability.
+36,ruby-sapphire,Copies special ability.
+36,scarlet-violet,"When it enters a battle, the Pokémon copies an opposing Pokémon's Ability."
+36,sun-moon,"When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+36,sword-shield,"When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+36,ultra-sun-ultra-moon,"When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+36,x-y,The Pokémon copies an opposing Pokémon’s Ability.
+37,black-2-white-2,Raises the Pokémon’s Attack stat.
+37,black-white,Raises the Pokémon’s Attack stat.
+37,diamond-pearl,Raises the Pokémon’s Attack stat.
+37,emerald,Raises ATTACK.
+37,firered-leafgreen,Raises ATTACK.
+37,heartgold-soulsilver,Raises the Pokémon’s Attack stat.
+37,lets-go-pikachu-lets-go-eevee,Doubles the Pokémon’s Attack stat.
+37,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Attack stat.
+37,platinum,Raises the Pokémon’s Attack stat.
+37,ruby-sapphire,Raises ATTACK.
+37,scarlet-violet,Doubles the Pokémon's Attack stat.
+37,sun-moon,Doubles the Pokémon’s Attack stat.
+37,sword-shield,Doubles the Pokémon’s Attack stat.
+37,ultra-sun-ultra-moon,Doubles the Pokémon’s Attack stat.
+37,x-y,Boosts the Pokémon’s Attack stat.
+38,black-2-white-2,Contact with the Pokémon may poison the attacker.
+38,black-white,Contact with the Pokémon may poison the attacker.
+38,diamond-pearl,Contact with the Pokémon may poison the foe.
+38,emerald,Poisons foe on contact.
+38,firered-leafgreen,Poisons foe on contact.
+38,heartgold-soulsilver,Contact with the Pokémon may poison the foe.
+38,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon may poison the attacker.
+38,omega-ruby-alpha-sapphire,Contact with the Pokémon may poison the attacker.
+38,platinum,Contact with the Pokémon may poison the foe.
+38,ruby-sapphire,Poisons foe on contact.
+38,scarlet-violet,Contact with the Pokémon may poison the attacker.
+38,sun-moon,Contact with the Pokémon may poison the attacker.
+38,sword-shield,Contact with the Pokémon may poison the attacker.
+38,ultra-sun-ultra-moon,Contact with the Pokémon may poison the attacker.
+38,x-y,Contact with the Pokémon may poison the attacker.
+39,black-2-white-2,The Pokémon is protected from flinching.
+39,black-white,The Pokémon is protected from flinching.
+39,diamond-pearl,The Pokémon is protected from flinching.
+39,emerald,Prevents flinching.
+39,firered-leafgreen,Prevents flinching.
+39,heartgold-soulsilver,The Pokémon is protected from flinching.
+39,lets-go-pikachu-lets-go-eevee,"The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+39,omega-ruby-alpha-sapphire,Protects the Pokémon from flinching.
+39,platinum,The Pokémon is protected from flinching.
+39,ruby-sapphire,Prevents flinching.
+39,scarlet-violet,The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.
+39,sun-moon,"The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+39,sword-shield,"The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+39,ultra-sun-ultra-moon,"The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
+39,x-y,Protects the Pokémon from flinching.
+40,black-2-white-2,Prevents the Pokémon from becoming frozen.
+40,black-white,Prevents the Pokémon from becoming frozen.
+40,diamond-pearl,Prevents the Pokémon from becoming frozen.
+40,emerald,Prevents freezing.
+40,firered-leafgreen,Prevents freezing.
+40,heartgold-soulsilver,Prevents the Pokémon from becoming frozen.
+40,lets-go-pikachu-lets-go-eevee,"The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+40,omega-ruby-alpha-sapphire,Prevents the Pokémon from becoming frozen.
+40,platinum,Prevents the Pokémon from becoming frozen.
+40,ruby-sapphire,Prevents freezing.
+40,scarlet-violet,The Pokémon’s hot magma coating prevents it from being frozen.
+40,sun-moon,"The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+40,sword-shield,"The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+40,ultra-sun-ultra-moon,"The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+40,x-y,Prevents the Pokémon from becoming frozen.
+41,black-2-white-2,Prevents the Pokémon from getting a burn.
+41,black-white,Prevents the Pokémon from getting a burn.
+41,diamond-pearl,Prevents the Pokémon from getting a burn.
+41,emerald,Prevents burns.
+41,firered-leafgreen,Prevents burns.
+41,heartgold-soulsilver,Prevents the Pokémon from getting a burn.
+41,lets-go-pikachu-lets-go-eevee,"The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+41,omega-ruby-alpha-sapphire,Prevents the Pokémon from getting a burn.
+41,platinum,Prevents the Pokémon from getting a burn.
+41,ruby-sapphire,Prevents burns.
+41,scarlet-violet,The Pokémon's water veil prevents it from being burned.
+41,sun-moon,"The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+41,sword-shield,"The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+41,ultra-sun-ultra-moon,"The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+41,x-y,Prevents the Pokémon from getting a burn.
+42,black-2-white-2,Prevents Steel-type Pokémon from escaping.
+42,black-white,Prevents Steel-type Pokémon from escaping.
+42,diamond-pearl,Prevents Steel-type Pokémon from escaping.
+42,emerald,Traps STEEL-type POKéMON.
+42,firered-leafgreen,Traps STEEL-type POKéMON.
+42,heartgold-soulsilver,Prevents Steel-type Pokémon from escaping.
+42,lets-go-pikachu-lets-go-eevee,Prevents Steel-type Pokémon from escaping using its magnetic force.
+42,omega-ruby-alpha-sapphire,Prevents Steel-type Pokémon from escaping.
+42,platinum,Prevents Steel-type Pokémon from escaping.
+42,ruby-sapphire,Traps STEEL-type POKéMON.
+42,scarlet-violet,Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism.
+42,sun-moon,Prevents Steel-type Pokémon from escaping using its magnetic force.
+42,sword-shield,Prevents Steel-type Pokémon from escaping using its magnetic force.
+42,ultra-sun-ultra-moon,Prevents Steel-type Pokémon from escaping using its magnetic force.
+42,x-y,Prevents Steel-type Pokémon from escaping.
+43,black-2-white-2,Gives full immunity to all sound-based moves.
+43,black-white,Gives full immunity to all sound-based moves.
+43,diamond-pearl,Gives full immunity to all sound-based moves.
+43,emerald,Avoids sound-based moves.
+43,firered-leafgreen,Avoids sound-based moves.
+43,heartgold-soulsilver,Gives full immunity to all sound-based moves.
+43,lets-go-pikachu-lets-go-eevee,Soundproofing gives the Pokémon full immunity to all sound-based moves.
+43,omega-ruby-alpha-sapphire,Gives full immunity to all sound-based moves.
+43,platinum,Gives full immunity to all sound-based moves.
+43,ruby-sapphire,Avoids sound-based moves.
+43,scarlet-violet,Soundproofing gives the Pokémon full immunity to all sound-based moves.
+43,sun-moon,Soundproofing of the Pokémon itself gives full immunity to all sound-based moves.
+43,sword-shield,Soundproofing gives the Pokémon full immunity to all sound-based moves.
+43,ultra-sun-ultra-moon,Soundproofing of the Pokémon itself gives full immunity to all sound-based moves.
+43,x-y,Gives full immunity to all sound-based moves.
+44,black-2-white-2,The Pokémon gradually regains HP in rain.
+44,black-white,The Pokémon gradually regains HP in rain.
+44,diamond-pearl,The Pokémon gradually recovers HP in rain.
+44,emerald,Slight HP recovery in rain.
+44,firered-leafgreen,Slight HP recovery in rain.
+44,heartgold-soulsilver,The Pokémon gradually recovers HP in rain.
+44,lets-go-pikachu-lets-go-eevee,The Pokémon gradually regains HP in rain.
+44,omega-ruby-alpha-sapphire,The Pokémon gradually regains HP in rain.
+44,platinum,The Pokémon gradually recovers HP in rain.
+44,ruby-sapphire,Slight HP recovery in rain.
+44,scarlet-violet,The Pokémon gradually regains HP in rain.
+44,sun-moon,The Pokémon gradually regains HP in rain.
+44,sword-shield,The Pokémon gradually regains HP in rain.
+44,ultra-sun-ultra-moon,The Pokémon gradually regains HP in rain.
+44,x-y,The Pokémon gradually regains HP in rain.
+45,black-2-white-2,The Pokémon summons a sandstorm in battle.
+45,black-white,The Pokémon summons a sandstorm in battle.
+45,diamond-pearl,The Pokémon summons a sandstorm in battle.
+45,emerald,Summons a sandstorm.
+45,firered-leafgreen,Summons a sandstorm.
+45,heartgold-soulsilver,The Pokémon summons a sandstorm in battle.
+45,lets-go-pikachu-lets-go-eevee,The Pokémon summons a sandstorm when it enters a battle.
+45,omega-ruby-alpha-sapphire,The Pokémon summons a sandstorm in battle.
+45,platinum,The Pokémon summons a sandstorm in battle.
+45,ruby-sapphire,Summons a sandstorm.
+45,scarlet-violet,The Pokémon summons a sandstorm when it enters a battle.
+45,sun-moon,The Pokémon summons a sandstorm when it enters a battle.
+45,sword-shield,The Pokémon summons a sandstorm when it enters a battle.
+45,ultra-sun-ultra-moon,The Pokémon summons a sandstorm when it enters a battle.
+45,x-y,The Pokémon summons a sandstorm in battle.
+46,black-2-white-2,The Pokémon raises the foe’s PP usage.
+46,black-white,The Pokémon raises the foe’s PP usage.
+46,diamond-pearl,The Pokémon raises the foe’s PP usage.
+46,emerald,Raises foe’s PP usage.
+46,firered-leafgreen,Raises foe’s PP usage.
+46,heartgold-soulsilver,The Pokémon raises the foe’s PP usage.
+46,lets-go-pikachu-lets-go-eevee,"By putting pressure on the opposing Pokémon, it raises their PP usage."
+46,omega-ruby-alpha-sapphire,The Pokémon raises opposing Pokémon’s PP usage.
+46,platinum,The Pokémon raises the foe’s PP usage.
+46,ruby-sapphire,Raises foe’s PP usage.
+46,scarlet-violet,"Puts other Pokémon under pressure, causing them to expend more PP to use their moves."
+46,sun-moon,"By putting pressure on the opposing Pokémon, it raises their PP usage."
+46,sword-shield,"By putting pressure on the opposing Pokémon, it raises their PP usage."
+46,ultra-sun-ultra-moon,"By putting pressure on the opposing Pokémon, it raises their PP usage."
+46,x-y,The Pokémon raises opposing Pokémon’s PP usage.
+47,black-2-white-2,Ups resistance to Fire-​ and Ice-type moves.
+47,black-white,Ups resistance to Fire-​ and Ice-type moves.
+47,diamond-pearl,Raises resistance to Fire-​ and Ice-type moves.
+47,emerald,Heat-and-cold protection.
+47,firered-leafgreen,Heat-and-cold protection.
+47,heartgold-soulsilver,Ups resistance to Fire-​ and Ice-type moves.
+47,lets-go-pikachu-lets-go-eevee,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+47,omega-ruby-alpha-sapphire,Boosts resistance to Fire- and Ice-type moves.
+47,platinum,Raises resistance to Fire-​ and Ice-type moves.
+47,ruby-sapphire,Heat-and-cold protection.
+47,scarlet-violet,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+47,sun-moon,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+47,sword-shield,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+47,ultra-sun-ultra-moon,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+47,x-y,Boosts resistance to Fire-​ and Ice-type moves.
+48,black-2-white-2,The Pokémon awakens quickly from sleep.
+48,black-white,The Pokémon awakens quickly from sleep.
+48,diamond-pearl,The Pokémon awakens quickly from sleep.
+48,emerald,Awakens quickly from sleep.
+48,firered-leafgreen,Awakens quickly from sleep.
+48,heartgold-soulsilver,The Pokémon awakens quickly from sleep.
+48,lets-go-pikachu-lets-go-eevee,The Pokémon awakens from sleep twice as fast as other Pokémon.
+48,omega-ruby-alpha-sapphire,The Pokémon awakens quickly from sleep.
+48,platinum,The Pokémon awakens quickly from sleep.
+48,ruby-sapphire,Awakens quickly from sleep.
+48,scarlet-violet,The Pokémon awakens from sleep twice as fast as other Pokémon.
+48,sun-moon,The Pokémon awakens twice as fast as other Pokémon from sleep.
+48,sword-shield,The Pokémon awakens from sleep twice as fast as other Pokémon.
+48,ultra-sun-ultra-moon,The Pokémon awakens twice as fast as other Pokémon from sleep.
+48,x-y,The Pokémon awakens quickly from sleep.
+49,black-2-white-2,Contact with the Pokémon may burn the attacker.
+49,black-white,Contact with the Pokémon may burn the attacker.
+49,diamond-pearl,Contact with the Pokémon may burn the foe.
+49,emerald,Burns the foe on contact.
+49,firered-leafgreen,Burns the foe on contact.
+49,heartgold-soulsilver,Contact with the Pokémon may burn the foe.
+49,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon may burn the attacker.
+49,omega-ruby-alpha-sapphire,Contact with the Pokémon may burn the attacker.
+49,platinum,Contact with the Pokémon may burn the foe.
+49,ruby-sapphire,Burns the foe on contact.
+49,scarlet-violet,Contact with the Pokémon may burn the attacker.
+49,sun-moon,Contact with the Pokémon may burn the attacker.
+49,sword-shield,Contact with the Pokémon may burn the attacker.
+49,ultra-sun-ultra-moon,Contact with the Pokémon may burn the attacker.
+49,x-y,Contact with the Pokémon may burn the attacker.
+50,black-2-white-2,Enables a sure getaway from wild Pokémon.
+50,black-white,Enables a sure getaway from wild Pokémon.
+50,diamond-pearl,Enables sure getaway from wild Pokémon.
+50,emerald,Makes escaping easier.
+50,firered-leafgreen,Makes escaping easier.
+50,heartgold-soulsilver,Enables sure getaway from wild Pokémon.
+50,lets-go-pikachu-lets-go-eevee,Enables a sure getaway from wild Pokémon.
+50,omega-ruby-alpha-sapphire,Enables a sure getaway from wild Pokémon.
+50,platinum,Enables sure getaway from wild Pokémon.
+50,ruby-sapphire,Makes escaping easier.
+50,scarlet-violet,Enables a sure getaway from wild Pokémon.
+50,sun-moon,Enables a sure getaway from wild Pokémon.
+50,sword-shield,Enables a sure getaway from wild Pokémon.
+50,ultra-sun-ultra-moon,Enables a sure getaway from wild Pokémon.
+50,x-y,Enables a sure getaway from wild Pokémon.
+51,black-2-white-2,Prevents other Pokémon from lowering accuracy.
+51,black-white,Prevents other Pokémon from lowering accuracy.
+51,diamond-pearl,Prevents the Pokémon from losing accuracy.
+51,emerald,Prevents loss of accuracy.
+51,firered-leafgreen,Prevents loss of accuracy.
+51,heartgold-soulsilver,Prevents the Pokémon from losing accuracy.
+51,lets-go-pikachu-lets-go-eevee,Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+51,omega-ruby-alpha-sapphire,Prevents other Pokémon from lowering accuracy.
+51,platinum,Prevents the Pokémon from losing accuracy.
+51,ruby-sapphire,Prevents loss of accuracy.
+51,scarlet-violet,The Pokémon's keen eyes prevent its accuracy from being lowered.
+51,sun-moon,Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+51,sword-shield,Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+51,ultra-sun-ultra-moon,Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.
+51,x-y,Prevents other Pokémon from lowering accuracy.
+52,black-2-white-2,Prevents other Pokémon from lowering Attack stat.
+52,black-white,Prevents other Pokémon from lowering Attack stat.
+52,diamond-pearl,Prevents the Attack stat from being lowered.
+52,emerald,Prevents ATTACK reduction.
+52,firered-leafgreen,Prevents ATTACK reduction.
+52,heartgold-soulsilver,Prevents the Attack stat from being lowered.
+52,lets-go-pikachu-lets-go-eevee,The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+52,omega-ruby-alpha-sapphire,Prevents other Pokémon from lowering its Attack stat.
+52,platinum,Prevents the Attack stat from being lowered.
+52,ruby-sapphire,Prevents ATTACK reduction.
+52,scarlet-violet,"The Pokémon's prized, mighty pincers prevent other Pokémon from lowering its Attack stat."
+52,sun-moon,The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+52,sword-shield,The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+52,ultra-sun-ultra-moon,The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.
+52,x-y,Prevents other Pokémon from lowering its Attack stat.
+53,black-2-white-2,The Pokémon may pick up items.
+53,black-white,The Pokémon may pick up items.
+53,diamond-pearl,The Pokémon may pick up items.
+53,emerald,May pick up items.
+53,firered-leafgreen,May pick up items.
+53,heartgold-soulsilver,The Pokémon may pick up items.
+53,lets-go-pikachu-lets-go-eevee,"The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+53,omega-ruby-alpha-sapphire,The Pokémon may pick up items.
+53,platinum,The Pokémon may pick up items.
+53,ruby-sapphire,May pick up items.
+53,scarlet-violet,"The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too."
+53,sun-moon,"The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+53,sword-shield,"The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+53,ultra-sun-ultra-moon,"The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+53,x-y,The Pokémon may pick up items.
+54,black-2-white-2,Pokémon can’t attack on consecutive turns.
+54,black-white,Pokémon can’t attack on consecutive turns.
+54,diamond-pearl,The Pokémon can’t attack on consecutive turns.
+54,emerald,Moves only every two turns.
+54,firered-leafgreen,Moves only every two turns.
+54,heartgold-soulsilver,Pokémon can’t attack on consecutive turns.
+54,lets-go-pikachu-lets-go-eevee,The Pokémon can’t use a move if it had used a move on the previous turn.
+54,omega-ruby-alpha-sapphire,The Pokémon can’t attack on consecutive turns.
+54,platinum,The Pokémon can’t attack on consecutive turns.
+54,ruby-sapphire,Moves only every two turns.
+54,scarlet-violet,"Each time the Pokémon uses a move, it spends the next turn loafing around."
+54,sun-moon,The Pokémon can’t use a move the following turn if it uses one.
+54,sword-shield,The Pokémon can’t use a move if it had used a move on the previous turn.
+54,ultra-sun-ultra-moon,The Pokémon can’t use a move the following turn if it uses one.
+54,x-y,The Pokémon can’t attack on consecutive turns.
+55,black-2-white-2,"Boosts the Attack stat, but lowers accuracy."
+55,black-white,"Boosts the Attack stat, but lowers accuracy."
+55,diamond-pearl,"Boosts the Attack stat, but lowers accuracy."
+55,emerald,Trades accuracy for power.
+55,firered-leafgreen,Trades accuracy for power.
+55,heartgold-soulsilver,"Boosts the Attack stat, but lowers accuracy."
+55,lets-go-pikachu-lets-go-eevee,"Boosts the Attack stat, but lowers accuracy."
+55,omega-ruby-alpha-sapphire,"Boosts the Attack stat, but lowers accuracy."
+55,platinum,"Boosts the Attack stat, but lowers accuracy."
+55,ruby-sapphire,Trades accuracy for power.
+55,scarlet-violet,Boosts the Pokémon's Attack stat but lowers its accuracy.
+55,sun-moon,"Boosts the Attack stat, but lowers accuracy."
+55,sword-shield,"Boosts the Attack stat, but lowers accuracy."
+55,ultra-sun-ultra-moon,"Boosts the Attack stat, but lowers accuracy."
+55,x-y,"Boosts the Attack stat, but lowers accuracy."
+56,black-2-white-2,Contact with the Pokémon may cause infatuation.
+56,black-white,Contact with the Pokémon may cause infatuation.
+56,diamond-pearl,Contact with the Pokémon may cause infatuation.
+56,emerald,Infatuates on contact.
+56,firered-leafgreen,Infatuates on contact.
+56,heartgold-soulsilver,Contact with the Pokémon may cause infatuation.
+56,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon may cause infatuation.
+56,omega-ruby-alpha-sapphire,Contact with the Pokémon may cause infatuation.
+56,platinum,Contact with the Pokémon may cause infatuation.
+56,ruby-sapphire,Infatuates on contact.
+56,scarlet-violet,The Pokémon may infatuate attackers that make direct contact with it.
+56,sun-moon,Contact with the Pokémon may cause infatuation.
+56,sword-shield,Contact with the Pokémon may cause infatuation.
+56,ultra-sun-ultra-moon,Contact with the Pokémon may cause infatuation.
+56,x-y,Contact with the Pokémon may cause infatuation.
+57,black-2-white-2,Ups Sp. Atk if another Pokémon has Plus or Minus.
+57,black-white,Ups Sp. Atk if another Pokémon has Plus or Minus.
+57,diamond-pearl,Boosts Sp. Atk if another Pokémon has Minus.
+57,emerald,Powers up with MINUS.
+57,firered-leafgreen,Powers up with MINUS.
+57,heartgold-soulsilver,Ups Sp. Atk if another Pokémon has Minus.
+57,lets-go-pikachu-lets-go-eevee,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+57,omega-ruby-alpha-sapphire,Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+57,platinum,Boosts Sp. Atk if another Pokémon has Minus.
+57,ruby-sapphire,Powers up with MINUS.
+57,scarlet-violet,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+57,sun-moon,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+57,sword-shield,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+57,ultra-sun-ultra-moon,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+57,x-y,Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+58,black-2-white-2,Ups Sp. Atk if another Pokémon has Plus or Minus.
+58,black-white,Ups Sp. Atk if another Pokémon has Plus or Minus.
+58,diamond-pearl,Boosts Sp. Atk if another Pokémon has Plus.
+58,emerald,Powers up with PLUS.
+58,firered-leafgreen,Powers up with PLUS.
+58,heartgold-soulsilver,Ups Sp. Atk if another Pokémon has Plus.
+58,lets-go-pikachu-lets-go-eevee,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+58,omega-ruby-alpha-sapphire,Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+58,platinum,Boosts Sp. Atk if another Pokémon has Plus.
+58,ruby-sapphire,Powers up with PLUS.
+58,scarlet-violet,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+58,sun-moon,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+58,sword-shield,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+58,ultra-sun-ultra-moon,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.
+58,x-y,Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.
+59,black-2-white-2,Castform transforms with the weather.
+59,black-white,Castform transforms with the weather.
+59,diamond-pearl,CASTFORM transforms with the weather.
+59,emerald,Changes with the weather.
+59,firered-leafgreen,Changes with the weather.
+59,heartgold-soulsilver,CASTFORM transforms with the weather.
+59,lets-go-pikachu-lets-go-eevee,"The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+59,omega-ruby-alpha-sapphire,Castform transforms with the weather.
+59,platinum,CASTFORM transforms with the weather.
+59,ruby-sapphire,Changes with the weather.
+59,sun-moon,"The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+59,sword-shield,"The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+59,ultra-sun-ultra-moon,"The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+59,x-y,Castform transforms with the weather.
+60,black-2-white-2,Protects the Pokémon from item theft.
+60,black-white,Protects the Pokémon from item theft.
+60,diamond-pearl,Protects the Pokémon from item theft.
+60,emerald,Prevents item theft.
+60,firered-leafgreen,Prevents item theft.
+60,heartgold-soulsilver,Protects the Pokémon from item theft.
+60,lets-go-pikachu-lets-go-eevee,Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+60,omega-ruby-alpha-sapphire,Protects the Pokémon from item theft.
+60,platinum,Protects the Pokémon from item theft.
+60,ruby-sapphire,Prevents item theft.
+60,scarlet-violet,The Pokémon's held items cling to its sticky body and cannot be removed by other Pokémon.
+60,sun-moon,Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+60,sword-shield,Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+60,ultra-sun-ultra-moon,Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.
+60,x-y,Protects the Pokémon from item theft.
+61,black-2-white-2,The Pokémon may heal its own status problems.
+61,black-white,The Pokémon may heal its own status problems.
+61,diamond-pearl,The Pokémon may heal its own status problems.
+61,emerald,Heals the body by shedding.
+61,firered-leafgreen,Heals the body by shedding.
+61,heartgold-soulsilver,The Pokémon may heal its own status problems.
+61,lets-go-pikachu-lets-go-eevee,The Pokémon may heal its own status conditions by shedding its skin.
+61,omega-ruby-alpha-sapphire,The Pokémon may heal its own status conditions.
+61,platinum,The Pokémon may heal its own status problems.
+61,ruby-sapphire,Heals the body by shedding.
+61,scarlet-violet,The Pokémon may cure its own status conditions by shedding its skin.
+61,sun-moon,The Pokémon may heal its own status conditions by shedding its skin.
+61,sword-shield,The Pokémon may heal its own status conditions by shedding its skin.
+61,ultra-sun-ultra-moon,The Pokémon may heal its own status conditions by shedding its skin.
+61,x-y,The Pokémon may heal its own status conditions.
+62,black-2-white-2,Boosts Attack if there is a status problem.
+62,black-white,Boosts Attack if there is a status problem.
+62,diamond-pearl,Boosts Attack if there is a status problem.
+62,emerald,Ups ATTACK if suffering.
+62,firered-leafgreen,Ups ATTACK if suffering.
+62,heartgold-soulsilver,Boosts Attack if there is a status problem.
+62,lets-go-pikachu-lets-go-eevee,It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+62,omega-ruby-alpha-sapphire,Boosts the Attack stat if the Pokémon has a status condition.
+62,platinum,Boosts Attack if there is a status problem.
+62,ruby-sapphire,Ups ATTACK if suffering.
+62,scarlet-violet,It's so gutsy that having a status condition boosts the Pokémon's Attack stat.
+62,sun-moon,It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+62,sword-shield,It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+62,ultra-sun-ultra-moon,It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.
+62,x-y,Boosts the Attack stat if the Pokémon has a status condition.
+63,black-2-white-2,Ups Defense if there is a status problem.
+63,black-white,Ups Defense if there is a status problem.
+63,diamond-pearl,Boosts Defense if there is a status problem.
+63,emerald,Ups DEFENSE if suffering.
+63,firered-leafgreen,Ups DEFENSE if suffering.
+63,heartgold-soulsilver,Ups Defense if there is a status problem.
+63,lets-go-pikachu-lets-go-eevee,The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+63,omega-ruby-alpha-sapphire,Boosts the Defense stat if the Pokémon has a status condition.
+63,platinum,Boosts Defense if there is a status problem.
+63,ruby-sapphire,Ups DEFENSE if suffering.
+63,scarlet-violet,The Pokémon's marvelous scales boost its Defense stat if it has a status condition.
+63,sun-moon,The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+63,sword-shield,The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+63,ultra-sun-ultra-moon,The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.
+63,x-y,Boosts the Defense stat if the Pokémon has a status condition.
+64,black-2-white-2,Damages attackers using any draining move.
+64,black-white,Damages attackers using any draining move.
+64,diamond-pearl,Inflicts damage on foes using any draining move.
+64,emerald,Draining causes injury.
+64,firered-leafgreen,Draining causes injury.
+64,heartgold-soulsilver,Inflicts damage on foes using any draining move.
+64,lets-go-pikachu-lets-go-eevee,"The oozed liquid has a strong stench, which damages attackers using any draining move."
+64,omega-ruby-alpha-sapphire,Damages attackers using any draining move.
+64,platinum,Inflicts damage on foes using any draining move.
+64,ruby-sapphire,Draining causes injury.
+64,scarlet-violet,The strong stench of the Pokémon's oozed liquid damages attackers that use HP-draining moves.
+64,sun-moon,"Oozed liquid has strong stench, which damages attackers using any draining move."
+64,sword-shield,"The oozed liquid has a strong stench, which damages attackers using any draining move."
+64,ultra-sun-ultra-moon,"Oozed liquid has strong stench, which damages attackers using any draining move."
+64,x-y,Damages attackers using any draining move.
+65,black-2-white-2,Powers up Grass-type moves in a pinch.
+65,black-white,Powers up Grass-type moves in a pinch.
+65,diamond-pearl,Powers up Grass-type moves in a pinch.
+65,emerald,Ups GRASS moves in a pinch.
+65,firered-leafgreen,Ups GRASS moves in a pinch.
+65,heartgold-soulsilver,Powers up Grass-type moves in a pinch.
+65,lets-go-pikachu-lets-go-eevee,Powers up Grass-type moves when the Pokémon’s HP is low.
+65,omega-ruby-alpha-sapphire,Powers up Grass-type moves when the Pokémon is in trouble.
+65,platinum,Powers up Grass-type moves in a pinch.
+65,ruby-sapphire,Ups GRASS moves in a pinch.
+65,scarlet-violet,Powers up Grass-type moves when the Pokémon's HP is low.
+65,sun-moon,Powers up Grass-type moves when the Pokémon’s HP is low.
+65,sword-shield,Powers up Grass-type moves when the Pokémon’s HP is low.
+65,ultra-sun-ultra-moon,Powers up Grass-type moves when the Pokémon’s HP is low.
+65,x-y,Powers up Grass-type moves when the Pokémon is in trouble.
+66,black-2-white-2,Powers up Fire-type moves in a pinch.
+66,black-white,Powers up Fire-type moves in a pinch.
+66,diamond-pearl,Powers up Fire-type moves in a pinch.
+66,emerald,Ups FIRE moves in a pinch.
+66,firered-leafgreen,Ups FIRE moves in a pinch.
+66,heartgold-soulsilver,Powers up Fire-type moves in a pinch.
+66,lets-go-pikachu-lets-go-eevee,Powers up Fire-type moves when the Pokémon’s HP is low.
+66,omega-ruby-alpha-sapphire,Powers up Fire-type moves when the Pokémon is in trouble.
+66,platinum,Powers up Fire-type moves in a pinch.
+66,ruby-sapphire,Ups FIRE moves in a pinch.
+66,scarlet-violet,Powers up Fire-type moves when the Pokémon's HP is low.
+66,sun-moon,Powers up Fire-type moves when the Pokémon’s HP is low.
+66,sword-shield,Powers up Fire-type moves when the Pokémon’s HP is low.
+66,ultra-sun-ultra-moon,Powers up Fire-type moves when the Pokémon’s HP is low.
+66,x-y,Powers up Fire-type moves when the Pokémon is in trouble.
+67,black-2-white-2,Powers up Water-type moves in a pinch.
+67,black-white,Powers up Water-type moves in a pinch.
+67,diamond-pearl,Powers up Water-type moves in a pinch.
+67,emerald,Ups WATER moves in a pinch.
+67,firered-leafgreen,Ups WATER moves in a pinch.
+67,heartgold-soulsilver,Powers up Water-type moves in a pinch.
+67,lets-go-pikachu-lets-go-eevee,Powers up Water-type moves when the Pokémon’s HP is low.
+67,omega-ruby-alpha-sapphire,Powers up Water-type moves when the Pokémon is in trouble.
+67,platinum,Powers up Water-type moves in a pinch.
+67,ruby-sapphire,Ups WATER moves in a pinch.
+67,scarlet-violet,Powers up Water-type moves when the Pokémon's HP is low.
+67,sun-moon,Powers up Water-type moves when the Pokémon’s HP is low.
+67,sword-shield,Powers up Water-type moves when the Pokémon’s HP is low.
+67,ultra-sun-ultra-moon,Powers up Water-type moves when the Pokémon’s HP is low.
+67,x-y,Powers up Water-type moves when the Pokémon is in trouble.
+68,black-2-white-2,Powers up Bug-type moves in a pinch.
+68,black-white,Powers up Bug-type moves in a pinch.
+68,diamond-pearl,Powers up Bug-type moves in a pinch.
+68,emerald,Ups BUG moves in a pinch.
+68,firered-leafgreen,Ups BUG moves in a pinch.
+68,heartgold-soulsilver,Powers up Bug-type moves in a pinch.
+68,lets-go-pikachu-lets-go-eevee,Powers up Bug-type moves when the Pokémon’s HP is low.
+68,omega-ruby-alpha-sapphire,Powers up Bug-type moves when the Pokémon is in trouble.
+68,platinum,Powers up Bug-type moves in a pinch.
+68,ruby-sapphire,Ups BUG moves in a pinch.
+68,scarlet-violet,Powers up Bug-type moves when the Pokémon's HP is low.
+68,sun-moon,Powers up Bug-type moves when the Pokémon’s HP is low.
+68,sword-shield,Powers up Bug-type moves when the Pokémon’s HP is low.
+68,ultra-sun-ultra-moon,Powers up Bug-type moves when the Pokémon’s HP is low.
+68,x-y,Powers up Bug-type moves when the Pokémon is in trouble.
+69,black-2-white-2,Protects the Pokémon from recoil damage.
+69,black-white,Protects the Pokémon from recoil damage.
+69,diamond-pearl,Protects the Pokémon from recoil damage.
+69,emerald,Prevents recoil damage.
+69,firered-leafgreen,Prevents recoil damage.
+69,heartgold-soulsilver,Protects the Pokémon from recoil damage.
+69,lets-go-pikachu-lets-go-eevee,Protects the Pokémon from recoil damage.
+69,omega-ruby-alpha-sapphire,Protects the Pokémon from recoil damage.
+69,platinum,Protects the Pokémon from recoil damage.
+69,ruby-sapphire,Prevents recoil damage.
+69,scarlet-violet,Protects the Pokémon from recoil damage.
+69,sun-moon,Protects the Pokémon from recoil damage.
+69,sword-shield,Protects the Pokémon from recoil damage.
+69,ultra-sun-ultra-moon,Protects the Pokémon from recoil damage.
+69,x-y,Protects the Pokémon from recoil damage.
+70,black-2-white-2,Turns the sunlight harsh if it is in battle.
+70,black-white,Turns the sunlight harsh if it is in battle.
+70,diamond-pearl,The Pokémon makes it sunny if it is in battle.
+70,emerald,Summons sunlight in battle.
+70,firered-leafgreen,Summons sunlight in battle.
+70,heartgold-soulsilver,The Pokémon makes it sunny if it is in battle.
+70,lets-go-pikachu-lets-go-eevee,Turns the sunlight harsh when the Pokémon enters a battle.
+70,omega-ruby-alpha-sapphire,Turns the sunlight harsh when the Pokémon enters a battle.
+70,platinum,The Pokémon makes it sunny if it is in battle.
+70,ruby-sapphire,Summons sunlight in battle.
+70,scarlet-violet,Turns the sunlight harsh when the Pokémon enters a battle.
+70,sun-moon,Turns the sunlight harsh when the Pokémon enters a battle.
+70,sword-shield,Turns the sunlight harsh when the Pokémon enters a battle.
+70,ultra-sun-ultra-moon,Turns the sunlight harsh when the Pokémon enters a battle.
+70,x-y,Turns the sunlight harsh when the Pokémon enters a battle.
+71,black-2-white-2,Prevents the foe from fleeing.
+71,black-white,Prevents the foe from fleeing.
+71,diamond-pearl,Prevents the foe from fleeing.
+71,emerald,Prevents fleeing.
+71,firered-leafgreen,Prevents fleeing.
+71,heartgold-soulsilver,Prevents the foe from fleeing.
+71,lets-go-pikachu-lets-go-eevee,Prevents opposing Pokémon from fleeing.
+71,omega-ruby-alpha-sapphire,Prevents opposing Pokémon from fleeing.
+71,platinum,Prevents the foe from fleeing.
+71,ruby-sapphire,Prevents fleeing.
+71,scarlet-violet,Prevents opposing Pokémon from fleeing from battle.
+71,sun-moon,Prevents opposing Pokémon from fleeing.
+71,sword-shield,Prevents opposing Pokémon from fleeing.
+71,ultra-sun-ultra-moon,Prevents opposing Pokémon from fleeing.
+71,x-y,Prevents opposing Pokémon from fleeing.
+72,black-2-white-2,Prevents the Pokémon from falling asleep.
+72,black-white,Prevents the Pokémon from falling asleep.
+72,diamond-pearl,Prevents the Pokémon from falling asleep.
+72,emerald,Prevents sleep.
+72,firered-leafgreen,Prevents sleep.
+72,heartgold-soulsilver,Prevents the Pokémon from falling asleep.
+72,lets-go-pikachu-lets-go-eevee,"The Pokémon is full of vitality, and that prevents it from falling asleep."
+72,omega-ruby-alpha-sapphire,Prevents the Pokémon from falling asleep.
+72,platinum,Prevents the Pokémon from falling asleep.
+72,ruby-sapphire,Prevents sleep.
+72,scarlet-violet,"The Pokémon is full of vitality, and that prevents it from falling asleep."
+72,sun-moon,"The Pokémon is full of vitality, and that prevents it from falling asleep."
+72,sword-shield,"The Pokémon is full of vitality, and that prevents it from falling asleep."
+72,ultra-sun-ultra-moon,"The Pokémon is full of vitality, and that prevents it from falling asleep."
+72,x-y,Prevents the Pokémon from falling asleep.
+73,black-2-white-2,Prevents other Pokémon from lowering its stats.
+73,black-white,Prevents other Pokémon from lowering its stats.
+73,diamond-pearl,Prevents the Pokémon’s stats from being lowered.
+73,emerald,Prevents ability reduction.
+73,firered-leafgreen,Prevents ability reduction.
+73,heartgold-soulsilver,Prevents its stats from being lowered.
+73,lets-go-pikachu-lets-go-eevee,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+73,omega-ruby-alpha-sapphire,Prevents other Pokémon from lowering its stats.
+73,platinum,Prevents the Pokémon’s stats from being lowered.
+73,ruby-sapphire,Prevents ability reduction.
+73,scarlet-violet,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+73,sun-moon,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+73,sword-shield,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+73,ultra-sun-ultra-moon,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+73,x-y,Prevents other Pokémon from lowering its stats.
+74,black-2-white-2,Raises the Pokémon’s Attack stat.
+74,black-white,Raises the Pokémon’s Attack stat.
+74,diamond-pearl,Boosts the power of physical attacks.
+74,emerald,Raises ATTACK.
+74,firered-leafgreen,Raises ATTACK.
+74,heartgold-soulsilver,Boosts the power of physical attacks.
+74,lets-go-pikachu-lets-go-eevee,"Using its pure power, the Pokémon doubles its Attack stat."
+74,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Attack stat.
+74,platinum,Boosts the power of physical attacks.
+74,ruby-sapphire,Raises ATTACK.
+74,scarlet-violet,"Using its pure power, the Pokémon doubles its Attack stat."
+74,sun-moon,"Using its pure power, the Pokémon doubles its Attack stat."
+74,sword-shield,"Using its pure power, the Pokémon doubles its Attack stat."
+74,ultra-sun-ultra-moon,"Using its pure power, the Pokémon doubles its Attack stat."
+74,x-y,Boosts the Pokémon’s Attack stat.
+75,black-2-white-2,The Pokémon is protected against critical hits.
+75,black-white,The Pokémon is protected against critical hits.
+75,diamond-pearl,The Pokémon is protected against critical hits.
+75,emerald,Blocks critical hits.
+75,firered-leafgreen,Blocks critical hits.
+75,heartgold-soulsilver,The Pokémon is protected against critical hits.
+75,lets-go-pikachu-lets-go-eevee,A hard shell protects the Pokémon from critical hits.
+75,omega-ruby-alpha-sapphire,Protects the Pokémon from critical hits.
+75,platinum,The Pokémon is protected against critical hits.
+75,ruby-sapphire,Blocks critical hits.
+75,scarlet-violet,A hard shell protects the Pokémon from critical hits.
+75,sun-moon,A hard shell protects the Pokémon from critical hits.
+75,sword-shield,A hard shell protects the Pokémon from critical hits.
+75,ultra-sun-ultra-moon,A hard shell protects the Pokémon from critical hits.
+75,x-y,Protects the Pokémon from critical hits.
+76,black-2-white-2,Eliminates the effects of weather.
+76,black-white,Eliminates the effects of weather.
+76,diamond-pearl,Eliminates the effects of weather.
+76,emerald,Negates weather effects.
+76,firered-leafgreen,Negates weather effects.
+76,heartgold-soulsilver,Eliminates the effects of weather.
+76,lets-go-pikachu-lets-go-eevee,Eliminates the effects of weather.
+76,omega-ruby-alpha-sapphire,Eliminates the effects of weather.
+76,platinum,Eliminates the effects of weather.
+76,ruby-sapphire,Negates weather effects.
+76,sun-moon,Eliminates the effects of weather.
+76,sword-shield,Eliminates the effects of weather.
+76,the-indigo-disk,Eliminates the effects of weather.
+76,ultra-sun-ultra-moon,Eliminates the effects of weather.
+76,x-y,Eliminates the effects of weather.
+77,black-2-white-2,Raises evasion if the Pokémon is confused.
+77,black-white,Raises evasion if the Pokémon is confused.
+77,diamond-pearl,Raises evasion if the Pokémon is confused.
+77,heartgold-soulsilver,Raises evasion if the Pokémon is confused.
+77,lets-go-pikachu-lets-go-eevee,Raises evasion if the Pokémon is confused.
+77,omega-ruby-alpha-sapphire,Raises evasion if the Pokémon is confused.
+77,platinum,Raises evasion if the Pokémon is confused.
+77,scarlet-violet,Boosts the Pokémon's evasiveness if it is confused.
+77,sun-moon,Raises evasion if the Pokémon is confused.
+77,sword-shield,Raises evasiveness if the Pokémon is confused.
+77,ultra-sun-ultra-moon,Raises evasion if the Pokémon is confused.
+77,x-y,Raises evasion if the Pokémon is confused.
+78,black-2-white-2,Raises Speed if hit by an Electric-type move.
+78,black-white,Raises Speed if hit by an Electric-type move.
+78,diamond-pearl,Raises Speed if hit by an Electric-type move.
+78,heartgold-soulsilver,Raises Speed if hit by an Electric-type move.
+78,lets-go-pikachu-lets-go-eevee,Boosts its Speed stat if hit by an Electric-type move instead of taking damage.
+78,omega-ruby-alpha-sapphire,Boosts the Speed stat when it’s hit by an Electric-type move.
+78,platinum,Raises Speed if hit by an Electric-type move.
+78,sun-moon,"Boosts its Speed stat if hit by an Electric-type move, instead of taking damage."
+78,sword-shield,Boosts its Speed stat if hit by an Electric-type move instead of taking damage.
+78,the-indigo-disk,"The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted."
+78,ultra-sun-ultra-moon,"Boosts its Speed stat if hit by an Electric-type move, instead of taking damage."
+78,x-y,Boosts the Speed stat when it’s hit by an Electric-type move.
+79,black-2-white-2,Deals more damage to a Pokémon of same gender.
+79,black-white,Deals more damage to a Pokémon of same gender.
+79,diamond-pearl,Raises Attack if the foe is of the same gender.
+79,heartgold-soulsilver,Raises Attack if the foe is of the same gender.
+79,lets-go-pikachu-lets-go-eevee,"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+79,omega-ruby-alpha-sapphire,Deals more damage to Pokémon of the same gender.
+79,platinum,Raises Attack if the foe is of the same gender.
+79,scarlet-violet,"The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender."
+79,sun-moon,"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+79,sword-shield,"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+79,ultra-sun-ultra-moon,"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."
+79,x-y,Deals more damage to Pokémon of the same gender.
+80,black-2-white-2,Raises Speed each time the Pokémon flinches.
+80,black-white,Raises Speed each time the Pokémon flinches.
+80,diamond-pearl,Raises Speed each time the Pokémon flinches.
+80,heartgold-soulsilver,Raises Speed each time the Pokémon flinches.
+80,lets-go-pikachu-lets-go-eevee,The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+80,omega-ruby-alpha-sapphire,Boosts the Speed stat each time the Pokémon flinches.
+80,platinum,Raises Speed each time the Pokémon flinches.
+80,scarlet-violet,The Pokémon's determination boosts its Speed stat every time it flinches.
+80,sun-moon,The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+80,sword-shield,The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+80,ultra-sun-ultra-moon,The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.
+80,x-y,Boosts the Speed stat each time the Pokémon flinches.
+81,black-2-white-2,Raises evasion in a hailstorm.
+81,black-white,Raises evasion in a hailstorm.
+81,diamond-pearl,Raises evasion in a hailstorm.
+81,heartgold-soulsilver,Raises evasion in a hailstorm.
+81,lets-go-pikachu-lets-go-eevee,Boosts evasion in a hailstorm.
+81,omega-ruby-alpha-sapphire,Boosts evasion in a hailstorm.
+81,platinum,Raises evasion in a hailstorm.
+81,scarlet-violet,Boosts the Pokémon's evasiveness in snow.
+81,sun-moon,Boosts evasion in a hailstorm.
+81,sword-shield,Boosts evasiveness in a hailstorm.
+81,ultra-sun-ultra-moon,Boosts evasion in a hailstorm.
+81,x-y,Boosts evasion in a hailstorm.
+82,black-2-white-2,Encourages the early use of a held Berry.
+82,black-white,Encourages the early use of a held Berry.
+82,diamond-pearl,Encourages the early use of a held Berry.
+82,heartgold-soulsilver,Encourages the early use of a held Berry.
+82,lets-go-pikachu-lets-go-eevee,"Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+82,omega-ruby-alpha-sapphire,Makes the Pokémon use a held Berry earlier than usual.
+82,platinum,Encourages the early use of a held Berry.
+82,scarlet-violet,"If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less."
+82,sun-moon,"Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+82,sword-shield,"Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+82,ultra-sun-ultra-moon,"Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+82,x-y,Makes the Pokémon use a held Berry earlier than usual.
+83,black-2-white-2,Maxes Attack after taking a critical hit.
+83,black-white,Maxes Attack after taking a critical hit.
+83,diamond-pearl,Raises Attack upon taking a critical hit.
+83,heartgold-soulsilver,Raises Attack upon taking a critical hit.
+83,lets-go-pikachu-lets-go-eevee,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+83,omega-ruby-alpha-sapphire,Maxes the Attack stat after the Pokémon takes a critical hit.
+83,platinum,Raises Attack upon taking a critical hit.
+83,scarlet-violet,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+83,sun-moon,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+83,sword-shield,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+83,ultra-sun-ultra-moon,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+83,x-y,Maxes the Attack stat after the Pokémon takes a critical hit.
+84,black-2-white-2,Raises Speed if a held item is used.
+84,black-white,Raises Speed if a held item is used.
+84,diamond-pearl,Raises Speed if a held item is used.
+84,heartgold-soulsilver,Raises Speed if a held item is used.
+84,lets-go-pikachu-lets-go-eevee,Boosts the Speed stat if the Pokémon’s held item is used or lost.
+84,omega-ruby-alpha-sapphire,Boosts the Speed stat if its held item is used or lost.
+84,platinum,Raises Speed if a held item is used.
+84,scarlet-violet,Boosts the Speed stat if the Pokémon's held item is used or lost.
+84,sun-moon,Boosts the Speed stat if the Pokémon’s held item is used or lost.
+84,sword-shield,Boosts the Speed stat if the Pokémon’s held item is used or lost.
+84,ultra-sun-ultra-moon,Boosts the Speed stat if the Pokémon’s held item is used or lost.
+84,x-y,Boosts the Speed stat if its held item is used or lost.
+85,black-2-white-2,Weakens the power of Fire-type moves.
+85,black-white,Weakens the power of Fire-type moves.
+85,diamond-pearl,Weakens the power of Fire-type moves.
+85,heartgold-soulsilver,Weakens the power of Fire-type moves.
+85,lets-go-pikachu-lets-go-eevee,The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+85,omega-ruby-alpha-sapphire,Weakens the power of Fire-type moves.
+85,platinum,Weakens the power of Fire-type moves.
+85,scarlet-violet,The Pokémon's heatproof body halves the damage taken from Fire-type moves.
+85,sun-moon,The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+85,sword-shield,The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+85,ultra-sun-ultra-moon,The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.
+85,x-y,Weakens the power of Fire-type moves.
+86,black-2-white-2,The Pokémon is prone to wild stat changes.
+86,black-white,The Pokémon is prone to wild stat changes.
+86,diamond-pearl,The Pokémon is prone to wild stat changes.
+86,heartgold-soulsilver,The Pokémon is prone to wild stat changes.
+86,lets-go-pikachu-lets-go-eevee,The stat changes the Pokémon receives are doubled.
+86,omega-ruby-alpha-sapphire,The Pokémon is prone to wild stat changes.
+86,platinum,The Pokémon is prone to wild stat changes.
+86,scarlet-violet,Doubles the effects of the Pokémon's stat changes.
+86,sun-moon,The stat changes the Pokémon receives are doubled.
+86,sword-shield,The stat changes the Pokémon receives are doubled.
+86,ultra-sun-ultra-moon,The stat changes the Pokémon receives are doubled.
+86,x-y,The Pokémon is prone to wild stat changes.
+87,black-2-white-2,Reduces HP if it is hot. Water restores HP.
+87,black-white,Reduces HP if it is hot. Water restores HP.
+87,diamond-pearl,Reduces HP if it is hot. Water restores HP.
+87,heartgold-soulsilver,Reduces HP if it is hot. Water restores HP.
+87,lets-go-pikachu-lets-go-eevee,"Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+87,omega-ruby-alpha-sapphire,Reduces HP if it’s hot. Water restores HP.
+87,platinum,Reduces HP if it is hot. Water restores HP.
+87,scarlet-violet,"Restores the Pokémon's HP in rain or when it is hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+87,sun-moon,"Restores HP in rain or when hit by Water-type moves. Reduces HP in sunshine, and increases the damage received from Fire-type moves."
+87,sword-shield,"Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+87,ultra-sun-ultra-moon,"Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+87,x-y,Reduces HP if it’s hot. Water restores HP.
+88,black-2-white-2,Adjusts power according to a foe’s defenses.
+88,black-white,Adjusts power according to a foe’s defenses.
+88,diamond-pearl,Adjusts power according to the foe’s ability.
+88,heartgold-soulsilver,Adjusts power according to the foe’s ability.
+88,lets-go-pikachu-lets-go-eevee,Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+88,omega-ruby-alpha-sapphire,Adjusts power based on an opposing Pokémon’s stats.
+88,platinum,Adjusts power according to the foe’s ability.
+88,sun-moon,Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+88,sword-shield,Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+88,the-indigo-disk,The Pokémon compares an opposing Pokémon's Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+88,ultra-sun-ultra-moon,Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.
+88,x-y,Adjusts power based on an opposing Pokémon’s stats.
+89,black-2-white-2,Boosts the power of punching moves.
+89,black-white,Boosts the power of punching moves.
+89,diamond-pearl,Boosts the power of punching moves.
+89,heartgold-soulsilver,Boosts the power of punching moves.
+89,lets-go-pikachu-lets-go-eevee,Powers up punching moves.
+89,omega-ruby-alpha-sapphire,Powers up punching moves.
+89,platinum,Boosts the power of punching moves.
+89,scarlet-violet,Powers up punching moves.
+89,sun-moon,Powers up punching moves.
+89,sword-shield,Powers up punching moves.
+89,ultra-sun-ultra-moon,Powers up punching moves.
+89,x-y,Powers up punching moves.
+90,black-2-white-2,Restores HP if the Pokémon is poisoned.
+90,black-white,Restores HP if the Pokémon is poisoned.
+90,diamond-pearl,Restores HP if the Pokémon is poisoned.
+90,heartgold-soulsilver,Restores HP if the Pokémon is poisoned.
+90,lets-go-pikachu-lets-go-eevee,Restores HP if the Pokémon is poisoned instead of losing HP.
+90,omega-ruby-alpha-sapphire,Restores HP if the Pokémon is poisoned.
+90,platinum,Restores HP if the Pokémon is poisoned.
+90,scarlet-violet,"If poisoned, the Pokémon has its HP restored instead of taking damage."
+90,sun-moon,"Restores HP if the Pokémon is poisoned, instead of losing HP."
+90,sword-shield,Restores HP if the Pokémon is poisoned instead of losing HP.
+90,ultra-sun-ultra-moon,"Restores HP if the Pokémon is poisoned, instead of losing HP."
+90,x-y,Restores HP if the Pokémon is poisoned.
+91,black-2-white-2,Powers up moves of the same type.
+91,black-white,Powers up moves of the same type.
+91,diamond-pearl,Powers up moves of the same type.
+91,heartgold-soulsilver,Powers up moves of the same type.
+91,lets-go-pikachu-lets-go-eevee,Powers up moves of the same type as the Pokémon.
+91,omega-ruby-alpha-sapphire,Powers up moves of the same type as the Pokémon.
+91,platinum,Powers up moves of the same type.
+91,scarlet-violet,Powers up moves of the same type as the Pokémon.
+91,sun-moon,Powers up moves of the same type as the Pokémon.
+91,sword-shield,Powers up moves of the same type as the Pokémon.
+91,ultra-sun-ultra-moon,Powers up moves of the same type as the Pokémon.
+91,x-y,Powers up moves of the same type as the Pokémon.
+92,black-2-white-2,Increases the frequency of multi-strike moves.
+92,black-white,Increases the frequency of multi-strike moves.
+92,diamond-pearl,Increases the frequency of multi-strike moves.
+92,heartgold-soulsilver,Increases the frequency of multi-strike moves.
+92,lets-go-pikachu-lets-go-eevee,Maximizes the number of times multistrike moves hit.
+92,omega-ruby-alpha-sapphire,Increases the number of times multi-strike moves hit.
+92,platinum,Increases the frequency of multi-strike moves.
+92,scarlet-violet,Maximizes the number of times multistrike moves hit.
+92,sun-moon,Maximizes the number of times multi-strike moves hit.
+92,sword-shield,Maximizes the number of times multistrike moves hit.
+92,ultra-sun-ultra-moon,Maximizes the number of times multi-strike moves hit.
+92,x-y,Increases the number of times multi-strike moves hit.
+93,black-2-white-2,Heals status problems if it is raining.
+93,black-white,Heals status problems if it is raining.
+93,diamond-pearl,Heals status problems if it is raining.
+93,heartgold-soulsilver,Heals status problems if it is raining.
+93,lets-go-pikachu-lets-go-eevee,Heals status conditions if it’s raining.
+93,omega-ruby-alpha-sapphire,Heals status conditions if it’s raining.
+93,platinum,Heals status problems if it is raining.
+93,scarlet-violet,Cures the Pokémon's status conditions in rain.
+93,sun-moon,Heals status conditions if it’s raining.
+93,sword-shield,Heals status conditions if it’s raining.
+93,ultra-sun-ultra-moon,Heals status conditions if it’s raining.
+93,x-y,Heals status conditions if it’s raining.
+94,black-2-white-2,"In sunshine, Sp. Atk is boosted but HP decreases."
+94,black-white,"In sunshine, Sp. Atk is boosted but HP decreases."
+94,diamond-pearl,"Boosts Sp. Atk, but lowers HP in sunshine."
+94,heartgold-soulsilver,"Boosts Sp. Atk, but lowers HP in sunshine."
+94,lets-go-pikachu-lets-go-eevee,"Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+94,omega-ruby-alpha-sapphire,"Boosts the Sp. Atk stat in sunny weather, but HP decreases."
+94,platinum,"Boosts Sp. Atk, but lowers HP in sunshine."
+94,scarlet-violet,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn."
+94,sun-moon,"Boosts the Sp. Atk stat in sunny weather, but HP decreases every turn."
+94,sword-shield,"Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+94,ultra-sun-ultra-moon,"Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+94,x-y,"Boosts the Sp. Atk stat in sunny weather, but HP decreases."
+95,black-2-white-2,Boosts Speed if there is a status problem.
+95,black-white,Boosts Speed if there is a status problem.
+95,diamond-pearl,Boosts Speed if there is a status problem.
+95,heartgold-soulsilver,Boosts Speed if there is a status problem.
+95,lets-go-pikachu-lets-go-eevee,Boosts the Speed stat if the Pokémon has a status condition.
+95,omega-ruby-alpha-sapphire,Boosts the Speed stat if the Pokémon has a status condition.
+95,platinum,Boosts Speed if there is a status problem.
+95,scarlet-violet,Boosts the Speed stat if the Pokémon has a status condition.
+95,sun-moon,Boosts the Speed stat if the Pokémon has a status condition.
+95,sword-shield,Boosts the Speed stat if the Pokémon has a status condition.
+95,ultra-sun-ultra-moon,Boosts the Speed stat if the Pokémon has a status condition.
+95,x-y,Boosts the Speed stat if the Pokémon has a status condition.
+96,black-2-white-2,All the Pokémon’s moves become the Normal type.
+96,black-white,All the Pokémon’s moves become the Normal type.
+96,diamond-pearl,All the Pokémon’s moves become the Normal type.
+96,heartgold-soulsilver,All the Pokémon’s moves become the Normal type.
+96,lets-go-pikachu-lets-go-eevee,All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+96,omega-ruby-alpha-sapphire,All the Pokémon’s moves become Normal type.
+96,platinum,All the Pokémon’s moves become the Normal type.
+96,sun-moon,All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+96,sword-shield,All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+96,ultra-sun-ultra-moon,All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.
+96,x-y,All the Pokémon’s moves become Normal type.
+97,black-2-white-2,Powers up moves if they become critical hits.
+97,black-white,Powers up moves if they become critical hits.
+97,diamond-pearl,Powers up moves if they become critical hits.
+97,heartgold-soulsilver,Powers up moves if they become critical hits.
+97,lets-go-pikachu-lets-go-eevee,Powers up moves if they become critical hits when attacking.
+97,omega-ruby-alpha-sapphire,Powers up moves if they become critical hits.
+97,platinum,Powers up moves if they become critical hits.
+97,sun-moon,Powers up moves if they become critical hits when attacking.
+97,sword-shield,Powers up moves if they become critical hits when attacking.
+97,the-teal-mask,"If the Pokémon's attack lands a critical hit, the attack is powered up even further."
+97,ultra-sun-ultra-moon,Powers up moves if they become critical hits when attacking.
+97,x-y,Powers up moves if they become critical hits.
+98,black-2-white-2,The Pokémon only takes damage from attacks.
+98,black-white,The Pokémon only takes damage from attacks.
+98,diamond-pearl,The Pokémon only takes damage from attacks.
+98,heartgold-soulsilver,The Pokémon only takes damage from attacks.
+98,lets-go-pikachu-lets-go-eevee,The Pokémon only takes damage from attacks.
+98,omega-ruby-alpha-sapphire,The Pokémon only takes damage from attacks.
+98,platinum,The Pokémon only takes damage from attacks.
+98,sun-moon,The Pokémon only takes damage from attacks.
+98,sword-shield,The Pokémon only takes damage from attacks.
+98,the-teal-mask,The Pokémon only takes damage from attacks.
+98,ultra-sun-ultra-moon,The Pokémon only takes damage from attacks.
+98,x-y,The Pokémon only takes damage from attacks.
+99,black-2-white-2,Ensures attacks by or against the Pokémon land.
+99,black-white,Ensures attacks by or against the Pokémon land.
+99,diamond-pearl,Ensures the Pokémon and its foe’s attacks land.
+99,heartgold-soulsilver,Ensures both Pokémon’s and foe’s attacks land.
+99,lets-go-pikachu-lets-go-eevee,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+99,omega-ruby-alpha-sapphire,Ensures that attacks by or against the Pokémon will land.
+99,platinum,Ensures the Pokémon and its foe’s attacks land.
+99,scarlet-violet,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+99,sun-moon,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+99,sword-shield,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+99,ultra-sun-ultra-moon,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
+99,x-y,Ensures attacks by or against the Pokémon land.
+100,black-2-white-2,The Pokémon moves after all other Pokémon do.
+100,black-white,The Pokémon moves after all other Pokémon do.
+100,diamond-pearl,The Pokémon moves after even slower foes.
+100,heartgold-soulsilver,The Pokémon moves after even slower foes.
+100,lets-go-pikachu-lets-go-eevee,The Pokémon moves after all other Pokémon do.
+100,omega-ruby-alpha-sapphire,The Pokémon moves after all other Pokémon do.
+100,platinum,The Pokémon moves after even slower foes.
+100,scarlet-violet,The Pokémon is always the last to use its moves.
+100,sun-moon,The Pokémon moves after all other Pokémon do.
+100,sword-shield,The Pokémon moves after all other Pokémon do.
+100,ultra-sun-ultra-moon,The Pokémon moves after all other Pokémon do.
+100,x-y,The Pokémon moves after all other Pokémon do.
+101,black-2-white-2,Powers up the Pokémon’s weaker moves.
+101,black-white,Powers up the Pokémon’s weaker moves.
+101,diamond-pearl,Powers up the Pokémon’s weaker moves.
+101,heartgold-soulsilver,Powers up the Pokémon’s weaker moves.
+101,lets-go-pikachu-lets-go-eevee,Powers up the Pokémon’s weaker moves.
+101,omega-ruby-alpha-sapphire,Powers up the Pokémon’s weaker moves.
+101,platinum,Powers up the Pokémon’s weaker moves.
+101,scarlet-violet,Powers up weak moves so the Pokémon can deal more damage with them.
+101,sun-moon,Powers up the Pokémon’s weaker moves.
+101,sword-shield,Powers up the Pokémon’s weaker moves.
+101,ultra-sun-ultra-moon,Powers up the Pokémon’s weaker moves.
+101,x-y,Powers up the Pokémon’s weaker moves.
+102,black-2-white-2,Prevents problems with status in sunny weather.
+102,black-white,Prevents problems with status in sunny weather.
+102,diamond-pearl,Prevents status problems in sunny weather.
+102,heartgold-soulsilver,Prevents problems with status in sunny weather.
+102,lets-go-pikachu-lets-go-eevee,Prevents status conditions in harsh sunlight.
+102,omega-ruby-alpha-sapphire,Prevents status conditions in sunny weather.
+102,platinum,Prevents status problems in sunny weather.
+102,scarlet-violet,Prevents status conditions in harsh sunlight.
+102,sun-moon,Prevents status conditions in sunny weather.
+102,sword-shield,Prevents status conditions in harsh sunlight.
+102,ultra-sun-ultra-moon,Prevents status conditions in harsh sunlight.
+102,x-y,Prevents status conditions in sunny weather.
+103,black-2-white-2,The Pokémon can’t use any held items.
+103,black-white,The Pokémon can’t use any held items.
+103,diamond-pearl,The Pokémon can’t use any held items.
+103,heartgold-soulsilver,The Pokémon can’t use any held items.
+103,lets-go-pikachu-lets-go-eevee,The Pokémon can’t use any held items.
+103,omega-ruby-alpha-sapphire,The Pokémon can’t use any held items.
+103,platinum,The Pokémon can’t use any held items.
+103,scarlet-violet,The Pokémon can't use any held items.
+103,sun-moon,The Pokémon can’t use any held items.
+103,sword-shield,The Pokémon can’t use any held items.
+103,ultra-sun-ultra-moon,The Pokémon can’t use any held items.
+103,x-y,The Pokémon can’t use any held items.
+104,black-2-white-2,Moves can be used regardless of Abilities.
+104,black-white,Moves can be used regardless of Abilities.
+104,diamond-pearl,Moves can be used regardless of abilities.
+104,heartgold-soulsilver,Moves can be used regardless of abilities.
+104,lets-go-pikachu-lets-go-eevee,Moves can be used on the target regardless of its Abilities.
+104,omega-ruby-alpha-sapphire,Moves can be used on the target regardless of its Abilities.
+104,platinum,Moves can be used regardless of abilities.
+104,scarlet-violet,The Pokémon's moves are unimpeded by the Ability of the target.
+104,sun-moon,Moves can be used on the target regardless of its Abilities.
+104,sword-shield,Moves can be used on the target regardless of its Abilities.
+104,ultra-sun-ultra-moon,Moves can be used on the target regardless of its Abilities.
+104,x-y,Moves can be used on the target regardless of its Abilities.
+105,black-2-white-2,Heightens the critical- hit ratios of moves.
+105,black-white,Heightens the critical- hit ratios of moves.
+105,diamond-pearl,Heightens the critical-hit ratios of moves.
+105,heartgold-soulsilver,Heightens the critical- hit ratios of moves.
+105,lets-go-pikachu-lets-go-eevee,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+105,omega-ruby-alpha-sapphire,Boosts the critical-hit ratios of moves.
+105,platinum,Heightens the critical-hit ratios of moves.
+105,scarlet-violet,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+105,sun-moon,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+105,sword-shield,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+105,ultra-sun-ultra-moon,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
+105,x-y,Boosts the critical-hit ratios of moves.
+106,black-2-white-2,Damages the attacker landing the finishing hit.
+106,black-white,Damages the attacker landing the finishing hit.
+106,diamond-pearl,Damages the foe landing the finishing hit.
+106,heartgold-soulsilver,Damages the foe landing the finishing hit.
+106,lets-go-pikachu-lets-go-eevee,Damages the attacker if it contacts the Pokémon with a finishing hit.
+106,omega-ruby-alpha-sapphire,Damages the attacker landing the finishing hit.
+106,platinum,Damages the foe landing the finishing hit.
+106,scarlet-violet,Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.
+106,sun-moon,Damages the attacker if it contacts the Pokémon with a finishing hit.
+106,sword-shield,Damages the attacker if it contacts the Pokémon with a finishing hit.
+106,ultra-sun-ultra-moon,Damages the attacker if it contacts the Pokémon with a finishing hit.
+106,x-y,Damages the attacker landing the finishing hit.
+107,black-2-white-2,Senses a foe’s dangerous moves.
+107,black-white,Senses a foe’s dangerous moves.
+107,diamond-pearl,Senses the foe’s dangerous moves.
+107,heartgold-soulsilver,Senses the foe’s dangerous moves.
+107,lets-go-pikachu-lets-go-eevee,The Pokémon can sense an opposing Pokémon’s dangerous moves.
+107,omega-ruby-alpha-sapphire,Senses an opposing Pokémon’s dangerous moves.
+107,platinum,Senses the foe’s dangerous moves.
+107,scarlet-violet,The Pokémon can sense an opposing Pokémon's dangerous moves.
+107,sun-moon,The Pokémon can sense an opposing Pokémon’s dangerous moves.
+107,sword-shield,The Pokémon can sense an opposing Pokémon’s dangerous moves.
+107,ultra-sun-ultra-moon,The Pokémon can sense an opposing Pokémon’s dangerous moves.
+107,x-y,Senses an opposing Pokémon’s dangerous moves.
+108,black-2-white-2,Determines what moves a foe has.
+108,black-white,Determines what moves a foe has.
+108,diamond-pearl,Determines what moves the foe has.
+108,heartgold-soulsilver,Determines what moves the foe has.
+108,lets-go-pikachu-lets-go-eevee,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+108,omega-ruby-alpha-sapphire,Determines what moves an opposing Pokémon has.
+108,platinum,Determines what moves the foe has.
+108,scarlet-violet,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+108,sun-moon,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+108,sword-shield,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+108,ultra-sun-ultra-moon,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+108,x-y,Determines what moves an opposing Pokémon has.
+109,black-2-white-2,Ignores any stat changes in the Pokémon.
+109,black-white,Ignores any stat changes in the Pokémon.
+109,diamond-pearl,Ignores any change in ability by the foe.
+109,heartgold-soulsilver,Ignores any change in ability by the foe.
+109,lets-go-pikachu-lets-go-eevee,"When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+109,omega-ruby-alpha-sapphire,Ignores the opposing Pokémon’s stat changes.
+109,platinum,Ignores any change in ability by the foe.
+109,scarlet-violet,"When attacking, the Pokémon ignores the target's stat changes."
+109,sun-moon,"When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+109,sword-shield,"When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+109,ultra-sun-ultra-moon,"When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+109,x-y,Ignores the opposing Pokémon’s stat changes.
+110,black-2-white-2,Powers up “not very effective” moves.
+110,black-white,Powers up “not very effective” moves.
+110,diamond-pearl,Powers up “not very effective” moves.
+110,heartgold-soulsilver,Powers up “not very effective” moves.
+110,lets-go-pikachu-lets-go-eevee,The Pokémon can use “not very effective” moves to deal regular damage.
+110,omega-ruby-alpha-sapphire,Powers up “not very effective” moves.
+110,platinum,Powers up “not very effective” moves.
+110,scarlet-violet,The Pokémon can use “not very effective” moves to deal regular damage.
+110,sun-moon,The Pokémon can use “not very effective” moves to deal regular damage.
+110,sword-shield,The Pokémon can use “not very effective” moves to deal regular damage.
+110,ultra-sun-ultra-moon,The Pokémon can use “not very effective” moves to deal regular damage.
+110,x-y,Powers up “not very effective” moves.
+111,black-2-white-2,Reduces damage from supereffective attacks.
+111,black-white,Reduces damage from supereffective attacks.
+111,diamond-pearl,Powers down super­ effective moves.
+111,heartgold-soulsilver,Reduces damage from supereffective attacks.
+111,lets-go-pikachu-lets-go-eevee,Reduces the power of supereffective attacks taken.
+111,omega-ruby-alpha-sapphire,Reduces damage from supereffective attacks.
+111,platinum,Powers down super­ effective moves.
+111,scarlet-violet,Reduces the power of supereffective attacks that hit the Pokémon.
+111,sun-moon,Reduces the power of supereffective attacks taken.
+111,sword-shield,Reduces the power of supereffective attacks taken.
+111,ultra-sun-ultra-moon,Reduces the power of supereffective attacks taken.
+111,x-y,Reduces damage from supereffective attacks.
+112,black-2-white-2,Temporarily halves Attack and Speed.
+112,black-white,Temporarily halves Attack and Speed.
+112,diamond-pearl,Temporarily halves Attack and Speed.
+112,heartgold-soulsilver,Temporarily halves Attack and Speed.
+112,lets-go-pikachu-lets-go-eevee,"For five turns, the Pokémon’s Attack and Speed stats are halved."
+112,omega-ruby-alpha-sapphire,Temporarily halves the Pokémon’s Attack and Speed stats.
+112,platinum,Temporarily halves Attack and Speed.
+112,scarlet-violet,"For five turns, the Pokémon's Attack and Speed stats are halved."
+112,sun-moon,"For five turns, the Pokémon’s Attack and Speed stats are halved."
+112,sword-shield,"For five turns, the Pokémon’s Attack and Speed stats are halved."
+112,ultra-sun-ultra-moon,"For five turns, the Pokémon’s Attack and Speed stats are halved."
+112,x-y,Temporarily halves the Pokémon’s Attack and Speed stats.
+113,black-2-white-2,Enables moves to hit Ghost-type Pokémon.
+113,black-white,Enables moves to hit Ghost-type Pokémon.
+113,diamond-pearl,Enables moves to hit Ghost-type foes.
+113,heartgold-soulsilver,Enables moves to hit Ghost-type foes.
+113,lets-go-pikachu-lets-go-eevee,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+113,omega-ruby-alpha-sapphire,Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.
+113,platinum,Enables moves to hit Ghost-type foes.
+113,scarlet-violet,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.
+113,sun-moon,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+113,sword-shield,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+113,ultra-sun-ultra-moon,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.
+113,x-y,Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.
+114,black-2-white-2,Draws in all Water-type moves to up Sp. Attack.
+114,black-white,Draws in all Water-type moves to up Sp. Attack.
+114,diamond-pearl,The Pokémon draws in all Water-type moves.
+114,heartgold-soulsilver,The Pokémon draws in all Water-type moves.
+114,lets-go-pikachu-lets-go-eevee,"Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+114,omega-ruby-alpha-sapphire,Draws in all Water-type moves to boost its Sp. Atk stat.
+114,platinum,The Pokémon draws in all Water-type moves.
+114,scarlet-violet,"The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+114,sun-moon,"Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+114,sword-shield,"Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+114,ultra-sun-ultra-moon,"Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+114,x-y,Draws in all Water-type moves to boost its Sp. Atk stat.
+115,black-2-white-2,The Pokémon gradually regains HP in a hailstorm.
+115,black-white,The Pokémon gradually regains HP in a hailstorm.
+115,diamond-pearl,The Pokémon regains HP in a hailstorm.
+115,heartgold-soulsilver,The Pokémon regains HP in a hailstorm.
+115,lets-go-pikachu-lets-go-eevee,The Pokémon gradually regains HP in a hailstorm.
+115,omega-ruby-alpha-sapphire,The Pokémon gradually regains HP in a hailstorm.
+115,platinum,The Pokémon regains HP in a hailstorm.
+115,scarlet-violet,The Pokémon gradually regains HP in snow.
+115,sun-moon,The Pokémon gradually regains HP in a hailstorm.
+115,sword-shield,The Pokémon gradually regains HP in a hailstorm.
+115,ultra-sun-ultra-moon,The Pokémon gradually regains HP in a hailstorm.
+115,x-y,The Pokémon gradually regains HP in a hailstorm.
+116,black-2-white-2,Reduces damage from supereffective attacks.
+116,black-white,Reduces damage from supereffective attacks.
+116,diamond-pearl,Powers down super­ effective moves.
+116,heartgold-soulsilver,Reduces damage from supereffective attacks
+116,lets-go-pikachu-lets-go-eevee,Reduces the power of supereffective attacks taken.
+116,omega-ruby-alpha-sapphire,Reduces damage from supereffective attacks.
+116,platinum,Powers down super­ effective moves.
+116,scarlet-violet,Reduces the power of supereffective attacks that hit the Pokémon.
+116,sun-moon,Reduces the power of supereffective attacks taken.
+116,sword-shield,Reduces the power of supereffective attacks taken.
+116,ultra-sun-ultra-moon,Reduces the power of supereffective attacks taken.
+116,x-y,Reduces damage from supereffective attacks.
+117,black-2-white-2,The Pokémon summons a hailstorm in battle.
+117,black-white,The Pokémon summons a hailstorm in battle.
+117,diamond-pearl,The Pokémon summons a hailstorm in battle.
+117,heartgold-soulsilver,The Pokémon summons a hailstorm in battle.
+117,lets-go-pikachu-lets-go-eevee,The Pokémon summons a hailstorm when it enters a battle.
+117,omega-ruby-alpha-sapphire,The Pokémon summons a hailstorm when it enters a battle.
+117,platinum,The Pokémon summons a hailstorm in battle.
+117,scarlet-violet,The Pokémon makes it snow when it enters a battle.
+117,sun-moon,The Pokémon summons a hailstorm when it enters a battle.
+117,sword-shield,The Pokémon summons a hailstorm when it enters a battle.
+117,ultra-sun-ultra-moon,The Pokémon summons a hailstorm when it enters a battle.
+117,x-y,The Pokémon summons a hailstorm when it enters a battle.
+118,black-2-white-2,The Pokémon may gather Honey from somewhere.
+118,black-white,The Pokémon may gather Honey from somewhere.
+118,diamond-pearl,The Pokémon may gather Honey from somewhere.
+118,heartgold-soulsilver,The Pokémon may gather Honey from somewhere.
+118,lets-go-pikachu-lets-go-eevee,The Pokémon may gather Honey after a battle.
+118,omega-ruby-alpha-sapphire,The Pokémon may gather Honey from somewhere.
+118,platinum,The Pokémon may gather Honey from somewhere.
+118,scarlet-violet,The Pokémon may gather Honey after a battle.
+118,sun-moon,The Pokémon may gather Honey after a battle.
+118,sword-shield,The Pokémon may gather Honey after a battle.
+118,ultra-sun-ultra-moon,The Pokémon may gather Honey after a battle.
+118,x-y,The Pokémon may gather Honey from somewhere.
+119,black-2-white-2,The Pokémon can check a foe’s held item.
+119,black-white,The Pokémon can check a foe’s held item.
+119,diamond-pearl,The Pokémon can check the foe’s held item.
+119,heartgold-soulsilver,The Pokémon can check the foe’s held item.
+119,lets-go-pikachu-lets-go-eevee,"When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+119,omega-ruby-alpha-sapphire,The Pokémon can check an opposing Pokémon’s held item.
+119,platinum,The Pokémon can check the foe’s held item.
+119,scarlet-violet,"When it enters a battle, the Pokémon can check an opposing Pokémon's held item."
+119,sun-moon,"When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+119,sword-shield,"When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+119,ultra-sun-ultra-moon,"When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
+119,x-y,The Pokémon can check an opposing Pokémon’s held item.
+120,black-2-white-2,Powers up moves that have recoil damage.
+120,black-white,Powers up moves that have recoil damage.
+120,diamond-pearl,Powers up moves that have recoil damage.
+120,heartgold-soulsilver,Powers up moves that have recoil damage.
+120,lets-go-pikachu-lets-go-eevee,Powers up moves that have recoil damage.
+120,omega-ruby-alpha-sapphire,Powers up moves that have recoil damage.
+120,platinum,Powers up moves that have recoil damage.
+120,scarlet-violet,Powers up moves that have recoil damage.
+120,sun-moon,Powers up moves that have recoil damage.
+120,sword-shield,Powers up moves that have recoil damage.
+120,ultra-sun-ultra-moon,Powers up moves that have recoil damage.
+120,x-y,Powers up moves that have recoil damage.
+121,black-2-white-2,Changes type to match the held Plate.
+121,black-white,Changes type to match the held Plate.
+121,diamond-pearl,Changes type to match the held Plate.
+121,heartgold-soulsilver,Changes type to match the held Plate.
+121,lets-go-pikachu-lets-go-eevee,Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+121,omega-ruby-alpha-sapphire,Changes the Pokémon’s type to match the Plate it holds.
+121,platinum,Changes type to match the held Plate.
+121,scarlet-violet,Changes the Pokémon's type to match the plate it holds.
+121,sun-moon,Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+121,sword-shield,Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+121,ultra-sun-ultra-moon,Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.
+121,x-y,Changes the Pokémon’s type to match the Plate it holds.
+122,black-2-white-2,Powers up party Pokémon when it is sunny.
+122,black-white,Powers up party Pokémon when it is sunny.
+122,diamond-pearl,Powers up party Pokémon when it is sunny.
+122,heartgold-soulsilver,Powers up party Pokémon when it is sunny.
+122,lets-go-pikachu-lets-go-eevee,Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.
+122,omega-ruby-alpha-sapphire,Powers up party Pokémon when it is sunny.
+122,platinum,Powers up party Pokémon when it is sunny.
+122,sun-moon,Boosts the Attack and Sp. Def stats of itself and allies when it is sunny.
+122,sword-shield,Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.
+122,ultra-sun-ultra-moon,Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.
+122,x-y,Powers up party Pokémon when it is sunny.
+123,black-2-white-2,Reduces a sleeping foe’s HP.
+123,black-white,Reduces a sleeping foe’s HP.
+123,diamond-pearl,Reduces a sleeping foe’s HP.
+123,heartgold-soulsilver,Reduces a sleeping foe’s HP.
+123,lets-go-pikachu-lets-go-eevee,Reduces the HP of sleeping opposing Pokémon.
+123,omega-ruby-alpha-sapphire,Reduces the HP of sleeping opposing Pokémon.
+123,platinum,Reduces a sleeping foe’s HP.
+123,scarlet-violet,Damages opposing Pokémon that are asleep.
+123,sun-moon,Reduces the HP of sleeping opposing Pokémon.
+123,sword-shield,Reduces the HP of sleeping opposing Pokémon.
+123,ultra-sun-ultra-moon,Reduces the HP of sleeping opposing Pokémon.
+123,x-y,Reduces the HP of sleeping opposing Pokémon.
+124,black-2-white-2,Steals an item when hit by another Pokémon.
+124,black-white,Steals an item when hit by another Pokémon.
+124,lets-go-pikachu-lets-go-eevee,Steals an item from an attacker that made direct contact.
+124,omega-ruby-alpha-sapphire,Steals an item from an attacker that made direct contact.
+124,scarlet-violet,The Pokémon steals the held item from attackers that made direct contact with it.
+124,sun-moon,Steals an item from an attacker that made direct contact.
+124,sword-shield,Steals an item from an attacker that made direct contact.
+124,ultra-sun-ultra-moon,Steals an item from an attacker that made direct contact.
+124,x-y,Steals an item from an attacker that made direct contact.
+125,black-2-white-2,Removes added effects to increase move damage.
+125,black-white,Removes added effects to increase move damage.
+125,lets-go-pikachu-lets-go-eevee,Removes additional effects to increase the power of moves when attacking.
+125,omega-ruby-alpha-sapphire,Removes additional effects to increase move damage.
+125,scarlet-violet,"Removes any additional effects from the Pokémon's moves, but increases the moves' power."
+125,sun-moon,Removes additional effects to increase the power of moves when attacking.
+125,sword-shield,Removes additional effects to increase the power of moves when attacking.
+125,ultra-sun-ultra-moon,Removes additional effects to increase the power of moves when attacking.
+125,x-y,Removes additional effects to increase move damage.
+126,black-2-white-2,Makes stat changes have an opposite effect.
+126,black-white,Makes stat changes have an opposite effect.
+126,lets-go-pikachu-lets-go-eevee,Makes stat changes have an opposite effect.
+126,omega-ruby-alpha-sapphire,Makes stat changes have an opposite effect.
+126,scarlet-violet,Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them—and attempts to lower its stats will boost them.
+126,sun-moon,Makes stat changes have an opposite effect.
+126,sword-shield,Makes stat changes have an opposite effect.
+126,ultra-sun-ultra-moon,Makes stat changes have an opposite effect.
+126,x-y,Makes stat changes have an opposite effect.
+127,black-2-white-2,Makes the foe nervous and unable to eat Berries.
+127,black-white,Makes the foe nervous and unable to eat Berries.
+127,lets-go-pikachu-lets-go-eevee,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,omega-ruby-alpha-sapphire,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,scarlet-violet,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,sun-moon,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,sword-shield,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,ultra-sun-ultra-moon,Unnerves opposing Pokémon and makes them unable to eat Berries.
+127,x-y,Unnerves opposing Pokémon and makes them unable to eat Berries.
+128,black-2-white-2,When its stats are lowered its Attack increases.
+128,black-white,When its stats are lowered its Attack increases.
+128,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+128,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Attack stat when its stats are lowered.
+128,scarlet-violet,"If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply."
+128,sun-moon,Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+128,sword-shield,Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+128,ultra-sun-ultra-moon,Boosts the Pokémon’s Attack stat sharply when its stats are lowered.
+128,x-y,Boosts the Pokémon’s Attack stat when its stats are lowered.
+129,black-2-white-2,Lowers stats when HP becomes half or less.
+129,black-white,Lowers stats when HP becomes half or less.
+129,lets-go-pikachu-lets-go-eevee,Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+129,omega-ruby-alpha-sapphire,Lowers stats when HP becomes half or less.
+129,sun-moon,Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+129,sword-shield,Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+129,ultra-sun-ultra-moon,Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.
+129,x-y,Lowers stats when HP becomes half or less.
+130,black-2-white-2,May disable a move used on the Pokémon.
+130,black-white,May disable a move used on the Pokémon.
+130,lets-go-pikachu-lets-go-eevee,May disable a move used on the Pokémon.
+130,omega-ruby-alpha-sapphire,May disable a move used on the Pokémon.
+130,scarlet-violet,May disable a move that has dealt damage to the Pokémon.
+130,sun-moon,May disable a move used on the Pokémon.
+130,sword-shield,May disable a move used on the Pokémon.
+130,ultra-sun-ultra-moon,May disable a move used on the Pokémon.
+130,x-y,May disable a move used on the Pokémon.
+131,black-2-white-2,May heal an ally’s status conditions.
+131,black-white,May heal an ally’s status conditions.
+131,lets-go-pikachu-lets-go-eevee,Sometimes heals an ally’s status condition.
+131,omega-ruby-alpha-sapphire,Sometimes heals an ally’s status condition.
+131,scarlet-violet,Sometimes cures the status conditions of the Pokémon's allies.
+131,sun-moon,Sometimes heals an ally’s status condition.
+131,sword-shield,Sometimes heals an ally’s status condition.
+131,ultra-sun-ultra-moon,Sometimes heals an ally’s status condition.
+131,x-y,Sometimes heals an ally’s status condition.
+132,black-2-white-2,Reduces damage done to allies.
+132,black-white,Reduces damage done to allies.
+132,lets-go-pikachu-lets-go-eevee,Reduces damage done to allies.
+132,omega-ruby-alpha-sapphire,Reduces damage done to allies.
+132,scarlet-violet,Reduces damage dealt to allies.
+132,sun-moon,Reduces damage done to allies.
+132,sword-shield,Reduces damage done to allies.
+132,ultra-sun-ultra-moon,Reduces damage done to allies.
+132,x-y,Reduces damage done to allies.
+133,black-2-white-2,Physical attacks lower Defense and raise Speed.
+133,black-white,Physical attacks lower Defense and raise Speed.
+133,lets-go-pikachu-lets-go-eevee,Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+133,omega-ruby-alpha-sapphire,Physical attacks lower its Defense stat and raise its Speed stat.
+133,scarlet-violet,"The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted."
+133,sun-moon,Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+133,sword-shield,Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+133,ultra-sun-ultra-moon,Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.
+133,x-y,Physical attacks lower its Defense stat and raise its Speed stat.
+134,black-2-white-2,Doubles the Pokémon’s weight.
+134,black-white,Doubles the Pokémon’s weight.
+134,lets-go-pikachu-lets-go-eevee,Doubles the Pokémon’s weight.
+134,omega-ruby-alpha-sapphire,Doubles the Pokémon’s weight.
+134,scarlet-violet,Doubles the Pokémon's weight.
+134,sun-moon,Doubles the Pokémon’s weight.
+134,sword-shield,Doubles the Pokémon’s weight.
+134,ultra-sun-ultra-moon,Doubles the Pokémon’s weight.
+134,x-y,Doubles the Pokémon’s weight.
+135,black-2-white-2,Halves the Pokémon’s weight.
+135,black-white,Halves the Pokémon’s weight.
+135,lets-go-pikachu-lets-go-eevee,Halves the Pokémon’s weight.
+135,omega-ruby-alpha-sapphire,Halves the Pokémon’s weight.
+135,scarlet-violet,Halves the Pokémon's weight.
+135,sun-moon,Halves the Pokémon’s weight.
+135,sword-shield,Halves the Pokémon’s weight.
+135,ultra-sun-ultra-moon,Halves the Pokémon’s weight.
+135,x-y,Halves the Pokémon’s weight.
+136,black-2-white-2,Reduces damage when HP is full.
+136,black-white,Reduces damage when HP is full.
+136,lets-go-pikachu-lets-go-eevee,Reduces the amount of damage the Pokémon takes while its HP is full.
+136,omega-ruby-alpha-sapphire,Reduces the damage taken by the Pokémon when its HP is full.
+136,scarlet-violet,Reduces the amount of damage the Pokémon takes while its HP is full.
+136,sun-moon,Reduces the amount of damage the Pokémon takes when its HP is full.
+136,sword-shield,Reduces the amount of damage the Pokémon takes while its HP is full.
+136,ultra-sun-ultra-moon,Reduces the amount of damage the Pokémon takes when its HP is full.
+136,x-y,Reduces damage the Pokémon takes when its HP is full.
+137,black-2-white-2,Powers up physical attacks when poisoned.
+137,black-white,Powers up physical attacks when poisoned.
+137,lets-go-pikachu-lets-go-eevee,Powers up physical attacks when the Pokémon is poisoned.
+137,omega-ruby-alpha-sapphire,Powers up physical attacks when the Pokémon is poisoned.
+137,scarlet-violet,Powers up physical moves when the Pokémon is poisoned.
+137,sun-moon,Powers up physical attacks when the Pokémon is poisoned.
+137,sword-shield,Powers up physical attacks when the Pokémon is poisoned.
+137,ultra-sun-ultra-moon,Powers up physical attacks when the Pokémon is poisoned.
+137,x-y,Powers up physical attacks when the Pokémon is poisoned.
+138,black-2-white-2,Powers up special attacks when burned.
+138,black-white,Powers up special attacks when burned.
+138,lets-go-pikachu-lets-go-eevee,Powers up special attacks when the Pokémon is burned.
+138,omega-ruby-alpha-sapphire,Powers up special attacks when the Pokémon is burned.
+138,scarlet-violet,Powers up special moves when the Pokémon is burned.
+138,sun-moon,Powers up special attacks when the Pokémon is burned.
+138,sword-shield,Powers up special attacks when the Pokémon is burned.
+138,ultra-sun-ultra-moon,Powers up special attacks when the Pokémon is burned.
+138,x-y,Powers up special attacks when the Pokémon is burned.
+139,black-2-white-2,May create another Berry after one is used.
+139,black-white,May create another Berry after one is used.
+139,lets-go-pikachu-lets-go-eevee,May create another Berry after one is used.
+139,omega-ruby-alpha-sapphire,May create another Berry after one is used.
+139,scarlet-violet,May create another Berry after one is used.
+139,sun-moon,May create another Berry after one is used.
+139,sword-shield,May create another Berry after one is used.
+139,ultra-sun-ultra-moon,May create another Berry after one is used.
+139,x-y,May create another Berry after one is used.
+140,black-2-white-2,Anticipates an ally’s attack and dodges it.
+140,black-white,Anticipates an ally’s attack and dodges it.
+140,lets-go-pikachu-lets-go-eevee,Anticipates an ally’s attack and dodges it.
+140,omega-ruby-alpha-sapphire,Anticipates an ally’s attack and dodges it.
+140,scarlet-violet,The Pokémon anticipates and dodges the attacks of its allies.
+140,sun-moon,Anticipates an ally’s attack and dodges it.
+140,sword-shield,Anticipates an ally’s attack and dodges it.
+140,ultra-sun-ultra-moon,Anticipates an ally’s attack and dodges it.
+140,x-y,Anticipates an ally’s attack and dodges it.
+141,black-2-white-2,Raises one stat and lowers another.
+141,black-white,Raises one stat and lowers another.
+141,lets-go-pikachu-lets-go-eevee,Raises one stat sharply and lowers another every turn.
+141,omega-ruby-alpha-sapphire,Raises one stat and lowers another.
+141,scarlet-violet,"Every turn, one of the Pokémon's stats will be boosted sharply but another stat will be lowered."
+141,sun-moon,Raises one stat sharply and lowers another every turn.
+141,sword-shield,Raises one stat sharply and lowers another every turn.
+141,ultra-sun-ultra-moon,Raises one stat sharply and lowers another every turn.
+141,x-y,Raises one stat and lowers another.
+142,black-2-white-2,Protects the Pokémon from damage from weather.
+142,black-white,Protects the Pokémon from damage from weather.
+142,lets-go-pikachu-lets-go-eevee,"Protects the Pokémon from things like sand, hail, and powder."
+142,omega-ruby-alpha-sapphire,"Protects the Pokémon from things like sand, hail, and powder."
+142,scarlet-violet,The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.
+142,sun-moon,"Protects the Pokémon from things like sand, hail, and powder."
+142,sword-shield,"Protects the Pokémon from things like sand, hail, and powder."
+142,ultra-sun-ultra-moon,"Protects the Pokémon from things like sand, hail, and powder."
+142,x-y,"Protects the Pokémon from things like sand, hail, and powder."
+143,black-2-white-2,May poison targets when a Pokémon makes contact.
+143,black-white,May poison targets when a Pokémon makes contact.
+143,lets-go-pikachu-lets-go-eevee,May poison a target when the Pokémon makes contact.
+143,omega-ruby-alpha-sapphire,May poison a target when the Pokémon makes contact.
+143,scarlet-violet,May poison a target when the Pokémon makes contact.
+143,sun-moon,May poison a target when the Pokémon makes contact.
+143,sword-shield,May poison a target when the Pokémon makes contact.
+143,ultra-sun-ultra-moon,May poison a target when the Pokémon makes contact.
+143,x-y,May poison a target when the Pokémon makes contact.
+144,black-2-white-2,Restores a little HP when withdrawn from battle.
+144,black-white,Restores a little HP when withdrawn from battle.
+144,lets-go-pikachu-lets-go-eevee,Restores a little HP when withdrawn from battle.
+144,omega-ruby-alpha-sapphire,Restores a little HP when withdrawn from battle.
+144,scarlet-violet,The Pokémon has a little of its HP restored when withdrawn from battle.
+144,sun-moon,Restores a little HP when withdrawn from battle.
+144,sword-shield,Restores a little HP when withdrawn from battle.
+144,ultra-sun-ultra-moon,Restores a little HP when withdrawn from battle.
+144,x-y,Restores a little HP when withdrawn from battle.
+145,black-2-white-2,Protects the Pokémon from Defense-lowering attacks.
+145,black-white,Protects the Pokémon from Defense-lowering attacks.
+145,lets-go-pikachu-lets-go-eevee,Protects the Pokémon from Defense-lowering effects.
+145,omega-ruby-alpha-sapphire,Protects the Pokémon from Defense-lowering attacks.
+145,scarlet-violet,Prevents the Pokémon from having its Defense stat lowered.
+145,sun-moon,Protects the Pokémon from Defense-lowering effects.
+145,sword-shield,Protects the Pokémon from Defense-lowering effects.
+145,ultra-sun-ultra-moon,Protects the Pokémon from Defense-lowering effects.
+145,x-y,Protects the Pokémon from Defense-lowering attacks.
+146,black-2-white-2,Boosts the Pokémon’s Speed in a sandstorm.
+146,black-white,Boosts the Pokémon’s Speed in a sandstorm.
+146,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Speed stat in a sandstorm.
+146,omega-ruby-alpha-sapphire,Boosts the Pokémon’s Speed stat in a sandstorm.
+146,scarlet-violet,Boosts the Pokémon's Speed stat in a sandstorm.
+146,sun-moon,Boosts the Pokémon’s Speed stat in a sandstorm.
+146,sword-shield,Boosts the Pokémon’s Speed stat in a sandstorm.
+146,ultra-sun-ultra-moon,Boosts the Pokémon’s Speed stat in a sandstorm.
+146,x-y,Boosts the Pokémon’s Speed stat in a sandstorm.
+147,black-2-white-2,Makes status-changing moves more likely to miss.
+147,black-white,Makes status-changing moves more likely to miss.
+147,lets-go-pikachu-lets-go-eevee,Makes status moves more likely to miss.
+147,omega-ruby-alpha-sapphire,Makes status moves more likely to miss.
+147,scarlet-violet,Makes status moves more likely to miss the Pokémon.
+147,sun-moon,Makes status moves more likely to miss.
+147,sword-shield,Makes status moves more likely to miss.
+147,ultra-sun-ultra-moon,Makes status moves more likely to miss.
+147,x-y,Makes status moves more likely to miss.
+148,black-2-white-2,Boosts move power when the Pokémon moves last.
+148,black-white,Boosts move power when the Pokémon moves last.
+148,lets-go-pikachu-lets-go-eevee,Boosts move power when the Pokémon moves last.
+148,omega-ruby-alpha-sapphire,Boosts move power when the Pokémon moves after the target.
+148,scarlet-violet,Boosts the power of the Pokémon's move if it is the last to act that turn.
+148,sun-moon,Boosts move power when the Pokémon moves last.
+148,sword-shield,Boosts move power when the Pokémon moves last.
+148,ultra-sun-ultra-moon,Boosts move power when the Pokémon moves last.
+148,x-y,Boosts move power when the Pokémon moves after the target.
+149,black-2-white-2,Comes out disguised as the Pokémon in back.
+149,black-white,Comes out disguised as the Pokémon in back.
+149,lets-go-pikachu-lets-go-eevee,Comes out disguised as the Pokémon in the party’s last spot.
+149,omega-ruby-alpha-sapphire,Comes out disguised as the Pokémon in the party’s last spot.
+149,scarlet-violet,The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party.
+149,sun-moon,Comes out disguised as the Pokémon in the party’s last spot.
+149,sword-shield,Comes out disguised as the Pokémon in the party’s last spot.
+149,ultra-sun-ultra-moon,Comes out disguised as the Pokémon in the party’s last spot.
+149,x-y,Comes out disguised as the Pokémon in the party’s last spot.
+150,black-2-white-2,It transforms itself into the Pokémon it is facing.
+150,black-white,It transforms itself into the Pokémon it is facing.
+150,lets-go-pikachu-lets-go-eevee,The Pokémon transforms itself into the Pokémon it’s facing.
+150,omega-ruby-alpha-sapphire,The Pokémon transforms itself into the Pokémon it’s facing.
+150,scarlet-violet,The Pokémon transforms itself into the Pokémon it's facing.
+150,sun-moon,The Pokémon transforms itself into the Pokémon it’s facing.
+150,sword-shield,The Pokémon transforms itself into the Pokémon it’s facing.
+150,ultra-sun-ultra-moon,The Pokémon transforms itself into the Pokémon it’s facing.
+150,x-y,The Pokémon transforms itself into the Pokémon it’s facing.
+151,black-2-white-2,Passes through the foe’s barrier and strikes.
+151,black-white,Passes through the foe’s barrier and strikes.
+151,lets-go-pikachu-lets-go-eevee,"Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+151,omega-ruby-alpha-sapphire,Passes through the opposing Pokémon’s barrier and strikes.
+151,scarlet-violet,"The Pokémon's moves are unaffected by the target's barriers, substitutes, and the like."
+151,sun-moon,"Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+151,sword-shield,"Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+151,ultra-sun-ultra-moon,"Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+151,x-y,Passes through the opposing Pokémon’s barrier and strikes.
+152,black-2-white-2,Contact with this Pokémon spreads this Ability.
+152,black-white,Contact with this Pokémon spreads this Ability.
+152,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon changes the attacker’s Ability to Mummy.
+152,omega-ruby-alpha-sapphire,Contact with the Pokémon spreads this Ability.
+152,sun-moon,Contact with the Pokémon changes the attacker’s Ability to Mummy.
+152,sword-shield,Contact with the Pokémon changes the attacker’s Ability to Mummy.
+152,ultra-sun-ultra-moon,Contact with the Pokémon changes the attacker’s Ability to Mummy.
+152,x-y,Contact with the Pokémon spreads this Ability.
+153,black-2-white-2,Boosts Attack after knocking out any Pokémon.
+153,black-white,Boosts Attack after knocking out any Pokémon.
+153,lets-go-pikachu-lets-go-eevee,"The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+153,omega-ruby-alpha-sapphire,Boosts the Attack stat after knocking out any Pokémon.
+153,scarlet-violet,"When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat."
+153,sun-moon,"The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+153,sword-shield,"The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+153,ultra-sun-ultra-moon,"The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+153,x-y,Boosts the Attack stat after knocking out any Pokémon.
+154,black-2-white-2,Raises Attack when hit by a Dark-type move.
+154,black-white,Raises Attack when hit by a Dark-type move.
+154,lets-go-pikachu-lets-go-eevee,"Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+154,omega-ruby-alpha-sapphire,Boosts the Attack stat when it’s hit by a Dark-type move.
+154,scarlet-violet,"When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice."
+154,sun-moon,"Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+154,sword-shield,"Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+154,ultra-sun-ultra-moon,"Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+154,x-y,Boosts the Attack stat when it’s hit by a Dark-type move.
+155,black-2-white-2,Some move types scare it and boost its Speed.
+155,black-white,Some move types scare it and boost its Speed.
+155,lets-go-pikachu-lets-go-eevee,"Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+155,omega-ruby-alpha-sapphire,Some move types scare it and boost its Speed stat.
+155,scarlet-violet,"The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat."
+155,sun-moon,"Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+155,sword-shield,"Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+155,ultra-sun-ultra-moon,"Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+155,x-y,Some move types scare it and boost its Speed stat.
+156,black-2-white-2,Reflects status- changing moves.
+156,black-white,Reflects status- changing moves.
+156,lets-go-pikachu-lets-go-eevee,Reflects status moves instead of getting hit by them.
+156,omega-ruby-alpha-sapphire,Reflects status moves.
+156,scarlet-violet,The Pokémon reflects status moves instead of getting hit by them.
+156,sun-moon,"Reflects status moves, instead of getting hit by them."
+156,sword-shield,Reflects status moves instead of getting hit by them.
+156,ultra-sun-ultra-moon,"Reflects status moves, instead of getting hit by them."
+156,x-y,Reflects status moves.
+157,black-2-white-2,Boosts Attack when hit by a Grass-type move.
+157,black-white,Boosts Attack when hit by a Grass-type move.
+157,lets-go-pikachu-lets-go-eevee,Boosts the Attack stat if hit by a Grass-type move instead of taking damage.
+157,omega-ruby-alpha-sapphire,Boosts the Attack stat when hit by a Grass-type move.
+157,scarlet-violet,"The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted."
+157,sun-moon,"Boosts the Attack stat if hit by a Grass-type move, instead of taking damage."
+157,sword-shield,Boosts the Attack stat if hit by a Grass-type move instead of taking damage.
+157,ultra-sun-ultra-moon,"Boosts the Attack stat if hit by a Grass-type move, instead of taking damage."
+157,x-y,Boosts the Attack stat when hit by a Grass-type move.
+158,black-2-white-2,Gives priority to a status move.
+158,black-white,Gives priority to a status move.
+158,lets-go-pikachu-lets-go-eevee,Gives priority to a status move.
+158,omega-ruby-alpha-sapphire,Gives priority to a status move.
+158,scarlet-violet,Gives priority to the Pokémon's status moves.
+158,sun-moon,Gives priority to a status move.
+158,sword-shield,Gives priority to a status move.
+158,ultra-sun-ultra-moon,Gives priority to a status move.
+158,x-y,Gives priority to a status move.
+159,black-2-white-2,Boosts certain moves’ power in a sandstorm.
+159,black-white,Boosts certain moves’ power in a sandstorm.
+159,lets-go-pikachu-lets-go-eevee,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+159,omega-ruby-alpha-sapphire,Boosts certain moves’ power in a sandstorm.
+159,scarlet-violet,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+159,sun-moon,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+159,sword-shield,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+159,ultra-sun-ultra-moon,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+159,x-y,Boosts certain moves’ power in a sandstorm.
+160,black-2-white-2,Inflicts damage to the Pokémon on contact.
+160,black-white,Inflicts damage to the Pokémon on contact.
+160,lets-go-pikachu-lets-go-eevee,Inflicts damage on the attacker upon contact with iron barbs.
+160,omega-ruby-alpha-sapphire,Inflicts damage to the attacker on contact.
+160,sun-moon,Inflicts damage to the attacker on contact with iron barbs.
+160,sword-shield,Inflicts damage on the attacker upon contact with iron barbs.
+160,ultra-sun-ultra-moon,Inflicts damage to the attacker on contact with iron barbs.
+160,x-y,Inflicts damage to the attacker on contact.
+161,black-2-white-2,Changes the Pokémon’s shape when HP is halved.
+161,black-white,Changes the Pokémon’s shape when HP is halved.
+161,lets-go-pikachu-lets-go-eevee,Changes the Pokémon’s shape when HP is half or less.
+161,omega-ruby-alpha-sapphire,Changes the Pokémon’s shape when HP is half or less.
+161,sun-moon,Changes the Pokémon’s shape when HP is half or less.
+161,sword-shield,Changes the Pokémon’s shape when HP is half or less.
+161,ultra-sun-ultra-moon,Changes the Pokémon’s shape when HP is half or less.
+161,x-y,Changes the Pokémon’s shape when HP is half or less.
+162,black-2-white-2,Boosts the accuracy of its allies and itself.
+162,black-white,Boosts the accuracy of its allies and itself.
+162,lets-go-pikachu-lets-go-eevee,Boosts the accuracy of its allies and itself.
+162,omega-ruby-alpha-sapphire,Boosts the accuracy of its allies and itself.
+162,sun-moon,Boosts the accuracy of its allies and itself.
+162,sword-shield,Boosts the accuracy of its allies and itself.
+162,ultra-sun-ultra-moon,Boosts the accuracy of its allies and itself.
+162,x-y,Boosts the accuracy of its allies and itself.
+163,black-2-white-2,Moves can be used regardless of Abilities.
+163,black-white,Moves can be used regardless of Abilities.
+163,lets-go-pikachu-lets-go-eevee,Moves can be used on the target regardless of its Abilities.
+163,omega-ruby-alpha-sapphire,Moves can be used on the target regardless of its Abilities.
+163,sun-moon,Moves can be used on the target regardless of its Abilities.
+163,sword-shield,Moves can be used on the target regardless of its Abilities.
+163,the-indigo-disk,The Pokémon's moves are unimpeded by the Ability of the target.
+163,ultra-sun-ultra-moon,Moves can be used on the target regardless of its Abilities.
+163,x-y,Moves can be used on the target regardless of its Abilities.
+164,black-2-white-2,Moves can be used regardless of Abilities.
+164,black-white,Moves can be used regardless of Abilities.
+164,lets-go-pikachu-lets-go-eevee,Moves can be used on the target regardless of its Abilities.
+164,omega-ruby-alpha-sapphire,Moves can be used on the target regardless of its Abilities.
+164,sun-moon,Moves can be used on the target regardless of its Abilities.
+164,sword-shield,Moves can be used on the target regardless of its Abilities.
+164,the-indigo-disk,The Pokémon's moves are unimpeded by the Ability of the target.
+164,ultra-sun-ultra-moon,Moves can be used on the target regardless of its Abilities.
+164,x-y,Moves can be used on the target regardless of its Abilities.
+165,lets-go-pikachu-lets-go-eevee,Protects itself and its allies from attacks that limit their move choices.
+165,omega-ruby-alpha-sapphire,Protects allies from attacks that limit their move choices.
+165,scarlet-violet,Protects the Pokémon and its allies from effects that prevent the use of moves.
+165,sun-moon,Protects itself and its allies from attacks that limit their move choices.
+165,sword-shield,Protects itself and its allies from attacks that limit their move choices.
+165,ultra-sun-ultra-moon,Protects itself and its allies from attacks that limit their move choices.
+165,x-y,Protects allies from attacks that limit their move choices.
+166,lets-go-pikachu-lets-go-eevee,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+166,omega-ruby-alpha-sapphire,Prevents lowering of ally Grass-type Pokémon’s stats.
+166,scarlet-violet,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+166,sun-moon,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+166,sword-shield,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+166,ultra-sun-ultra-moon,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.
+166,x-y,Prevents lowering of ally Grass-type Pokémon’s stats.
+167,lets-go-pikachu-lets-go-eevee,Restores HP as well when the Pokémon eats a Berry.
+167,omega-ruby-alpha-sapphire,Restores HP as well when the Pokémon eats a Berry.
+167,scarlet-violet,"The Pokémon's HP is restored when it eats any Berry, in addition to the Berry's usual effect."
+167,sun-moon,Restores HP as well when the Pokémon eats a Berry.
+167,sword-shield,Restores HP as well when the Pokémon eats a Berry.
+167,ultra-sun-ultra-moon,Restores HP as well when the Pokémon eats a Berry.
+167,x-y,Restores HP as well when the Pokémon eats a Berry.
+168,lets-go-pikachu-lets-go-eevee,Changes the Pokémon’s type to the type of the move it’s about to use.
+168,omega-ruby-alpha-sapphire,Changes the Pokémon’s type to the type of the move it’s using.
+168,scarlet-violet,Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.
+168,sun-moon,Changes the Pokémon’s type to the type of the move it’s about to use.
+168,sword-shield,Changes the Pokémon’s type to the type of the move it’s about to use.
+168,ultra-sun-ultra-moon,Changes the Pokémon’s type to the type of the move it’s about to use.
+168,x-y,Changes the Pokémon’s type to the type of the move it’s using.
+169,lets-go-pikachu-lets-go-eevee,Halves the damage from physical moves.
+169,omega-ruby-alpha-sapphire,Halves damage from physical moves.
+169,scarlet-violet,Halves the damage from physical moves.
+169,sun-moon,Halves the damage from physical moves.
+169,sword-shield,Halves the damage from physical moves.
+169,ultra-sun-ultra-moon,Halves the damage from physical moves.
+169,x-y,Halves damage from physical moves.
+170,lets-go-pikachu-lets-go-eevee,The Pokémon steals the held item of a Pokémon it hits with a move.
+170,omega-ruby-alpha-sapphire,The Pokémon steals the held item of a Pokémon it hits with a move.
+170,scarlet-violet,The Pokémon steals the held item from any target it hits with a move.
+170,sun-moon,The Pokémon steals the held item of a Pokémon it hits with a move.
+170,sword-shield,The Pokémon steals the held item of a Pokémon it hits with a move.
+170,ultra-sun-ultra-moon,The Pokémon steals the held item of a Pokémon it hits with a move.
+170,x-y,The Pokémon steals the held item of a Pokémon it hits with a move.
+171,lets-go-pikachu-lets-go-eevee,Protects the Pokémon from some ball and bomb moves.
+171,omega-ruby-alpha-sapphire,Protects the Pokémon from some ball and bomb moves.
+171,scarlet-violet,Protects the Pokémon from ball and bomb moves.
+171,sun-moon,Protects the Pokémon from some ball and bomb moves.
+171,sword-shield,Protects the Pokémon from some ball and bomb moves.
+171,ultra-sun-ultra-moon,Protects the Pokémon from some ball and bomb moves.
+171,x-y,Protects the Pokémon from some ball and bomb moves.
+172,lets-go-pikachu-lets-go-eevee,Boosts the Sp. Atk stat sharply when a stat is lowered.
+172,omega-ruby-alpha-sapphire,Boosts the Sp. Atk stat when a stat is lowered.
+172,scarlet-violet,Boosts the Pokémon's Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon.
+172,sun-moon,Boosts the Sp. Atk stat sharply when a stat is lowered.
+172,sword-shield,Boosts the Sp. Atk stat sharply when a stat is lowered.
+172,ultra-sun-ultra-moon,Boosts the Sp. Atk stat sharply when a stat is lowered.
+172,x-y,Boosts the Sp. Atk stat when a stat is lowered.
+173,lets-go-pikachu-lets-go-eevee,The Pokémon’s strong jaw boosts the power of its biting moves.
+173,omega-ruby-alpha-sapphire,The Pokémon’s strong jaw gives it tremendous biting power.
+173,scarlet-violet,The Pokémon's strong jaw boosts the power of its biting moves.
+173,sun-moon,The Pokémon’s strong jaw boosts the power of its biting moves.
+173,sword-shield,The Pokémon’s strong jaw boosts the power of its biting moves.
+173,ultra-sun-ultra-moon,The Pokémon’s strong jaw boosts the power of its biting moves.
+173,x-y,The Pokémon’s strong jaw gives it tremendous biting power.
+174,lets-go-pikachu-lets-go-eevee,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+174,omega-ruby-alpha-sapphire,Normal-type moves become Ice-type moves.
+174,sun-moon,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+174,sword-shield,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+174,ultra-sun-ultra-moon,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.
+174,x-y,Normal-type moves become Ice-type moves.
+175,lets-go-pikachu-lets-go-eevee,Prevents itself and ally Pokémon from falling asleep.
+175,omega-ruby-alpha-sapphire,Prevents itself and ally Pokémon from falling asleep.
+175,scarlet-violet,Prevents the Pokémon and its allies from falling asleep.
+175,sun-moon,Prevents itself and ally Pokémon from falling asleep.
+175,sword-shield,Prevents itself and ally Pokémon from falling asleep.
+175,ultra-sun-ultra-moon,Prevents itself and ally Pokémon from falling asleep.
+175,x-y,Prevents itself and ally Pokémon from falling asleep.
+176,lets-go-pikachu-lets-go-eevee,The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.
+176,omega-ruby-alpha-sapphire,The Pokémon changes form depending on how it battles.
+176,sun-moon,"The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield."
+176,sword-shield,The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.
+176,ultra-sun-ultra-moon,"The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield."
+176,x-y,The Pokémon changes form depending on how it battles.
+177,lets-go-pikachu-lets-go-eevee,Gives priority to Flying-type moves when the Pokémon’s HP is full.
+177,omega-ruby-alpha-sapphire,Gives priority to Flying-type moves.
+177,scarlet-violet,Gives priority to the Pokémon's Flying-type moves while its HP is full.
+177,sun-moon,Gives priority to Flying-type moves when the Pokémon’s HP is full.
+177,sword-shield,Gives priority to Flying-type moves when the Pokémon’s HP is full.
+177,ultra-sun-ultra-moon,Gives priority to Flying-type moves when the Pokémon’s HP is full.
+177,x-y,Gives priority to Flying-type moves.
+178,lets-go-pikachu-lets-go-eevee,Powers up aura and pulse moves.
+178,omega-ruby-alpha-sapphire,Powers up aura and pulse moves.
+178,scarlet-violet,Powers up pulse moves.
+178,sun-moon,Powers up aura and pulse moves.
+178,sword-shield,Powers up aura and pulse moves.
+178,ultra-sun-ultra-moon,Powers up aura and pulse moves.
+178,x-y,Powers up aura and pulse moves.
+179,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Defense stat in Grassy Terrain.
+179,omega-ruby-alpha-sapphire,Boosts the Defense stat in Grassy Terrain.
+179,scarlet-violet,Boosts the Pokémon's Defense stat on Grassy Terrain.
+179,sun-moon,Boosts the Pokémon’s Defense stat in Grassy Terrain.
+179,sword-shield,Boosts the Pokémon’s Defense stat on Grassy Terrain.
+179,ultra-sun-ultra-moon,Boosts the Pokémon’s Defense stat in Grassy Terrain.
+179,x-y,Boosts the Defense stat in Grassy Terrain.
+180,lets-go-pikachu-lets-go-eevee,The Pokémon passes its item to an ally that has used up an item.
+180,omega-ruby-alpha-sapphire,The Pokémon can pass an item to an ally.
+180,scarlet-violet,The Pokémon passes its held item to an ally that has used up an item.
+180,sun-moon,The Pokémon passes its item to an ally that has used up an item.
+180,sword-shield,The Pokémon passes its item to an ally that has used up an item.
+180,ultra-sun-ultra-moon,The Pokémon passes its item to an ally that has used up an item.
+180,x-y,The Pokémon can pass an item to an ally.
+181,lets-go-pikachu-lets-go-eevee,Powers up moves that make direct contact.
+181,omega-ruby-alpha-sapphire,Powers up moves that make direct contact.
+181,scarlet-violet,Powers up moves that make direct contact.
+181,sun-moon,Powers up moves that make direct contact.
+181,sword-shield,Powers up moves that make direct contact.
+181,ultra-sun-ultra-moon,Powers up moves that make direct contact.
+181,x-y,Powers up moves that make direct contact.
+182,lets-go-pikachu-lets-go-eevee,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+182,omega-ruby-alpha-sapphire,Normal-type moves become Fairy-type moves.
+182,scarlet-violet,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+182,sun-moon,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+182,sword-shield,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+182,ultra-sun-ultra-moon,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.
+182,x-y,Normal-type moves become Fairy-type moves.
+183,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon lowers the attacker’s Speed stat.
+183,omega-ruby-alpha-sapphire,Contact with the Pokémon lowers the attacker’s Speed stat.
+183,scarlet-violet,Contact with the Pokémon lowers the attacker's Speed stat.
+183,sun-moon,Contact with the Pokémon lowers the attacker’s Speed stat.
+183,sword-shield,Contact with the Pokémon lowers the attacker’s Speed stat.
+183,ultra-sun-ultra-moon,Contact with the Pokémon lowers the attacker’s Speed stat.
+183,x-y,Contact with the Pokémon lowers the attacker’s Speed stat.
+184,lets-go-pikachu-lets-go-eevee,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.
+184,omega-ruby-alpha-sapphire,Normal-type moves become Flying-type moves.
+184,sun-moon,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.
+184,sword-shield,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.
+184,ultra-sun-ultra-moon,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.
+184,x-y,Normal-type moves become Flying-type moves.
+185,lets-go-pikachu-lets-go-eevee,Parent and child each attacks.
+185,omega-ruby-alpha-sapphire,Parent and child attack together.
+185,sun-moon,Parent and child each attacks.
+185,sword-shield,Parent and child each attacks.
+185,ultra-sun-ultra-moon,Parent and child each attacks.
+185,x-y,Parent and child attack together.
+186,lets-go-pikachu-lets-go-eevee,Powers up each Pokémon’s Dark-type moves.
+186,omega-ruby-alpha-sapphire,Powers up each Pokémon’s Dark-type moves.
+186,sun-moon,Powers up each Pokémon’s Dark-type moves.
+186,sword-shield,Powers up each Pokémon’s Dark-type moves.
+186,ultra-sun-ultra-moon,Powers up each Pokémon’s Dark-type moves.
+186,x-y,Powers up each Pokémon’s Dark-type moves.
+187,lets-go-pikachu-lets-go-eevee,Powers up each Pokémon’s Fairy-type moves.
+187,omega-ruby-alpha-sapphire,Powers up each Pokémon’s Fairy-type moves.
+187,sun-moon,Powers up each Pokémon’s Fairy-type moves.
+187,sword-shield,Powers up each Pokémon’s Fairy-type moves.
+187,ultra-sun-ultra-moon,Powers up each Pokémon’s Fairy-type moves.
+187,x-y,Powers up each Pokémon’s Fairy-type moves.
+188,lets-go-pikachu-lets-go-eevee,The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+188,omega-ruby-alpha-sapphire,The effects of “Aura” Abilities are reversed.
+188,sun-moon,The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+188,sword-shield,The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+188,ultra-sun-ultra-moon,The effects of “Aura” Abilities are reversed to lower the power of affected moves.
+188,x-y,The effects of “Aura” Abilities are reversed.
+189,lets-go-pikachu-lets-go-eevee,The Pokémon changes the weather to nullify Fire-type attacks.
+189,omega-ruby-alpha-sapphire,Affects weather and nullifies any Fire-type attacks.
+189,sun-moon,The Pokémon changes the weather to nullify Fire-type attacks.
+189,sword-shield,The Pokémon changes the weather to nullify Fire-type attacks.
+189,ultra-sun-ultra-moon,The Pokémon changes the weather to nullify Fire-type attacks.
+190,lets-go-pikachu-lets-go-eevee,The Pokémon changes the weather to nullify Water-type attacks.
+190,omega-ruby-alpha-sapphire,Affects weather and nullifies any Water-type attacks.
+190,sun-moon,The Pokémon changes the weather to nullify Water-type attacks.
+190,sword-shield,The Pokémon changes the weather to nullify Water-type attacks.
+190,ultra-sun-ultra-moon,The Pokémon changes the weather to nullify Water-type attacks.
+191,lets-go-pikachu-lets-go-eevee,The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.
+191,omega-ruby-alpha-sapphire,Affects weather and eliminates all of the Flying type’s weaknesses.
+191,sun-moon,The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.
+191,sword-shield,The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.
+191,ultra-sun-ultra-moon,The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.
+192,lets-go-pikachu-lets-go-eevee,Boosts the Defense stat when hit by an attack.
+192,scarlet-violet,Boosts the Defense stat when the Pokémon is hit by an attack.
+192,sun-moon,Boosts the Defense stat when hit by an attack.
+192,sword-shield,Boosts the Defense stat when hit by an attack.
+192,ultra-sun-ultra-moon,Boosts the Defense stat when hit by an attack.
+193,lets-go-pikachu-lets-go-eevee,The Pokémon cowardly switches out when its HP becomes half or less.
+193,sun-moon,The Pokémon cowardly switches out when its HP becomes half or less.
+193,sword-shield,The Pokémon cowardly switches out when its HP becomes half or less.
+193,ultra-sun-ultra-moon,The Pokémon cowardly switches out when its HP becomes half or less.
+194,lets-go-pikachu-lets-go-eevee,"The Pokémon, sensing danger, switches out when its HP becomes half or less."
+194,sun-moon,"The Pokémon, sensing danger, switches out when its HP becomes half or less."
+194,sword-shield,"The Pokémon, sensing danger, switches out when its HP becomes half or less."
+194,ultra-sun-ultra-moon,"The Pokémon, sensing danger, switches out when its HP becomes half or less."
+195,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+195,scarlet-violet,Boosts the Defense stat sharply when the Pokémon is hit by a Water-type move.
+195,sun-moon,Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+195,sword-shield,Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+195,ultra-sun-ultra-moon,Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.
+196,lets-go-pikachu-lets-go-eevee,The Pokémon’s attacks become critical hits if the target is poisoned.
+196,scarlet-violet,The Pokémon's attacks become critical hits if the target is poisoned.
+196,sun-moon,The Pokémon’s attacks become critical hits if the target is poisoned.
+196,sword-shield,The Pokémon’s attacks become critical hits if the target is poisoned.
+196,ultra-sun-ultra-moon,The Pokémon’s attacks become critical hits if the target is poisoned.
+197,lets-go-pikachu-lets-go-eevee,"When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+197,sun-moon,"When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+197,sword-shield,"When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+197,the-indigo-disk,"When its HP drops to half or less, the Pokémon's shell breaks and it becomes aggressive."
+197,ultra-sun-ultra-moon,"When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
+198,lets-go-pikachu-lets-go-eevee,Doubles the damage dealt to the target’s replacement if the target switches out.
+198,scarlet-violet,Doubles the damage dealt to a target that has just switched into battle.
+198,sun-moon,Doubles the damage dealt to the target’s replacement if the target switches out.
+198,sword-shield,Doubles the damage dealt to the target’s replacement if the target switches out.
+198,ultra-sun-ultra-moon,Doubles the damage dealt to the target’s replacement if the target switches out.
+199,lets-go-pikachu-lets-go-eevee,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+199,sun-moon,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+199,sword-shield,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+199,the-indigo-disk,Lowers the power of Fire-type moves that hit the Pokémon and prevents it from being burned.
+199,ultra-sun-ultra-moon,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.
+200,lets-go-pikachu-lets-go-eevee,Powers up Steel-type moves.
+200,sun-moon,Powers up Steel-type moves.
+200,sword-shield,Powers up Steel-type moves.
+200,ultra-sun-ultra-moon,Powers up Steel-type moves.
+201,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+201,scarlet-violet,Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less.
+201,sun-moon,Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+201,sword-shield,Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+201,ultra-sun-ultra-moon,Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.
+202,lets-go-pikachu-lets-go-eevee,Boosts the Pokémon’s Speed stat in a hailstorm.
+202,scarlet-violet,Boosts the Pokémon's Speed stat in snow.
+202,sun-moon,Boosts the Pokémon’s Speed stat in a hailstorm.
+202,sword-shield,Boosts the Pokémon’s Speed stat in a hailstorm.
+202,ultra-sun-ultra-moon,Boosts the Pokémon’s Speed stat in a hailstorm.
+203,lets-go-pikachu-lets-go-eevee,The Pokémon uses its moves without making contact with the target.
+203,scarlet-violet,The Pokémon uses its moves without making contact with the target.
+203,sun-moon,The Pokémon uses its moves without making contact with the target.
+203,sword-shield,The Pokémon uses its moves without making contact with the target.
+203,ultra-sun-ultra-moon,The Pokémon uses its moves without making contact with the target.
+204,lets-go-pikachu-lets-go-eevee,All sound-based moves become Water-type moves.
+204,sun-moon,All sound-based moves become Water-type moves.
+204,sword-shield,All sound-based moves become Water-type moves.
+204,the-indigo-disk,Sound-based moves become Water-type moves.
+204,ultra-sun-ultra-moon,All sound-based moves become Water-type moves.
+205,lets-go-pikachu-lets-go-eevee,Gives priority to a healing move.
+205,sun-moon,Gives priority to a healing move.
+205,sword-shield,Gives priority to a healing move.
+205,the-indigo-disk,Gives priority to the Pokémon's healing moves.
+205,ultra-sun-ultra-moon,Gives priority to a healing move.
+206,lets-go-pikachu-lets-go-eevee,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+206,sun-moon,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+206,sword-shield,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+206,the-teal-mask,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+206,ultra-sun-ultra-moon,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+207,lets-go-pikachu-lets-go-eevee,Doubles the Pokémon’s Speed stat on Electric Terrain.
+207,scarlet-violet,Doubles the Pokémon's Speed stat on Electric Terrain.
+207,sun-moon,Doubles the Pokémon’s Speed stat on Electric Terrain.
+207,sword-shield,Doubles the Pokémon’s Speed stat on Electric Terrain.
+207,ultra-sun-ultra-moon,Doubles the Pokémon’s Speed stat on Electric Terrain.
+208,lets-go-pikachu-lets-go-eevee,"When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+208,sun-moon,"When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+208,sword-shield,"When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+208,ultra-sun-ultra-moon,"When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+209,lets-go-pikachu-lets-go-eevee,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+209,scarlet-violet,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+209,sun-moon,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+209,sword-shield,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+209,ultra-sun-ultra-moon,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+210,lets-go-pikachu-lets-go-eevee,"Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
+210,scarlet-violet,"When the Pokémon knocks out a target, its bond with its Trainer is strengthened, and its Attack, Sp. Atk, and Speed stats are boosted."
+210,sun-moon,"Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
+210,sword-shield,"Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
+210,ultra-sun-ultra-moon,"Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
+211,lets-go-pikachu-lets-go-eevee,Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+211,sun-moon,Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+211,sword-shield,Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+211,ultra-sun-ultra-moon,Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.
+212,lets-go-pikachu-lets-go-eevee,The Pokémon can poison the target even if it’s a Steel or Poison type.
+212,scarlet-violet,The Pokémon can poison the target even if it's a Steel or Poison type.
+212,sun-moon,The Pokémon can poison the target even if it’s a Steel or Poison type.
+212,sword-shield,The Pokémon can poison the target even if it’s a Steel or Poison type.
+212,ultra-sun-ultra-moon,The Pokémon can poison the target even if it’s a Steel or Poison type.
+213,lets-go-pikachu-lets-go-eevee,It’s always drowsing and will never wake up. It can attack without waking up.
+213,scarlet-violet,The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state.
+213,sun-moon,It’s always drowsing and will never wake up. It can attack without waking up.
+213,sword-shield,It’s always drowsing and will never wake up. It can attack without waking up.
+213,ultra-sun-ultra-moon,It’s always drowsing and will never wake up. It can attack without waking up.
+214,lets-go-pikachu-lets-go-eevee,"Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+214,scarlet-violet,The Pokémon's majesty pressures opponents and makes them unable to use priority moves against the Pokémon or its allies.
+214,sun-moon,"Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+214,sword-shield,"Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+214,the-teal-mask,"When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+214,ultra-sun-ultra-moon,"Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+215,lets-go-pikachu-lets-go-eevee,Damages the attacker landing the finishing hit by the amount equal to its last HP.
+215,sun-moon,Damages the attacker landing the finishing hit by the amount equal to its last HP.
+215,sword-shield,Damages the attacker landing the finishing hit by the amount equal to its last HP.
+215,ultra-sun-ultra-moon,Damages the attacker landing the finishing hit by the amount equal to its last HP.
+216,lets-go-pikachu-lets-go-eevee,"When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+216,scarlet-violet,"Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself."
+216,sun-moon,"When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+216,sword-shield,"When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+216,ultra-sun-ultra-moon,"When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+217,lets-go-pikachu-lets-go-eevee,Powers up ally Pokémon’s special moves.
+217,sun-moon,Powers up ally Pokémon’s special moves.
+217,sword-shield,Powers up ally Pokémon’s special moves.
+217,the-teal-mask,Powers up ally Pokémon's special moves.
+217,ultra-sun-ultra-moon,Powers up ally Pokémon’s special moves.
+218,lets-go-pikachu-lets-go-eevee,"Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+218,scarlet-violet,"Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+218,sun-moon,"Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+218,sword-shield,"Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+218,ultra-sun-ultra-moon,"Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+219,lets-go-pikachu-lets-go-eevee,"Surprises the opposing Pokémon, making it unable to attack using priority moves."
+219,scarlet-violet,"The Pokémon dazzles its opponents, making them unable to use priority moves against the Pokémon or its allies."
+219,sun-moon,"Surprises the opposing Pokémon, making it unable to attack using priority moves."
+219,sword-shield,"Surprises the opposing Pokémon, making it unable to attack using priority moves."
+219,ultra-sun-ultra-moon,"Surprises the opposing Pokémon, making it unable to attack using priority moves."
+220,lets-go-pikachu-lets-go-eevee,Boosts its Sp. Atk stat every time a Pokémon faints.
+220,scarlet-violet,Boosts the Pokémon's Sp. Atk stat every time another Pokémon faints.
+220,sun-moon,Boosts its Sp. Atk stat every time a Pokémon faints.
+220,sword-shield,Boosts its Sp. Atk stat every time a Pokémon faints.
+220,ultra-sun-ultra-moon,Boosts its Sp. Atk stat every time a Pokémon faints.
+221,lets-go-pikachu-lets-go-eevee,Contact with the Pokémon lowers the attacker’s Speed stat.
+221,scarlet-violet,Contact with the Pokémon lowers the attacker's Speed stat.
+221,sun-moon,Contact with the Pokémon lowers the attacker’s Speed stat.
+221,sword-shield,Contact with the Pokémon lowers the attacker’s Speed stat.
+221,ultra-sun-ultra-moon,Contact with the Pokémon lowers the attacker’s Speed stat.
+222,lets-go-pikachu-lets-go-eevee,The Pokémon copies the Ability of a defeated ally.
+222,scarlet-violet,The Pokémon copies the Ability of a defeated ally.
+222,sun-moon,The Pokémon copies the Ability of a defeated ally.
+222,sword-shield,The Pokémon copies the Ability of a defeated ally.
+222,ultra-sun-ultra-moon,The Pokémon copies the Ability of a defeated ally.
+223,lets-go-pikachu-lets-go-eevee,The Pokémon copies the Ability of a defeated ally.
+223,scarlet-violet,The Pokémon copies the Ability of a defeated ally.
+223,sun-moon,The Pokémon copies the Ability of a defeated ally.
+223,sword-shield,The Pokémon copies the Ability of a defeated ally.
+223,ultra-sun-ultra-moon,The Pokémon copies the Ability of a defeated ally.
+224,lets-go-pikachu-lets-go-eevee,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+224,sun-moon,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+224,sword-shield,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+224,ultra-sun-ultra-moon,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+225,lets-go-pikachu-lets-go-eevee,Changes the Pokémon’s type to match the memory disc it holds.
+225,sun-moon,Changes the Pokémon’s type to match the memory disc it holds.
+225,sword-shield,Changes the Pokémon’s type to match the memory disc it holds.
+225,ultra-sun-ultra-moon,Changes the Pokémon’s type to match the memory disc it holds.
+226,lets-go-pikachu-lets-go-eevee,Turns the ground into Electric Terrain when the Pokémon enters a battle.
+226,scarlet-violet,Turns the ground into Electric Terrain when the Pokémon enters a battle.
+226,sun-moon,Turns the ground into Electric Terrain when the Pokémon enters a battle.
+226,sword-shield,Turns the ground into Electric Terrain when the Pokémon enters a battle.
+226,ultra-sun-ultra-moon,Turns the ground into Electric Terrain when the Pokémon enters a battle.
+227,lets-go-pikachu-lets-go-eevee,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+227,scarlet-violet,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+227,sun-moon,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+227,sword-shield,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+227,ultra-sun-ultra-moon,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
+228,lets-go-pikachu-lets-go-eevee,Turns the ground into Misty Terrain when the Pokémon enters a battle.
+228,scarlet-violet,Turns the ground into Misty Terrain when the Pokémon enters a battle.
+228,sun-moon,Turns the ground into Misty Terrain when the Pokémon enters a battle.
+228,sword-shield,Turns the ground into Misty Terrain when the Pokémon enters a battle.
+228,ultra-sun-ultra-moon,Turns the ground into Misty Terrain when the Pokémon enters a battle.
+229,lets-go-pikachu-lets-go-eevee,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+229,scarlet-violet,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+229,sun-moon,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+229,sword-shield,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+229,ultra-sun-ultra-moon,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+230,lets-go-pikachu-lets-go-eevee,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+230,sun-moon,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+230,sword-shield,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+230,ultra-sun-ultra-moon,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
+231,lets-go-pikachu-lets-go-eevee,Reduces the amount of damage the Pokémon takes while its HP is full.
+231,sun-moon,Reduces the amount of damage the Pokémon takes while its HP is full.
+231,sword-shield,Reduces the amount of damage the Pokémon takes while its HP is full.
+231,ultra-sun-ultra-moon,Reduces the amount of damage the Pokémon takes while its HP is full.
+232,lets-go-pikachu-lets-go-eevee,Reduces the power of supereffective attacks taken.
+232,sun-moon,Reduces the power of supereffective attacks taken.
+232,sword-shield,Reduces the power of supereffective attacks taken.
+232,ultra-sun-ultra-moon,Reduces the power of supereffective attacks taken.
+233,lets-go-pikachu-lets-go-eevee,Powers up moves that are super effective.
+233,sword-shield,Powers up moves that are super effective.
+233,ultra-sun-ultra-moon,Powers up moves that are super effective.
+234,scarlet-violet,Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.
+234,sword-shield,Boosts the Pokémon’s Attack stat when the Pokémon enters a battle.
+235,scarlet-violet,Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle.
+235,sword-shield,Boosts the Pokémon’s Defense stat when the Pokémon enters a battle.
+236,scarlet-violet,Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.
+236,sword-shield,Changes the Pokémon’s type to the type of the move it’s about to use.
+237,sword-shield,"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+238,sword-shield,"When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pokémon except itself."
+239,scarlet-violet,Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.
+239,sword-shield,Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+240,scarlet-violet,Bounces back only the stat-lowering effects that the Pokémon receives.
+240,sword-shield,Bounces back only the stat-lowering effects that the Pokémon receives.
+241,sword-shield,"When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+242,sword-shield,Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves.
+242,the-indigo-disk,Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.
+243,scarlet-violet,Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.
+243,sword-shield,Boosts the Pokémon’s Speed stat drastically if hit by a Fire- or Water-type move.
+244,scarlet-violet,Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+244,sword-shield,Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.
+245,scarlet-violet,The Pokémon creates a sandstorm when it's hit by an attack.
+245,sword-shield,The Pokémon creates a sandstorm when it’s hit by an attack.
+246,scarlet-violet,"The Pokémon is protected by ice scales, which halve the damage taken from special moves."
+246,sword-shield,"The Pokémon is protected by ice scales, which halve the damage taken from special moves."
+247,scarlet-violet,Ripens Berries and doubles their effect.
+247,sword-shield,Ripens Berries and doubles their effect.
+248,scarlet-violet,"The Pokémon's ice head can take a physical attack as a substitute, but the attack also changes the Pokémon's appearance. The ice will be restored when it snows."
+248,sword-shield,"The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it hails."
+249,scarlet-violet,Just being next to the Pokémon powers up moves.
+249,sword-shield,Just being next to the Pokémon powers up moves.
+250,sword-shield,Changes the Pokémon’s type depending on the terrain.
+251,sword-shield,"When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
+252,scarlet-violet,Powers up the Steel-type moves of the Pokémon and its allies.
+252,sword-shield,Powers up ally Pokémon’s Steel-type moves.
+253,sword-shield,"When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+254,sword-shield,The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact.
+255,sword-shield,Boosts the Pokémon’s Attack stat but only allows the use of the first selected move.
+256,sword-shield,"If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon’s Abilities will be nullified or will not be triggered."
+256,the-teal-mask,"While the Pokémon is in the battle, the effects of all other Pokémon's Abilities will be nullified or will not be triggered."
+257,sword-shield,Protects the Pokémon and its ally Pokémon from being poisoned.
+258,sword-shield,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn."
+258,the-teal-mask,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn."
+259,scarlet-violet,Enables the Pokémon to move first occasionally.
+259,sword-shield,Enables the Pokémon to move first occasionally.
+260,sword-shield,"If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+260,the-indigo-disk,"If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+261,scarlet-violet,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
+261,sword-shield,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
+262,scarlet-violet,Powers up Electric-type moves.
+262,sword-shield,Powers up Electric-type moves.
+263,scarlet-violet,Powers up Dragon-type moves.
+263,sword-shield,Powers up Dragon-type moves.
+264,scarlet-violet,"When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+264,sword-shield,"When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+265,scarlet-violet,"When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+265,sword-shield,"When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+266,scarlet-violet,This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability.
+266,sword-shield,This Ability combines the effects of both Calyrex’s Unnerve Ability and Glastrier’s Chilling Neigh Ability.
+267,scarlet-violet,This Ability combines the effects of both Calyrex's Unnerve Ability and Spectrier's Grim Neigh Ability.
+267,sword-shield,This Ability combines the effects of both Calyrex’s Unnerve Ability and Spectrier’s Grim Neigh Ability.
+268,scarlet-violet,Contact with the Pokémon changes the attacker's Ability to Lingering Aroma.
+269,scarlet-violet,Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.
+270,scarlet-violet,Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned.
+271,scarlet-violet,"When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats."
+272,scarlet-violet,The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.
+273,scarlet-violet,"The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted."
+274,scarlet-violet,Boosts the Pokémon's Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves.
+275,scarlet-violet,Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.
+276,scarlet-violet,Powers up Rock-type moves.
+277,scarlet-violet,"The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses."
+278,scarlet-violet,The Pokémon transforms into its Hero Form when it switches out.
+279,scarlet-violet,"When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there."
+280,scarlet-violet,"The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+281,scarlet-violet,Boosts the Pokémon's most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.
+282,scarlet-violet,Boosts the Pokémon's most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.
+283,scarlet-violet,"A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves."
+284,scarlet-violet,The power of the Pokémon's ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.
+285,scarlet-violet,The power of the Pokémon's ruinous sword lowers the Defense stats of all Pokémon except itself.
+286,scarlet-violet,The power of the Pokémon's ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.
+287,scarlet-violet,The power of the Pokémon's ruinous beads lowers the Sp. Def stats of all Pokémon except itself.
+288,scarlet-violet,Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight.
+289,scarlet-violet,Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain.
+290,scarlet-violet,"If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself."
+291,scarlet-violet,"When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time."
+292,scarlet-violet,Powers up slicing moves.
+293,scarlet-violet,"When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
+294,scarlet-violet,"When the Pokémon enters a battle, it copies an ally's stat changes."
+295,scarlet-violet,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.
+296,scarlet-violet,The mysterious tail covering the Pokémon's head makes opponents unable to use priority moves against the Pokémon or its allies.
+297,scarlet-violet,"If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage."
+298,scarlet-violet,"The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target."
+299,the-teal-mask,"The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal-type and Fighting-type moves"
+300,the-teal-mask,Lowers the evasion of opposing Pokémon by 1 stage when first sent into battle
+301,the-teal-mask,"When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP"
+302,the-teal-mask,The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move
+303,the-teal-mask,"The Pokémon's heart fills with memories, causing the Mask to shine and one of the Pokémon's stats to be boosted."
+304,the-indigo-disk,"When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form."
+305,the-indigo-disk,The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
+306,the-indigo-disk,"When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
+307,the-indigo-disk,Pokémon poisoned by Pecharunt's moves will also become confused.
