@@ -1,5 +1,6 @@
 const IMAGE_DIR = "Pokemon images";
 const UNDISCOVERED_GROUP_ID = 15;
+const DITTO_GROUP_ID = 13;
 const POKE_COUNT = POKEMON_DATA.pokemon.length;
 const ALL_INDICES = Array.from({ length: POKE_COUNT }, (_, i) => i);
 const ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"];
@@ -41,6 +42,11 @@ function canBreed(pokeA, pokeB) {
   }
   if (pokeA.eggGroups.includes(UNDISCOVERED_GROUP_ID) || pokeB.eggGroups.includes(UNDISCOVERED_GROUP_ID)) {
     return { result: false, reason: "Undiscovered egg group" };
+  }
+  // Ditto is its own egg group (shared with nothing else), but in the real games it can
+  // breed with any Pokemon outside the Undiscovered group, not just other Ditto.
+  if (pokeA.eggGroups.includes(DITTO_GROUP_ID) || pokeB.eggGroups.includes(DITTO_GROUP_ID)) {
+    return { result: true, reason: "Ditto can breed with any Pokémon outside the Undiscovered egg group" };
   }
   const shared = pokeA.eggGroups.some(g => pokeB.eggGroups.includes(g));
   return {
@@ -92,11 +98,14 @@ const EVOLUTION_INDICES = POKEMON_DATA.pokemon
   .map((p, i) => (p.evolvesFrom || (p.evolvesInto && p.evolvesInto.length) ? i : -1))
   .filter(i => i >= 0);
 
-const categoryCounts = {};
-POKEMON_DATA.pokemon.forEach(p => { categoryCounts[p.category] = (categoryCounts[p.category] || 0) + 1; });
-const CATEGORY_UNIQUE_INDICES = POKEMON_DATA.pokemon
-  .map((p, i) => (categoryCounts[p.category] === 1 ? i : -1))
-  .filter(i => i >= 0);
+// Many Pokedex categories are shared by more than one Pokemon (e.g. Drifloon and Qwilfish
+// are both "Balloon Pokemon"). Rather than excluding every Pokemon with a shared category
+// from the quiz, we track every name that shares each category so any of them counts as
+// a correct answer — same approach as the Move Set and Location quizzes.
+const CATEGORY_TO_NAMES = {};
+POKEMON_DATA.pokemon.forEach(p => {
+  (CATEGORY_TO_NAMES[p.category] = CATEGORY_TO_NAMES[p.category] || []).push(p.name);
+});
 
 const STAT_ITEMS = [
   { key: "hp", label: "HP" },
@@ -112,14 +121,29 @@ const ALL_MOVE_INDICES = Array.from({ length: ALL_MOVES.length }, (_, i) => i);
 const ALL_ITEMS = POKEMON_DATA.items;
 const ALL_ITEM_INDICES = Array.from({ length: ALL_ITEMS.length }, (_, i) => i);
 
-// TMs, HMs, and the Scarlet/Violet crafting materials Pokemon drop when defeated all reuse
-// a small handful of generic icons (e.g. 260 different materials share just 2 sprites
+// TMs, HMs, TRs, and the Scarlet/Violet crafting materials Pokemon drop when defeated all
+// reuse a small handful of generic icons (e.g. 260 different materials share just 2 sprites
 // between them), so guessing the exact item from its icon alone isn't a fair question for
 // these — excluded from the Item Icon pool only; they're still fair game for Item Quiz,
 // which goes by description text instead.
-const ITEM_ICON_EXCLUDED_CATEGORIES = ["technical-machines", "hidden-machines", "tm-materials"];
+const ITEM_ICON_EXCLUDED_CATEGORIES = ["technical-machines", "hidden-machines", "tm-materials", "technical-records"];
+// Same reasoning for these name-based families: every SV DLC legendary "Treat" shares one
+// icon, every numbered "Data Card" shares one icon, and every nature Mint shares one of
+// just a handful of recolored icons — none of them distinguishable from their icon alone.
+const ITEM_ICON_EXCLUDED_NAME_PATTERNS = [/ Treat$/, /^Data Card \d+$/, /^\w+ Mint$/];
+// The Picnic feature's cosmetic customization items (tablecloths, chairs, cups, bottles,
+// dishes, picks, balls) are almost all recolors of the same handful of icons — 102 of the
+// 113 Picnic items share just 2 sprites. The actual sandwich ingredients in this category
+// (Ham, Banana, Noodles, etc.) each have their own distinct icon, so they stay in the pool.
+const PICNIC_COSMETIC_NAME_RE = /(Chairs|Tablecloth|Cup|Bottle|Dish|Pick|Ball|Set)$/;
 const ITEM_ICON_INDICES = ALL_ITEMS
-  .map((it, i) => (it.spriteUrl && !ITEM_ICON_EXCLUDED_CATEGORIES.includes(it.category) ? i : -1))
+  .map((it, i) => {
+    if (!it.spriteUrl) return -1;
+    if (ITEM_ICON_EXCLUDED_CATEGORIES.includes(it.category)) return -1;
+    if (ITEM_ICON_EXCLUDED_NAME_PATTERNS.some(re => re.test(it.name))) return -1;
+    if (it.category === "picnic-items" && PICNIC_COSMETIC_NAME_RE.test(it.name)) return -1;
+    return i;
+  })
   .filter(i => i >= 0);
 
 const GROWTH_RATE_ITEMS = ["Erratic", "Fast", "Medium Fast", "Medium Slow", "Slow", "Fluctuating"]
@@ -592,11 +616,16 @@ function buildForeignNameQuestion(queue) {
 
 function buildCategoryToNameQuestion(queue) {
   const poke = POKEMON_DATA.pokemon[queue.next()];
+  const validNames = CATEGORY_TO_NAMES[poke.category];
   return {
     poke,
     promptText: `"${poke.category}"`,
     checkAnswer(raw) {
-      return { correct: answersMatch(raw, poke.name), correctDisplay: poke.name };
+      const correct = validNames.some(name => answersMatch(raw, name));
+      const shownNames = validNames.length > 12
+        ? `${validNames.slice(0, 12).join(", ")}, and ${validNames.length - 12} more`
+        : validNames.join(", ");
+      return { correct, correctDisplay: shownNames };
     },
   };
 }
@@ -720,6 +749,14 @@ function buildNatdexQuestion(queue) {
   };
 }
 
+// Easy-difficulty variant of the National Dex # quiz: instead of typing the exact number,
+// pick it from four choices.
+function buildNatdexEasyQuestion(queue) {
+  const poke = POKEMON_DATA.pokemon[queue.next()];
+  const universe = POKEMON_DATA.pokemon.map(p => ({ key: p.id, label: String(p.id) }));
+  return finalizeMcq(poke, { key: poke.id, label: String(poke.id) }, universe, {});
+}
+
 function buildLocationQuestion(queue) {
   const poke = POKEMON_DATA.pokemon[queue.next()];
   return {
@@ -735,6 +772,15 @@ function buildLocationQuestion(queue) {
 }
 
 // ---------- Quiz definitions ----------
+
+// Shared difficulty options for the four "compare" quizzes (Height, Weight, Base Stats,
+// Stat Battle): Easy pairs are far apart in value (an easy call), Hard pairs are close
+// together (a real judgment call), Normal doesn't filter by gap at all.
+const COMPARE_DIFFICULTY_LEVELS = [
+  { key: "easy", label: "Easy" },
+  { key: "normal", label: "Normal" },
+  { key: "hard", label: "Hard" },
+];
 
 const QUIZ_DEFS = {
   breed: {
@@ -876,7 +922,12 @@ const QUIZ_DEFS = {
     questionText: "What is this Pokémon's National Dex number?",
     build: buildNatdexQuestion,
     answerOptions: ALL_NDEX_NUMBER_STRINGS,
-    explain: (data, correctDisplay) => `${data.poke.name} is National Dex #${correctDisplay}.`,
+    explain: data => `${data.poke.name} is National Dex #${data.poke.id}.`,
+    difficultyLevels: [
+      { key: "easy", label: "Easy (multiple choice)" },
+      { key: "hard", label: "Hard (type the number)" },
+    ],
+    defaultDifficulty: "hard",
   },
   location: {
     label: "Location",
@@ -970,7 +1021,7 @@ const QUIZ_DEFS = {
     title: "Name That Pokémon",
     subtitle: "Given only its Pokédex category, type the Pokémon's name.",
     kind: "typein",
-    makeQueue: () => createItemQueue(CATEGORY_UNIQUE_INDICES),
+    makeQueue: () => createItemQueue(ALL_INDICES),
     questionText: "Which Pokémon has this Pokédex category?",
     build: buildCategoryToNameQuestion,
     answerOptions: ALL_POKEMON_NAMES,
@@ -1045,6 +1096,8 @@ const QUIZ_DEFS = {
     getValue: poke => poke.weightKg,
     formatValue: v => `${v} kg`,
     compareWord: "heavier",
+    difficultyLevels: COMPARE_DIFFICULTY_LEVELS,
+    defaultDifficulty: "normal",
   },
   height: {
     label: "Height",
@@ -1057,6 +1110,8 @@ const QUIZ_DEFS = {
     getValue: poke => poke.heightM,
     formatValue: v => `${v} m`,
     compareWord: "taller",
+    difficultyLevels: COMPARE_DIFFICULTY_LEVELS,
+    defaultDifficulty: "normal",
   },
   statTotal: {
     label: "Base Stats",
@@ -1069,6 +1124,8 @@ const QUIZ_DEFS = {
     getValue: poke => poke.statTotal,
     formatValue: v => `${v} BST`,
     compareWord: "higher (base stat total)",
+    difficultyLevels: COMPARE_DIFFICULTY_LEVELS,
+    defaultDifficulty: "normal",
   },
   compareStat: {
     label: "Stat Battle",
@@ -1081,6 +1138,8 @@ const QUIZ_DEFS = {
     getValue: (poke, data) => poke.stats[data.statKey],
     formatValue: v => `${v}`,
     compareWord: data => `higher ${data.statLabel}`,
+    difficultyLevels: COMPARE_DIFFICULTY_LEVELS,
+    defaultDifficulty: "normal",
   },
 };
 
@@ -1136,11 +1195,72 @@ Object.entries(modeState).forEach(([key, state]) => {
   state.streak.onBreak = () => state.queue.reset();
 });
 
-let currentDisplayMode = "breed";
+let currentDisplayMode = "daily";
 let currentQuestion = null;
 
 function resolveText(textOrFn, data) {
   return typeof textOrFn === "function" ? textOrFn(data) : textOrFn;
+}
+
+// ---------- Difficulty ----------
+// Difficulty is per-quiz and persisted locally. It only applies to standalone quiz mode —
+// Ultimate always mixes at full randomness, and the Daily Challenge must stay identical for
+// every player on a given day, so neither one lets a personal difficulty preference change
+// what gets asked.
+
+const DIFFICULTY_STORAGE_PREFIX = "doTheyBreed.difficulty.";
+
+function getDifficulty(key) {
+  const def = QUIZ_DEFS[key];
+  if (!def.difficultyLevels) return null;
+  return localStorage.getItem(DIFFICULTY_STORAGE_PREFIX + key) || def.defaultDifficulty;
+}
+
+function setDifficulty(key, level) {
+  localStorage.setItem(DIFFICULTY_STORAGE_PREFIX + key, level);
+}
+
+// Resolves a quiz definition to its difficulty-adjusted form for standalone play. Only
+// National Dex # currently swaps its question shape (typed number vs. multiple choice);
+// the compare quizzes keep their normal shape and are adjusted via buildQuestionData instead.
+function getEffectiveDef(key) {
+  const def = QUIZ_DEFS[key];
+  if (key === "natdexNumber" && getDifficulty(key) === "easy") {
+    return Object.assign({}, def, { kind: "mcq", build: buildNatdexEasyQuestion });
+  }
+  return def;
+}
+
+// How close two compared values are, from 0 (very different) to 1 (identical/tied).
+function compareGapRatio(def, data) {
+  const valA = def.getValue(data.a, data);
+  const valB = def.getValue(data.b, data);
+  const lo = Math.min(valA, valB);
+  const hi = Math.max(valA, valB);
+  return hi === 0 ? 1 : lo / hi;
+}
+
+function acceptCompareQuestion(def, data, difficultyKey) {
+  const valA = def.getValue(data.a, data);
+  const valB = def.getValue(data.b, data);
+  if (valA === valB) return false; // ties are never asked, regardless of difficulty
+  if (difficultyKey === "hard") return compareGapRatio(def, data) >= 0.85;
+  if (difficultyKey === "easy") return compareGapRatio(def, data) <= 0.5;
+  return true; // "normal" (or no difficulty set, e.g. Ultimate/Daily) — any non-tie pair
+}
+
+// Builds one question's data, redrawing from the queue as needed to avoid ties in compare
+// quizzes (and, for standalone play, to honor the selected difficulty's value-gap target).
+// Bails out after a generous number of tries so an unusual queue state can never hang.
+function buildQuestionData(def, queue, difficultyKey) {
+  if (def.kind !== "compare") return def.build(queue);
+  let data;
+  let guard = 0;
+  do {
+    data = def.build(queue);
+    guard++;
+  } while (!acceptCompareQuestion(def, data, difficultyKey) && guard < 500);
+  return data;
 }
 
 function renderYesNo(def, data) {
@@ -1230,6 +1350,7 @@ function renderTypeIn(def, data) {
 }
 
 function renderQuestionByKind(def, data) {
+  clearAutoAdvanceTimer();
   qEl.pairing.innerHTML = "";
   qEl.choices.innerHTML = "";
   qEl.result.innerHTML = "";
@@ -1245,10 +1366,12 @@ function renderQuestionByKind(def, data) {
 }
 
 function loadQuestion() {
-  const effectiveKey = currentDisplayMode === "ultimate" ? pick(QUIZ_KEYS) : currentDisplayMode;
-  const def = QUIZ_DEFS[effectiveKey];
-  const queue = currentDisplayMode === "ultimate" ? ultimateSubQueues[effectiveKey] : modeState[effectiveKey].queue;
-  const data = def.build(queue);
+  const isStandalone = currentDisplayMode !== "ultimate";
+  const effectiveKey = isStandalone ? currentDisplayMode : pick(QUIZ_KEYS);
+  const def = isStandalone ? getEffectiveDef(effectiveKey) : QUIZ_DEFS[effectiveKey];
+  const queue = isStandalone ? modeState[effectiveKey].queue : ultimateSubQueues[effectiveKey];
+  const difficultyKey = isStandalone ? getDifficulty(effectiveKey) : null;
+  const data = buildQuestionData(def, queue, difficultyKey);
 
   currentQuestion = { key: effectiveKey, def, data, answered: false };
   renderQuestionByKind(def, data);
@@ -1279,6 +1402,7 @@ function finishQuestion(guessedCorrectly, explainText) {
     <span class="explain">${explainText}</span>
   `;
   qEl.btnNext.classList.add("visible");
+  scheduleAutoAdvance();
 }
 
 function handleYesNoAnswer(guessYes) {
@@ -1460,7 +1584,7 @@ function generateDailyQuestions(dateStr) {
       const key = pick(QUIZ_KEYS);
       const def = QUIZ_DEFS[key];
       const queue = def.makeQueue();
-      const data = def.build(queue);
+      const data = buildQuestionData(def, queue, null);
       questions.push({ key, data });
     }
     return questions;
@@ -1528,6 +1652,7 @@ function finishDailyQuestion(guessedCorrectly, explainText) {
   qEl.btnNext.textContent = dailyState.results.length >= DAILY_QUESTION_COUNT ? "See Results" : "Next Question";
   qEl.btnNext.classList.add("visible");
   updateDailyProgressUI();
+  scheduleAutoAdvance();
 }
 
 function advanceDaily() {
@@ -1550,6 +1675,7 @@ function buildDailyShareText() {
 }
 
 function renderDailyResults() {
+  clearAutoAdvanceTimer();
   qEl.dailyProgress.innerHTML = "";
   qEl.pairing.innerHTML = "";
   qEl.choices.innerHTML = "";
@@ -1626,13 +1752,89 @@ function initDailyChallenge() {
   }
 }
 
+// ---------- Difficulty & auto-advance controls ----------
+
+const quizPanelEl = document.getElementById("quizPanel");
+
+const difficultyControlEl = document.createElement("div");
+difficultyControlEl.className = "difficulty-control";
+quizPanelEl.insertBefore(difficultyControlEl, qEl.streaksBox);
+
+function renderDifficultyControl(mode) {
+  difficultyControlEl.innerHTML = "";
+  const def = mode !== "ultimate" && mode !== "daily" ? QUIZ_DEFS[mode] : null;
+  if (!def || !def.difficultyLevels) {
+    difficultyControlEl.style.display = "none";
+    return;
+  }
+  difficultyControlEl.style.display = "flex";
+  const label = document.createElement("span");
+  label.className = "difficulty-label";
+  label.textContent = "Difficulty:";
+  difficultyControlEl.appendChild(label);
+  const current = getDifficulty(mode);
+  def.difficultyLevels.forEach(level => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "difficulty-btn" + (level.key === current ? " active" : "");
+    btn.textContent = level.label;
+    btn.addEventListener("click", () => {
+      if (getDifficulty(mode) === level.key) return;
+      setDifficulty(mode, level.key);
+      renderDifficultyControl(mode);
+      loadQuestion();
+    });
+    difficultyControlEl.appendChild(btn);
+  });
+}
+
+// All randomness in the app funnels through activeRng, but this timer is real wall-clock
+// time — deliberately so, since it's a UI convenience, not something the Daily Challenge's
+// determinism depends on.
+const AUTO_ADVANCE_MS = 3000;
+let autoAdvanceEnabled = localStorage.getItem("doTheyBreed.autoAdvance") === "true";
+let autoAdvanceTimer = null;
+
+function clearAutoAdvanceTimer() {
+  if (autoAdvanceTimer) {
+    clearTimeout(autoAdvanceTimer);
+    autoAdvanceTimer = null;
+  }
+}
+
+function scheduleAutoAdvance() {
+  clearAutoAdvanceTimer();
+  if (!autoAdvanceEnabled) return;
+  autoAdvanceTimer = setTimeout(() => {
+    autoAdvanceTimer = null;
+    qEl.btnNext.click();
+  }, AUTO_ADVANCE_MS);
+}
+
+const autoAdvanceControlEl = document.createElement("label");
+autoAdvanceControlEl.className = "auto-advance-toggle";
+const autoAdvanceCheckboxEl = document.createElement("input");
+autoAdvanceCheckboxEl.type = "checkbox";
+autoAdvanceCheckboxEl.checked = autoAdvanceEnabled;
+autoAdvanceCheckboxEl.addEventListener("change", () => {
+  autoAdvanceEnabled = autoAdvanceCheckboxEl.checked;
+  localStorage.setItem("doTheyBreed.autoAdvance", String(autoAdvanceEnabled));
+  if (!autoAdvanceEnabled) clearAutoAdvanceTimer();
+  else if (currentQuestion && currentQuestion.answered) scheduleAutoAdvance();
+});
+autoAdvanceControlEl.appendChild(autoAdvanceCheckboxEl);
+autoAdvanceControlEl.appendChild(document.createTextNode(" Auto-advance next question (3s)"));
+quizPanelEl.insertBefore(autoAdvanceControlEl, qEl.btnNext);
+
 // ---------- Mode switcher ----------
 
 function selectMode(mode) {
+  clearAutoAdvanceTimer();
   currentDisplayMode = mode;
   [...modeSwitcher.children].forEach(btn => btn.classList.toggle("active", btn.dataset.mode === mode));
   qEl.streaksBox.style.display = mode === "daily" ? "none" : "flex";
   qEl.dailyProgress.style.display = mode === "daily" ? "block" : "none";
+  renderDifficultyControl(mode);
 
   if (mode === "ultimate") {
     pageTitle.textContent = "★ Ultimate Quiz";
@@ -1679,4 +1881,4 @@ modeSwitcher.appendChild(ultBtn);
 
 // ---------- Init ----------
 
-selectMode("breed");
+selectMode("daily");
